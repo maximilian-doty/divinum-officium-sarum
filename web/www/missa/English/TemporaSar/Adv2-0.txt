@@ -1,0 +1,73 @@
+[Officium]
+Second Sunday of Advent
+
+[Rule]
+no Gloria
+Credo
+Suffr=Maria1;;
+
+[Introitus]
+!Is 30:30
+v. People of Sion! Behold, the Lord shall come to save the nations: and the Lord shall cause His glorious voice to be heard, in the gladness of your heart.
+!Ps 79:2
+Hear, O Shepherd of Israel, Thou that leadest Joseph like a sheep.
+&Gloria
+v. People of Sion! Behold, the Lord shall come to save the nations: and the Lord shall cause His glorious voice to be heard, in the gladness of your heart.
+
+[Oratio]
+Stir up, O Lord, our hearts to prepare the way of Thy Only-Begotten: that by His coming we may be counted worthy to serve Thee with purified hearts.
+$Qui tecum
+
+[Lectio]
+Lesson from the letter of St. Paul the Apostle to the Romans
+!Rom 15:4-13
+Brethren: Whatever things have been written have been written for our instruction, that through the patience and the consolation afforded by the Scriptures we may have hope. May then the God of patience and of comfort grant you to be of one mind towards one another according to Jesus Christ; that, one in spirit, you may with one mouth glorify the God and Father of our Lord Jesus Christ. Wherefore receive one another, even as Christ has received you to the honor of God. For I say that Christ Jesus has been a minister of the circumcision in order to show God’s fidelity in confirming the promises made to our fathers, but that the Gentiles glorify God because of His mercy, as it is written, Therefore will I praise You among the Gentiles, and will sing to Your name. And again He says, Rejoice, you Gentiles, with His people. And again, Praise the Lord, all you Gentiles; and sing His praises, all you peoples. And again Isaias says, There shall be the root of Jesse, and He Who shall arise to rule the Gentiles... in Him the Gentiles shall hope. Now may the God of hope fill you with all joy and peace in believing, that you may abound in hope and in the power of the Holy Spirit.
+
+[Graduale]
+!Ps 49:2; 49:5
+Out of Sion hath God appeared in perfect beauty.
+V. Gather My saints together unto Me: those that have made a covenant with Me with sacrifice. Alleluia, alleluia.
+!Luke 21:27
+V. For the powers of heaven shall be shaken: and then shall they see the Son of Man coming in the clouds of heaven with power and great glory. Alleluia.
+
+[GradualeF]
+!Ps 49:2; 49:5
+Out of Sion hath God appeared in perfect beauty.
+V. Gather My saints together unto Me: those that have made a covenant with Me with sacrifice.
+
+[Sequentia]
+Reception giving to the King eternal, devout assembly, shout aloud;
+To the Creator give His honour due, to Whom the heavenly hosts sing praise:
+Enlightened as they look upon His Face, for Whom all living souls do wait
+Till they at His command shall stand for trial.
+In all His judgments strict and terrible, yet in His mightiness remembering mercy,
+Save us, O Christ, of Thy vast clemency, Who for our sake didst suffer agony.
+Raise to the stars that brightly gleam above us the world which Thou dost cleanse from its pollution.
+Let Thy saving health appear scattering perils far and near,
+Give purity to all, give peace, we pray.
+So we that here are saved by Thy pity, may reach with joy Thy realm above hereafter,
+Where Thou in Majesty dost reign for ever!
+
+[Evangelium]
+The continuation of the holy Gospel according to Luke
+!Luke 21:25-33
+At that time, Jesus said to His disciples: There will be signs in the sun and moon and stars, and upon the earth distress of nations bewildered by the roaring of sea and waves; men fainting for fear and for expectation of the things that are coming on the world; for the powers of heaven will be shaken. And then they will see the Son of Man coming upon a cloud with great power and majesty. But when these things begin to come to pass, look up, and lift up your heads, because your redemption is at hand. And He spoke to them a parable. Behold the fig tree, and all the trees. When they now put forth their buds, you know that summer is near. Even so, when you see these things coming to pass, know that the kingdom of God is near. Amen I say to you, this generation will not pass away till all things have been accomplished. Heaven and earth will pass away, but My words will not pass away.
+
+[Offertorium]
+!Ps 84:7-8
+Wilt Thou not turn again, and quicken us: that Thy people may rejoice in Thee? Shew us Thy mercy, O Lord: and grant us Thy salvation.
+/:The following verses are said through the ferias of the week, not on the Sunday.:/
+V. Lord, Thou art become gracious unto Thy land: Thou hast turned away the captivity of Jacob: Thou hast forgiven the offence of Thy people.
+V. Mercy and truth are met together: truth shall flourish out of the earth, and righteousness hath looked down from heaven.
+
+[Secreta]
+Graciously accept, O Lord, we beseech Thee, our humble prayers and oblations: and forasmuch as our merits avail nothing, succour us with Thy protection.
+$Per Dominum
+
+[Communio]
+!Bar 5:5; 4:36
+Arise, O Jerusalem, and stand on high, and behold the joy that cometh to thee from thy God.
+
+[Postcommunio]
+Refreshed with the meat and drink of spiritual nourishment, we humbly beseech Thee, O Lord, that by the participation of this mystery Thou wilt teach us to despise earthly things, and to love heavenly things.
+$Per Dominum

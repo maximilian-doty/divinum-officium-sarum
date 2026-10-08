@@ -88,7 +88,7 @@ sub specials {
 
       if (
            ($rule =~ /omit.*\b$label\b/i)
-        || (($version =~ /1570/) && ($item =~ /( Leo| Leó| Лева)/i))    # omit Leonine prayers issue #367
+        || (($version =~ /1570|Sarum/) && ($item =~ /( Leo| Leó| Лева)/i))    # omit Leonine prayers issue #367
       ) {
         # Skip omitted section
         $tind++ while ($tind < @t && $t[$tind] !~ $section_regex);
@@ -198,7 +198,7 @@ sub oratio {
   }
 
   # Special processing for Common of Supreme Pontiffs.
-  if ($version !~ /Trident/i && (my ($plural, $class, $name) = papal_rule($w{Rule}))) {
+  if ($version !~ /Trident|Sarum/i && (my ($plural, $class, $name) = papal_rule($w{Rule}))) {
     $w = papal_prayer($lang, $plural, $class, $name, $type);
     setbuild2("$type Gregem tuum");
   }
@@ -527,7 +527,7 @@ sub getcommemoratio {
   }
 
   # Special processing for Common of Supreme Pontiffs.
-  if ($version !~ /Trident/i && (my ($plural, $class, $name) = papal_rule($w{Rule}))) {
+  if ($version !~ /Trident|Sarum/i && (my ($plural, $class, $name) = papal_rule($w{Rule}))) {
     $o = papal_prayer($lang, $plural, $class, $name, $type);
   }
   if (!$o) { return ''; }
@@ -708,7 +708,7 @@ sub checksuffragium {
   if ($winner =~ /sancti/i && $rank >= 3 && $seasonalflag && $winner !~ /01-05/) { return 0; }
   if ($commemoratio =~ /sancti/i && $commemoratio{Rank} =~ /;duplex/i && $seasonalflag) { return 0; }
   if ($winner{Rank} =~ /octav/i && $winner{Rank} !~ /post Octavam/i) { return 0; }
-  if ($duplex > 2 && $version !~ /trident/i && $seasonalflag) { return 0; }
+  if ($duplex > 2 && $version !~ /trident|Sarum/i && $seasonalflag) { return 0; }
   return 1;
 }
 
@@ -981,7 +981,7 @@ sub graduale : ScriptFunc {
 
   if (exists($winner{Sequentia})) {
     $t .= "_\n!!Sequentia\n" . getitem('Sequentia', $lang);
-  } elsif ($communerule =~ /Sequentia/i && exists($commune{Sequentia})) {
+  } elsif (($communerule =~ /Sequentia/i || $version =~ /Sarum/i) && exists($commune{Sequentia})) {
     my %c = columnsel($lang) ? %commune : %commune2;
     $t .= "_\n!!Sequentia\n" . $c{Sequentia};
   }
@@ -1203,7 +1203,7 @@ sub Ultimaev : ScriptFunc {
       !exists($win{'Ultima Evangelium'})
       && ( !exists($com{Evangelium})
         || $com{Rule} =~ /Evangelium non appropriatum/
-        || ($version =~ /Trident/i && $comlat{Rank} !~ /Dominica|Feria|Vigil/))
+        || ($version =~ /Trident|Sarum/i && $comlat{Rank} !~ /Dominica|Feria|Vigil/))
     )
   ) {
 

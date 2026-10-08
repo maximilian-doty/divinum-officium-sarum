@@ -1,0 +1,51 @@
+@Commune/C5b
+
+[Introitus]
+{::English from Warren, The Sarum Missal in English (1911), Common of a Confessor and Abbot; "N." takes the saint's name::}
+The mouth of the righteous is exercised in wisdom, and his tongue will be talking of judgment: the law of his God is in his heart.
+!Ps 36:1
+Fret not thyself because of the ungodly: neither be thou envious against the evil doers.
+&Gloria
+The mouth of the righteous is exercised in wisdom, and his tongue will be talking of judgment: the law of his God is in his heart.
+
+[Oratio]
+O God, who didst endue Saint N. thy Confessor and Abbot with the grace of holiness: make us, for his sake, to abound in good works; that so we may be counted worthy to obtain from thee the Highest Good, all that is needful for us.
+$Per Dominum
+
+[Graduale]
+!Ps 36:30-31
+The mouth of the righteous is exercised in wisdom: and his tongue will be talking of judgment.
+V. !Ps 36:31
+The law of his God is in his heart, and his goings shall not slide.
+Alleluia, alleluia.
+V. !Ps 88:20-21
+I have laid help upon one that is mighty: I have exalted one chosen out of my people.
+Alleluia.
+
+[Sequentia]
+{::Warren's English of the Sequence "Adest nobis" (as in the Common of a Confessor and Bishop); "N." takes the saint's name::}
+The festive day is come,
+which brings to us great joy,
+when Holy Church gives thanks acceptable to God.
+This day the heavenly host sings, Glory in the highest,
+with voice and symphony melodious.
+This day the holy armies of the heavens
+unite with us in praise of God our King,
+Christ, of the holy Virgin Mary born.
+Hail, noble Prelate N., thou flower of saints!
+With stedfast faith, Christ's footsteps following,
+thou hast attained the everlasting Kingdom;
+already to their courts the blessed welcome thee.
+To thee unitedly our suit we make,
+our frail life by thy blest protection aid.
+Praise, glory to thee, blessed, holy N.
+Entreat for us, O blessed, holy N.,
+that in the heavenly Temple we may stand,
+fulness of joy beholding in thy presence.
+Praise, honour, and thanksgiving pure
+be unto God, who doth for evermore endure.
+Let all things say, Amen.
+
+[Offertorium]
+!Ps 20:3-4
+Thou hast given him his heart's desire, O Lord, and hast not denied him the request of his lips: thou hast set a crown of pure gold upon his head.

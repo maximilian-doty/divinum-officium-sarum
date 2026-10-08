@@ -55,7 +55,7 @@ sub psalmi_minor {
     $ant = chompd($a[1]);
     $psalms = chompd($a[2]);
     if ($lang =~ /gabc/i) { $psalmTone = chompd($a[3]); }    # GABC: retrieve Psalm Tone
-  } elsif ($version =~ /trident/i) {
+  } elsif ($version =~ /trident|Sarum/i) {
     my $daytype = $dayofweek ? 'Feria' : 'Dominica';
     my %psalmlines = split(/\n|=/, $psalmi{Tridentinum});
     my $psalmkey;
@@ -124,7 +124,7 @@ sub psalmi_minor {
   setbuild('Psalterium/Psalmi/Psalmi minor', "$hora Day$dayofweek", 'Psalmi ord');
   my $comment = 0;
 
-  if ($hora eq 'Completorium' && $version !~ /Trident|Monastic/) {
+  if ($hora eq 'Completorium' && $version !~ /Trident|Monastic|Sarum/) {
     if ($winner =~ /tempora/i && $dayofweek > 0 && $winner{Rank} =~ /Dominica/i && $rank < 6) {
       ;
     }
@@ -159,7 +159,7 @@ sub psalmi_minor {
       if ($day > 16 && $day < 24 && $dayofweek && $version !~ /cist/i) {
         my $i = $dayofweek + 1;
 
-        if ($dayofweek == 6 && $version =~ /trident|monastic.*divino/i) {    # take ants from feria occuring Dec 21st
+        if ($dayofweek == 6 && $version =~ /trident|monastic.*divino|sarum/i) {    # take ants from feria occuring Dec 21st
           $i = get_stThomas_feria($year) + 1;
           if ($day == 23) { $i = ""; }                                       # use Sundays ant
         }
@@ -201,7 +201,7 @@ sub psalmi_minor {
       }
 
       # add fourth alleluja
-      $ant =~ s/(\S+)\.$/$1, $1./ if ($version =~ /trident|monastic/i && $name eq 'Pasch' && $lang !~ /gabc/);
+      $ant =~ s/(\S+)\.$/$1, $1./ if ($version =~ /trident|monastic|sarum/i && $name eq 'Pasch' && $lang !~ /gabc/);
       $comment = 1;
       setbuild("Psalterium/Psalmi/Psalmi minor", $name, "subst Antiphonas");
     }
@@ -230,7 +230,7 @@ sub psalmi_minor {
     }
 
     if ( ($rule =~ /Psalmi\s*(?:minores)*\s*Dominica/i || $communerule =~ /Psalmi\s*(?:minores)*\s*Dominica/i)
-      && $version !~ /Trident/i
+      && $version !~ /Trident|Sarum/i
       && $rule !~ /Psalmi\s*(?:minores)*\s*ex Psalterio/i
       && !($version =~ /1955|196/ && $rank < 6 && $dayofweek > 0))
     {
@@ -247,7 +247,7 @@ sub psalmi_minor {
     $ant = '' if $version =~ /^Monastic/;
   }
 
-  $comment = -1 if $hora eq 'Completorium' && $version =~ /^(?:Trident|Monastic)/;
+  $comment = -1 if $hora eq 'Completorium' && $version =~ /^(?:Trident|Monastic|Sarum)/;
   setcomment($label, 'Source', $comment, $lang, $prefix);
 
   if ($w{Rule} =~ /Minores sine Antiphona/i || $hora eq 'Completorium' && $version =~ /^Monastic/) {
@@ -277,7 +277,7 @@ sub psalmi_minor {
 
   # The rules for determining the psalmody at Prime in the Tridentine
   # rubrics are somewhat simpler.
-  unless ($version =~ /Trident|Monastic/) {
+  unless ($version =~ /Trident|Monastic|Sarum/) {
 
     #prima psalm set for feasts
     if ($hora eq 'Prima' && $feastflag) {
@@ -346,7 +346,7 @@ sub psalmi_major {
           && ($winner =~ /Sancti/i && $rank >= ($version =~ /cist/i ? 2.2 : 4) && $dayname[1] !~ /vigil/i))
       ) {
         $head = $version =~ /cist/i ? 'DaycF' : 'DaymF';
-      } elsif (($dayofweek == 0 || $version =~ /trident/i) && $dayname[0] =~ /Pasc/i && $version !~ /cisterciensis/i) {
+      } elsif (($dayofweek == 0 || $version =~ /trident|Sarum/i) && $dayname[0] =~ /Pasc/i && $version !~ /cisterciensis/i) {
         $head = 'DaymP';
       }
     }
@@ -355,7 +355,7 @@ sub psalmi_major {
 
     if ($hora eq 'Laudes' && $head =~ /Monastic/) {
       unless ($dayofweek == 0
-        || $version =~ /Trident/
+        || $version =~ /Trident|Sarum/
         || (($dayname[0] =~ /Adv|Quadp/) && ($duplex < 3) && ($commune !~ /C10/))
         || (($dayname[0] =~ /Quad\d/) && ($dayname[1] =~ /Feria/))
         || ($dayname[1] =~ /Quattuor Temporum Septembris/)
@@ -369,7 +369,7 @@ sub psalmi_major {
         }
       }
     }
-  } elsif ($version =~ /trident/i) {
+  } elsif ($version =~ /trident|Sarum/i) {
     my $dow =
       ($hora eq 'Laudes' && $dayname[0] =~ /Pasc/i) ? 'P'
       : (  $hora eq 'Laudes'
@@ -396,10 +396,10 @@ sub psalmi_major {
     # TODO: is this really the case in Monastic 1963 Vespers throughout the week?
     @antiphones = split("\n", $psalmi{"Day$dayofweek Laudes3"});
 
-    if ($dayofweek == 6 && $version =~ /Trident|Monastic/) {
+    if ($dayofweek == 6 && $version =~ /Trident|Monastic|Sarum/) {
       my $expectetur = $antiphones[3];    # save Expectetur
 
-      if ($version =~ /trident|monastic.*divino/i) {    # take ants from feria occuring Dec 21st
+      if ($version =~ /trident|monastic.*divino|sarum/i) {    # take ants from feria occuring Dec 21st
         @antiphones = split("\n", $psalmi{'Day' . get_stThomas_feria($year) . ' Laudes3'});
 
         if ($day == 23 && $version !~ /divino/i) {      # use Sundays ants
@@ -428,7 +428,7 @@ sub psalmi_major {
       $w = $w{'Ant Vespera 3'};
       $c = $winner =~ /Tempora/ ? 2 : 3;
     } elsif (!exists($w{'Ant Vespera'})
-      && ($communetype =~ /ex/ || ($version =~ /Trident/i && $winner =~ /Sancti/i)))
+      && ($communetype =~ /ex/ || ($version =~ /Trident|Sarum/i && $winner =~ /Sancti/i)))
     {
       ($w, $c) = getproprium('Ant Vespera 3', $lang, 1);
       setbuild2("Antiphona $commune") if $w;
@@ -446,7 +446,7 @@ sub psalmi_major {
   } elsif ($w) {
     setbuild2("Antiphonas $winner");
   } elsif (($communetype && $communetype =~ /ex/)
-    || ($version =~ /Trident/i && $hora eq 'Laudes' && $winner =~ /Sancti/))
+    || ($version =~ /Trident|Sarum/i && $hora eq 'Laudes' && $winner =~ /Sancti/))
   {
     ($w, $c) = getproprium("Ant $hora", $lang, 1);
     setbuild2("Antiphona $commune") if $w;
@@ -484,7 +484,7 @@ sub psalmi_major {
 
     if ($version =~ /Monastic/ && $hora eq 'Laudes') {
       @p = split("\n", $psalmi{'DaymF Laudes'});
-    } elsif ($version =~ /Trident/ && $hora eq 'Laudes') {
+    } elsif ($version =~ /Trident|Sarum/ && $hora eq 'Laudes') {
       @p = split("\n", $psalmi{'DayaC Laudes'});
     }
     setbuild2('Psalmi dominica');
@@ -605,7 +605,7 @@ sub psalmi_major {
     && $lang !~ /gabc/i
     && (!exists($winner{"Ant $hora"}) || $commune =~ /C10/)
     && $communetype !~ /ex/i
-    && ($version !~ /Trident/ || $hora eq 'Vespera')
+    && ($version !~ /Trident|Sarum/ || $hora eq 'Vespera')
     && ($version !~ /Monastic/ || $hora ne 'Laudes' || $winner{Rank} !~ /Dominica/i))
   {
     $psalmi[0] =~ s/.*(?=;;)/ alleluia_ant($lang) /e;
@@ -624,7 +624,7 @@ sub psalmi_major {
     $psalmi[$_] =~ s/.*(?=;;)// foreach (1 .. 4);
   }
 
-  if (($dayname[0] =~ /Adv|Quad/ || emberday()) && $hora eq 'Laudes' && $version !~ /Trident/) {
+  if (($dayname[0] =~ /Adv|Quad/ || emberday()) && $hora eq 'Laudes' && $version !~ /Trident|Sarum/) {
     $prefix = "Laudes:$laudes $prefix";
   }
   setcomment($label, 'Source', $comment, $lang, $prefix);

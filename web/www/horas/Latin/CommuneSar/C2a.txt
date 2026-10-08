@@ -1,0 +1,50 @@
+@Commune/C2a
+
+[Introitus]
+!Ps 91:13
+Justus ut palma florébit, sicut cedrus Líbani multiplicábitur: plantátus in domo Dómini, in átriis domus Dei nostri.
+!Ps 91:2
+Bonum est confitéri Dómino: et psállere nómini tuo, Altíssime.
+&Gloria
+Justus ut palma florébit, sicut cedrus Líbani multiplicábitur: plantátus in domo Dómini, in átriis domus Dei nostri.
+
+[Oratio]
+Adésto, Dómine, supplicatiónibus nostris: et, intercessióne beáti N. Mártyris tui, perpétuam nobis misericórdiam benígnus impénde.
+$Per Dominum
+
+[Graduale]
+!Ps 20:4
+Posuísti, Dómine, super caput ejus corónam de lápide pretióso.
+V. !Ps 20:3
+Desidérium ánimæ ejus tribuísti ei: et voluntáte labiórum ejus non fraudásti eum.
+Allelúja, allelúja.
+V. !Ps 20:4
+Posuísti, Dómine, super caput ejus corónam de lápide pretióso.
+Allelúja.
+
+[Sequentia]
+{::Sarum Martyr Sequence "Organicis canamus" (Dickinson)::}
+Orgánicis canámus módulis nunc N. solémnia;
+omnígenis Dómino vócibus reddéntes odas débitas,
+qui in suis sanctis mirábilis nimis,
+multíplici virtútum flore eósdem décorat ac mirífice adórnat;
+nam et in ipsis, quasi in quibúsdam músicis instruméntis,
+dígito próprio fides ágitat, fides virtútum sonóra.
+Has numeróse percúrrens síngulas,
+permíscet síngulis diatéssaron mellífluam melódiam,
+quam génerat virtútum mater illa,
+quæ áliis decénter compósita, reddit suávem symphóniam;
+qua sine cuncta fiunt díssona, necnon et frívola;
+qua cum ómnia fiunt cónsona, necnon utília;
+qua justi, bene moráti, rite,
+peténtes excélsa poli sídera,
+álacres decántant nova cántica in cíthara Thrácia.
+Quorum agéntes festa, consórtia mereámur in cœlésti pátria.
+
+[Offertorium]
+!Ps 20:2-3
+In virtúte tua, Dómine, lætábitur justus: et super salutáre tuum exsultábit veheménter: desidérium ánimæ ejus tribuísti ei.
+
+[Communio]
+!Mat 16:24
+Qui vult veníre post me, ábneget semetípsum, et tollat crucem suam, et sequátur me.

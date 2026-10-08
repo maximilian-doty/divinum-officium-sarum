@@ -128,13 +128,13 @@ sub doxology {
   } else {
     if ($rule && $rule =~ /Doxology=([a-z]+)/i) {
       $dname = $1;
-    } elsif (($version =~ /Trident/i || $winner{Rank} !~ /Adventus/)
+    } elsif (($version =~ /Trident|Sarum/i || $winner{Rank} !~ /Adventus/)
       && $commemoratio{Rule}
       && $commemoratio{Rule} =~ /Doxology=([a-z]+)/i)
     {
       $dname = $1;
     } elsif (($month == 8 && $day > 15 && $day < 23 && $version !~ /1955|1963/i)
-      || ($version !~ /1570|1617|1963|altovadensis/i && $month == 12 && $day > 8 && $day < 16 && $dayofweek > 0))
+      || ($version !~ /1570|1617|1963|altovadensis|Sarum/i && $month == 12 && $day > 8 && $day < 16 && $dayofweek > 0))
     {
       $dname = 'Nat';
     } else {
@@ -143,7 +143,7 @@ sub doxology {
 
     if ($dname) {
       my %w = %{setupstring($lang, 'Psalterium/Doxologies.txt')};
-      if ($version =~ /Monastic|1570|Praedicatorum/i && $w{"${dname}T"}) { $dname .= 'T'; }
+      if ($version =~ /Monastic|1570|Praedicatorum|Sarum/i && $w{"${dname}T"}) { $dname .= 'T'; }
       $dox = $w{$dname};
       setbuild2("Doxology: $dname");
     }

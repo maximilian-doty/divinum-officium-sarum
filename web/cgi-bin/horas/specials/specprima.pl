@@ -146,7 +146,7 @@ sub martyrologium {
   my $a = getweek($day, $month, $year, 1) . "-" . (($dayofweek + 1) % 7);
   my %a = %{setupstring($lang, "Martyrologium/Mobile.txt")};
 
-  if ($version =~ /1570/ && $lang =~ /Latin/i) {
+  if ($version =~ /1570|Sarum/ && $lang =~ /Latin/i) {
     %a = %{setupstring($lang, "Martyrologium1570/Mobile.txt")};
   }
 
@@ -171,7 +171,7 @@ sub martyrologium {
   my ($m, $d) = split('-', $fname);
   my $y = ($m == 1 && $d == 1) ? $year + 1 : $year;
 
-  if ($version =~ /1570/ && $lang =~ /Latin/i && (-e "$datafolder/Latin/Martyrologium1570/$fname.txt")) {
+  if ($version =~ /1570|Sarum/ && $lang =~ /Latin/i && (-e "$datafolder/Latin/Martyrologium1570/$fname.txt")) {
     $fname = "$datafolder/Latin/Martyrologium1570/$fname.txt";
   } elsif ($version =~ /1960|Newcal/ && $lang =~ /Latin/i && (-e "$datafolder/Latin/Martyrologium1960/$fname.txt")) {
     $fname = checkfile($lang, "Martyrologium1960/$fname.txt");    # GABC: Allow for 'Latin-gabc'

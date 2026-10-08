@@ -1,0 +1,227 @@
+*January*
+01-01=01-01=In Circumcisione Domini=3=
+01-02=01-02=Octava S. Stephani Protomartyris=2=
+01-03=01-03=Octava S. Joannis Apostoli et Evangelistae=2=
+01-04=01-04=Octava Ss. Innocentium=2=
+01-05=01-05=Octava S. Thomae Episcopi et Martyris et S. Edwardi Regis et Confessoris=2=
+01-06=01-06=In Epiphania Domini=6=
+01-07=01-07=Secunda die infra Octavam Epiphaniae=2=
+01-08=01-08=S. Luciani Presbyteri et Sociorum eius Martyrum=1.1=
+01-09=01-09=Quarta die infra Octavam Epiphaniae=2=
+01-10=01-10=Quinta die infra Octavam Epiphaniae=2=
+01-11=01-11=Sexta die infra Octavam Epiphaniae=2=
+01-12=01-12t=Dominica infra Octavam Epiphaniae=2=
+01-13=01-13=Octava Epiphaniae=4=
+01-14=01-14=S. Felicis Presbyteri et Martyris=1=
+01-15=01-15=S. Mauri Abbatis=1=
+01-16=01-16=S. Marcelli Papae et Martyris=1=
+01-17=01-17=S. Antonii Abbatis=1=
+01-18=01-18=S. Priscae Virginis et Martyris=1=
+01-19=01-19=S. Wulstani Episcopi et Confessoris=2=
+01-20=01-20=Ss. Fabiani et Sebastiani Martyrum=2=
+01-21=01-21=S. Agnetis Virginis et Martyris=2=
+01-22=01-22=S. Vincentii Martyris=2=
+01-25=01-25=In Conversione S. Pauli Apostoli=3=
+01-27=01-27=S. Juliani Episcopi et Confessoris=1=
+01-28=01-28=S. Agnetis Virginis et Martyris secundo=1=
+01-31=01-31=S. Batildis Reginae Virginis=1=
+
+*February*
+02-01=02-01=S. Brigidae Virginis=1=
+02-02=02-02=In Purificatione B. Mariae Virginis=4=
+02-03=02-03=S. Blasii Episcopi et Martyris=2=
+02-05=02-05=S. Agathae Virginis et Martyris=2=
+02-06=02-06=Ss. Vedasti et Amandi Episcoporum=1=
+02-10=02-10=S. Scholasticae Virginis=1=
+02-12=02-12=Translatio S. Frideswidae Virginis=1=
+02-14=02-14=S. Valentini Episcopi et Martyris=1=
+02-16=02-16=S. Julianae Virginis et Martyris=1=
+02-22=02-22=Cathedra S. Petri Apostoli=3=
+02-24=02-24=S. Matthiae Apostoli=3=
+
+*March*
+03-01=03-01=S. Davidis Episcopi et Confessoris=2=
+03-02=03-02=S. Ceddae Episcopi et Confessoris=2=
+03-07=03-07=Ss. Perpetuae et Felicitatis Martyrum=1=
+03-12=03-12=S. Gregorii Papae et Confessoris=3=
+03-17=03-17=S. Patricii Episcopi et Confessoris=2=
+03-18=03-18=S. Edwardi Regis et Martyris=2=
+03-20=03-20=S. Cuthberti Episcopi=2=
+03-21=03-21=S. Benedicti Abbatis=2=
+03-25=03-25=In Annuntiatione B. Mariae Virginis=3=
+
+*April*
+04-03=04-03=S. Richardi Episcopi et Confessoris=2=
+04-04=04-04=S. Ambrosii Episcopi et Confessoris et Doctoris=3=
+04-14=04-14=Ss. Tiburtii, Valeriani et Maximi Martyrum=1=
+04-19=04-19=S. Alphegi Episcopi et Martyris=1=
+04-23=04-23=S. Georgii Martyris=2=
+04-25=04-25=S. Marci Evangelistae=2=
+04-28=04-28=S. Vitalis Martyris=1=
+04-30=04-30=Depositio S. Erkenwaldi Episcopi=1=
+
+*May*
+05-01=05-01=Ss. Apostolorum Philippi et Jacobi=2=
+05-03=05-03=In Inventione S. Crucis=2=
+05-06=05-06=S. Joannis ante Portam Latinam=1=
+05-07=05-07=S. Joannis Episcopi et Confessoris de Beverlaco=1=
+05-09=05-09=Translatio S. Nicolai Episcopi=1=
+05-10=05-10=Ss. Gordiani et Epimachi Martyrum=1=
+05-12=05-12=Ss. Nerei, Achillei atque Pancratii Martyrum=1=
+05-19=05-19=S. Dunstani Episcopi et Confessoris=2=
+05-25=05-25=S. Aldelmi Episcopi et Confessoris=2=
+05-26=05-26=S. Augustini Anglorum Apostoli=2=
+05-28=05-28=S. Germani Episcopi et Confessoris=1=
+05-31=05-31=S. Petronillae Virginis=1=
+
+*June*
+06-01=06-01=S. Nicomedis Martyris=1=
+06-02=06-02=Ss. Marcellini et Petri Martyrum=1=
+06-05=06-05=S. Bonifacii Sociorumque eius Martyrum=1=
+06-08=06-08=Ss. Medardi et Gildardi Confessorum=1=
+06-09=06-09=Translatio S. Edmundi Martyris=3=
+06-11=06-11=S. Barnabae Apostoli=3=
+06-12=06-12=Ss. Basilidis, Cyrini et Naboris Martyrum=1=
+06-14=06-14=S. Basilii Episcopi et Confessoris=1=
+06-15=06-15=Ss. Viti et Modesti atque Crescentiae Martyrum=1=
+06-16=06-16=Translatio S. Richardi Episcopi=2=
+06-18=06-18=Ss. Marci et Marcelliani Martyrum=1=
+06-19=06-19=Ss. Gervasii et Protasii Martyrum=1=
+06-20=06-20=Translatio S. Edwardi Regis et Martyris=2=
+06-22=06-22=S. Albani Protomartyris=2=
+06-23=06-23=S. Etheldredae Virginis=1=
+06-24=06-24=In Nativitate S. Joannis Baptistae=3=
+06-26=06-26=Ss. Joannis et Pauli Martyrum=1=
+06-28=06-28=S. Leonis Papae et Confessoris=1=
+06-29=06-29=Ss. Apostolorum Petri et Pauli=3=
+06-30=06-30=Commemoratio S. Pauli Apostoli=3=
+
+*July*
+07-01=07-01=Octava S. Joannis Baptistae=1=
+07-02=07-02=In Visitatione B. Mariae Virginis=3=
+07-04=07-04=Translatio et Ordinatio S. Martini=2=
+07-06=07-06=Octava Apostolorum Petri et Pauli=2=
+07-07=07-07=Translatio S. Thomae Martyris=2=
+07-10=07-10=Ss. Septem Fratrum Martyrum=1=
+07-11=07-11=Translatio S. Benedicti Abbatis=2=
+07-15=07-15=Translatio S. Swithini Sociorumque eius=2=
+07-16=07-16=Translatio S. Osmundi=2=
+07-17=07-17=S. Kenelmi Regis et Martyris=1=
+07-18=07-18=S. Arnulphi Episcopi et Martyris=1=
+07-20=07-20=S. Margaretae Virginis et Martyris=2=
+07-21=07-21=S. Praxedis Virginis=1=
+07-22=07-22=S. Mariae Magdalenae=3=
+07-23=07-23=S. Apollinaris Episcopi et Martyris=1=
+07-24=07-24=S. Christinae Virginis et Martyris=1=
+07-25=07-25=S. Jacobi Apostoli=3=
+07-26=07-26=S. Annae Matris B. Mariae Virginis=3=
+07-27=07-27=Ss. Septem Dormientium Martyrum=1=
+07-28=07-28=S. Samsonis Episcopi=1=
+07-29=07-29=Ss. Felicis, Simplicii, Faustini et Beatricis Martyrum=1=
+07-30=07-30=Ss. Abdon et Sennen Martyrum=1=
+07-31=07-31=S. Germani Episcopi et Confessoris=1=
+
+*August*
+08-01=08-01=Ad Vincula S. Petri Apostoli=3=
+08-02=08-02=S. Stephani Papae et Martyris=1=
+08-03=08-03=In Inventione S. Stephani Protomartyris=2=
+08-05=08-05=S. Oswaldi Regis et Martyris=1=
+08-06=08-06=In Transfiguratione Domini=3=
+08-07=08-07=Festum Nominis Jesu=4=
+08-08=08-08=Ss. Cyriaci Sociorumque eius Martyrum=1.1=
+08-09=08-09=S. Romani Martyris=1.1=
+08-10=08-10=S. Laurentii Martyris=3=
+08-11=08-11=S. Tiburtii Martyris=1.1=
+08-13=08-13=S. Hippolyti Sociorumque eius Martyrum=2=
+08-14=08-14=S. Eusebii Presbyteri et Confessoris=1=
+08-15=08-15=In Assumptione B. Mariae Virginis=6=
+08-17=08-17=Octava S. Laurentii=1.1=
+08-18=08-18=S. Agapiti Martyris=1.1=
+08-19=08-19=S. Magni Martyris=1.1=
+08-22=08-22=Octava B. Mariae Virginis=2=
+08-23=08-23=Ss. Timothei et Apollinaris Martyrum=1=
+08-24=08-24=S. Bartholomaei Apostoli=3=
+08-27=08-27=S. Ruffi Martyris=2=
+08-28=08-28=S. Augustini Episcopi et Doctoris=3=
+08-29=08-29=In Decollatione S. Joannis Baptistae=3=
+08-30=08-30=Ss. Felicis et Adaucti Martyrum=2=
+08-31=08-31=S. Cuthburgae Virginis=2=
+
+*September*
+09-01=09-01=S. Aegidii Abbatis=2=
+09-04=09-04=Translatio S. Cuthberti Episcopi=2=
+09-05=09-05=S. Bertini Abbatis et Confessoris=1=
+09-08=09-08=In Nativitate B. Mariae Virginis=3=
+09-09=09-09=S. Gorgonii Martyris=1.1=
+09-11=09-11=Ss. Proti et Hyacinthi Martyrum=1.1=
+09-14=09-14=In Exaltatione S. Crucis=3=
+09-15=09-15=Octava B. Mariae Virginis=3=
+09-16=09-16=S. Edithae Virginis=2=
+09-17=09-17=S. Lamberti Episcopi et Martyris=2=
+09-21=09-21=S. Matthaei Apostoli et Evangelistae=3=
+09-22=09-22=S. Mauricii Sociorumque eius Martyrum=2=
+09-23=09-23=S. Theclae Virginis=1=
+09-25=09-25=S. Firmini Episcopi et Martyris=1=
+09-26=09-26=Ss. Cypriani Episcopi et Justinae Virginis=1=
+09-27=09-27=Ss. Cosmae et Damiani Martyrum=1=
+09-29=09-29=S. Michaelis Archangeli=3=
+09-30=09-30=S. Hieronymi Presbyteri et Doctoris=3=
+
+*October*
+10-01=10-01=Ss. Remigii, Germani, Vedasti et Bavonis Episcoporum=2=
+10-02=10-02=S. Thomae Herefordensis Episcopi et Confessoris=2=
+10-06=10-06=S. Fidis Virginis et Martyris=1=
+10-07=10-07=Ss. Marci et Marcelliani Martyrum=1=
+10-09=10-09=S. Dionysii Sociorumque eius Martyrum=2=
+10-10=10-10=S. Gereonis Sociorumque eius Martyrum=1=
+10-11=10-11=S. Nicasii Sociorumque eius Martyrum=1=
+10-13=10-13=Translatio S. Edwardi Regis=2=
+10-14=10-14=S. Calixti Papae et Martyris=2=
+10-15=10-15=S. Wulframni Episcopi et Confessoris=2=
+10-16=10-16=S. Michaelis in Monte Tumba=3=
+10-17=10-17=S. Etheldredae Virginis=2=
+10-18=10-18=S. Lucae Evangelistae=3=
+10-19=10-19=S. Frideswidae Virginis=2=
+10-21=10-21=Ss. Undecim Millium Virginum=2=
+10-23=10-23=S. Romani Episcopi et Confessoris=1=
+10-25=10-25=Ss. Crispini et Crispiniani Martyrum=2=
+10-28=10-28=Ss. Apostolorum Simonis et Judae=3=
+10-31=10-31=S. Quintini Martyris=1=
+
+*November*
+11-01=11-01=Solemnitas Omnium Sanctorum=5=
+11-02=11-02=Commemoratio Omnium Defunctorum=2=
+11-03=11-03=S. Wenefredae Virginis et Martyris=2=
+11-06=11-06=S. Leonardi Abbatis=2=
+11-08=11-08=Ss. Quatuor Coronatorum Martyrum=1=
+11-09=11-09=S. Theodori Martyris=1=
+11-11=11-11=S. Martini Episcopi et Confessoris=3=
+11-13=11-13=S. Bricii Episcopi et Confessoris=1=
+11-14=11-14=Translatio S. Erkenwaldi Episcopi=1=
+11-15=11-15=S. Machuti Episcopi et Confessoris=2=
+11-16=11-16=Depositio S. Edmundi Archiepiscopi=3=
+11-17=11-17=S. Hugonis Episcopi et Confessoris=2=
+11-18=11-18=Octava S. Martini=1=
+11-20=11-20=S. Edmundi Regis et Martyris=2=
+11-22=11-22=S. Caeciliae Virginis et Martyris=2=
+11-23=11-23=S. Clementis Papae et Martyris=2=
+11-24=11-24=S. Chrysogoni Martyris=1=
+11-25=11-25=S. Catharinae Virginis et Martyris=2=
+11-26=11-26=S. Lini Papae et Martyris=1=
+11-29=11-29=Ss. Saturnini et Sisinnii Martyrum=1=
+11-30=11-30=S. Andreae Apostoli=3=
+
+*December*
+12-04=12-04=S. Osmundi Episcopi et Confessoris=2=
+12-06=12-06=S. Nicolai Episcopi et Confessoris=3=
+12-07=12-07=Octava S. Andreae Apostoli=1=
+12-08=12-08=In Conceptione B. Mariae Virginis=3=
+12-13=12-13=S. Luciae Virginis et Martyris=2=
+12-21=12-21=S. Thomae Apostoli=3=
+12-24=12-24o=Vigilia Nativitatis Domini=2=
+12-25=12-25=In Nativitate Domini=6=
+12-26=12-26=S. Stephani Protomartyris=3=
+12-27=12-27=S. Joannis Apostoli et Evangelistae=3=
+12-28=12-28=Ss. Innocentium Martyrum=3=
+12-29=12-29=S. Thomae Cantuariensis Archiepiscopi et Martyris=3=
+12-31=12-31=S. Silvestri Papae et Confessoris=2=

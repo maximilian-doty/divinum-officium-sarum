@@ -95,7 +95,7 @@ sub oratio {
   }
 
   # Special processing for Common of Supreme Pontiffs.
-  if ($version !~ /Trident/i && (my ($plural, $class, $name) = papal_rule($w{Rule}))) {
+  if ($version !~ /Trident|Sarum/i && (my ($plural, $class, $name) = papal_rule($w{Rule}))) {
     $w = papal_prayer($lang, $plural, $class, $name);
     if ($w && $hora ne 'Matutinum') { setbuild2("Oratio Gregem tuum"); }
   }
@@ -315,7 +315,7 @@ sub oratio {
           $ccind++;
           my $key = ($ic =~ /$sundaystring/i)
             ? (
-              $version !~ /trident/i
+              $version !~ /trident|Sarum/i
               ? 3000                                  # Sundays are all privilegde commemorations under DA
               : $version !~ /altovadensis/i ? 7100    # Dom. min.
               : 6100                                  # Sundays are below MM.maj. commemorations for Altovado
@@ -360,7 +360,7 @@ sub oratio {
         if ($c) {
           my @cr = split(";;", $c{Rank});
 
-          if ($version =~ /trident/i && $version !~ /1906/) {
+          if ($version =~ /trident|Sarum/i && $version !~ /1906/) {
             $key =
                 ($cr[0] =~ /$sundaystring/i || $cwinner =~ /01-05\.txt/)
               ? $version =~ /altovadensis/i
@@ -433,7 +433,7 @@ sub oratio {
             $ccind++;
             $key = ($ic =~ /$sundaystring/i)
               ? (
-                $version !~ /Trident/i
+                $version !~ /Trident|Sarum/i
                 ? 3000                                  # Sundays are all privileged commemorations under DA
                 : $version !~ /altovadensis/i ? 7100    # Dom. min.
                 : 6100                                  # Sundays are below MM.maj. commemorations for Altovado
@@ -476,7 +476,7 @@ sub oratio {
             # under DA, all Sundays, in 1906, priviliged Sundays, are all privilegded commemorations
             # for Altovado: Sundays are below MM.maj. commemorations
             $key =
-                ($version !~ /trident/i || ($version =~ /1906/ && $cr[2] > 5)) ? 7000
+                ($version !~ /trident|Sarum/i || ($version =~ /1906/ && $cr[2] > 5)) ? 7000
               : $version =~ /altovadensis/i ? 3900
               : 2900;
           } else {
@@ -540,7 +540,7 @@ sub oratio {
                 || ( $rank >= 5
                   && $ic =~ /$octavestring/i
                   && ($month != 12 || $day < 18)
-                  && $version =~ /trident/i
+                  && $version =~ /trident|Sarum/i
                   && $version !~ /cist/i
                   && $commemo !~ /Pent02\-0/)
               ) {
@@ -550,7 +550,7 @@ sub oratio {
               $ccind++;
               $key = ($ic =~ /$sundaystring/i)
                 ? (
-                  $version !~ /trident/i
+                  $version !~ /trident|Sarum/i
                   ? 3000                                  # Sundays are all privilegde commemorations under DA
                   : $version !~ /altovadensis/i ? 7100    # Dom. min.
                   : 6100                                  # Sundays are below MM.maj. commemorations for Altovado
@@ -663,7 +663,7 @@ sub getcommemoratio {
       || ( $rank[0] =~ /Infra Octav/i
         && $rank >= 5
         && $winner =~ /Sancti/i
-        && ($wday ne $cwinner || $version !~ /Trident/))
+        && ($wday ne $cwinner || $version !~ /Trident|Sarum/))
     )
   ) {
     return;
@@ -716,7 +716,7 @@ sub getcommemoratio {
   my $popeclass = '';
   my %cp;
 
-  if ($version !~ /Trident/i && ((my $plural, $popeclass, my $name) = papal_rule($w{Rule}))) {
+  if ($version !~ /Trident|Sarum/i && ((my $plural, $popeclass, my $name) = papal_rule($w{Rule}))) {
     $o = papal_prayer($lang, $plural, $popeclass, $name);
   } elsif ($o =~ /N\./ && (my $name = $w{Name} || papal_rule($w{Rule}))) {
     $o = replaceNdot($o, $lang, $name);
@@ -873,7 +873,7 @@ sub getsuffragium {
   my $comment =
       $version =~ /altovadensis/i ? 5
     : $version =~ /cisterciensis/i ? 4
-    : $version =~ /trident/i ? 3
+    : $version =~ /trident|Sarum/i ? 3
     : $dayname[0] =~ /pasc/i ? 2
     : 1;
 
@@ -1063,7 +1063,7 @@ sub getrefs {
       my ($plural, $class, $name) = papal_commem_rule($rule);
 
       if ($name) {
-        if ($version !~ /Trident/i) {
+        if ($version !~ /Trident|Sarum/i) {
           if ($item =~ /Gregem/i) {
             $o = papal_prayer($lang, $plural, $class, $name);
 

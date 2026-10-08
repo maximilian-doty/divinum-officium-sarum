@@ -1,0 +1,128 @@
+[Officium]
+Sabbato Quatuor Temporum Adventus
+
+[Rank]
+;;Feria major;;2.1
+
+[Rule]
+Oratio Dominica
+no Gloria
+no Credo
+LectioL5
+Suffr=Maria1;;
+
+[Introitus]
+!Ps 79:4; 79:2
+v. Veni, et osténde nobis fáciem tuam, Dómine, qui sedes super Chérubin: et salvi érimus.
+!Ps 79:2
+Qui regis Israël, inténde: qui dedúcis velut ovem Joseph.
+&Gloria
+v. Veni, et osténde nobis fáciem tuam, Dómine, qui sedes super Chérubin: et salvi érimus.
+
+[LectioL1]
+Léctio Isaíæ Prophétæ
+!Is 19:20-22
+In diébus illis: Clamábunt ad Dóminum a fácie tribulántis, et mittet eis salvatórem et propugnatórem, qui líberet eos. Et cognoscétur Dóminus ab Ægýpto, et cognóscent Ægýptii Dóminum in die illa: et colent eum in hóstiis et munéribus: et vota vovébunt Dómino, et solvent. Et percútiet Dóminus Ægýptum plaga, et sanábit eam: et reverténtur ad Dóminum, et placábitur eis, et sanábit eos Dóminus Deus noster.
+$Deo gratias
+
+[GradualeL1]
+!Ps 18:7; 18:2
+A summo cœlo egréssio ejus: et occúrsus ejus usque ad summum ejus.
+V. Cœli enárrant glóriam Dei: et ópera mánuum ejus annúntiat firmaméntum.
+
+[OratioL1]
+Concéde, quǽsumus, omnípotens Deus: ut qui sub peccáti jugo ex vetústa servitúte deprímimur; exspectáta Unigéniti Fílii tui nova nativitáte liberémur.
+$Qui tecum
+
+[LectioL2]
+Léctio Isaíæ Prophétæ
+!Is 35:1-7
+Hæc dicit Dóminus: Lætábitur desérta et ínvia, et exsultábit solitúdo, et florébit quasi lílium. Gérminans germinábit, et exsultábit lætabúnda et laudans: glória Líbani data est ei, decor Carméli et Saron. Ipsi vidébunt glóriam Dómini, et decórem Dei nostri. Confortáte manus dissolútas, et génua debília roboráte. Dícite pusillánimis: Confortámini, et nolíte timére: ecce Deus noster ultiónem addúcet retributiónis: Deus ipse véniet, et salvábit nos. Tunc aperiéntur óculi cæcórum, et aures surdórum patébunt. Tunc sáliet sicut cervus claudus, et apérta erit lingua mutórum: quia scissæ sunt in desérto aquæ, et torréntes in solitúdine. Et quæ erat árida, erit in stagnum, et sítiens in fontes aquárum, ait Dóminus omnípotens.
+$Deo gratias
+
+[GradualeL2]
+!Ps 18:6; 18:7
+In sole pósuit tabernáculum suum: et ipse tamquam sponsus procédens de thálamo suo.
+V. A summo cœlo egréssio ejus: et occúrsus ejus usque ad summum ejus.
+
+[OratioL2]
+Indígnos nos, quǽsumus, Dómine, fámulos tuos, quos actiónis própriæ culpa contrístat, Unigéniti Fílii tui advéntu lætífica:
+$Qui tecum
+
+[LectioL3]
+Léctio Isaíæ Prophétæ
+!Is 40:9-11
+Hæc dicit Dóminus: Super montem excélsum ascénde tu, qui evangelízas Sion: exálta in fortitúdine vocem tuam, qui evangelízas Hierúsalem: exálta, noli timére. Dic civitátibus Judæ: Ecce Deus vester: ecce Dóminus Deus in fortitúdine véniet, et bráchium ejus dominábitur: ecce merces ejus cum eo, et opus illíus coram illo. Sicut pastor gregem suum pascet: in bráchio suo congregábit agnos, et in sinu suo levábit eos, Dóminus Deus noster.
+$Deo gratias
+
+[GradualeL3]
+!Ps 79:20; 79:3
+Dómine, Deus virtútum, convérte nos: et osténde fáciem tuam, et salvi érimus.
+V. Excita, Dómine, poténtiam tuam, et veni: ut salvos fácias nos.
+
+[OratioL3]
+Præsta, quǽsumus, omnípotens Deus: ut Fílii tui ventúra solémnitas et præséntis nobis vitæ remédia cónferat, et prǽmia ætérna concédat.
+$Per eúndem
+
+[LectioL4]
+Léctio Isaíæ Prophétæ
+!Is 45:1-8
+Hæc dicit Dóminus christo meo Cyro, cujus apprehéndi déxteram, ut subjíciam ante fáciem ejus Gentes, et dorsa regum vertam, et apériam coram eo jánuas, et portæ non claudéntur. Ego ante te ibo, et gloriósos terræ humiliábo: portas ǽreas cónteram, et vectes férreos confríngam. Et dabo tibi thesáuros abscónditos, et arcána secretórum revelábo: ut scias quia ego Dóminus, qui voco nomen tuum, Deus Israël, propter servum meum Jacob, et Israël eléctum meum. Et vocávi te nómine tuo: assimilávi te, et non cognovísti me. Ego Dóminus, et non est ámplius: extra me non est Deus. Accínxi te, et non cognovísti me: ut sciant hi, qui ab ortu solis, et qui ab occidénte, quóniam absque me non est Deus. Ego Dóminus, et non est alter, formans lucem, et creans ténebras, fáciens pacem, et creans malum: ego Dóminus fáciens ómnia hæc. Roráte, cœli, désuper, et nubes pluant justum: aperiátur terra, et gérminet Salvatórem: et justítia oriátur simul: ego Dóminus creávi eum.
+$Deo gratias
+
+[GradualeL4]
+!Ps 79:3; 79:2
+Excita, Dómine, poténtiam tuam, et veni: ut salvos fácias nos.
+V. Qui regis Israël, inténde: qui dedúcis velut ovem Joseph: qui sedes super Chérubin, appáre coram Ephraim, Bénjamin, et Manásse.
+
+[OratioL4]
+Preces pópuli tui, quǽsumus, Dómine, cleménter exáudi: ut, qui juste pro peccátis nostris afflígimur, pietátis tuæ visitatióne consolémur.
+$Qui vivis
+
+[LectioL5]
+Léctio Daniélis Prophétæ
+!Dan 3:47-51
+In diébus illis: Angelus Dómini descéndit cum Azaría et sóciis ejus in fornácem: et excússit flammam ignis de fornáce, et fecit médium fornácis quasi ventum roris flantem. Flamma autem diffúsa est super fornácem cúbitis quadragínta novem: et incéndit quos réperit juxta fornácem de Chaldǽis, minístros regis qui eam incendébant. Illos autem omníno non tétigit ignis, neque contristávit, nec quidquam moléstiæ íntulit. Tunc hi tres quasi ex uno ore laudábant, et glorificábant, et benedicébant Deum in fornáce, dicéntes:
+_
+/:Tractus.:/
+Benedíctus es, Dómine, Deus patrum nostrórum. Et laudábilis et gloriósus in sǽcula. Et benedíctum nomen glóriæ tuæ, quod est sanctum: et laudábile et gloriósum in sǽcula. Benedíctus es in templo sancto glóriæ tuæ. Benedíctus es super thronum sanctum regni tui. Benedíctus es super sceptrum regni divinitátis tuæ. Benedíctus es qui sedes super Chérubin, íntuens abýssos. Benedíctus es qui ámbulas super pennas ventórum. Benédicant te omnes Angeli et Sancti tui: et laudent te et gloríficent in sǽcula. Benedícant te cœli, terra, mare, et ómnia quæ in eis sunt. Glória Patri et Fílio: et Spirítui Sancto: et laus, et honor, potéstas, et impérium. Sicut erat in princípio et nunc et semper: et in sǽcula sæculórum. Amen. Et laus, et honor, potéstas, et impérium.
+
+[OratioL5]
+Deus, qui tribus púeris mitigásti flammas ígnium: concéde propítius; ut nos fámulos tuos non exúrat flamma vitiórum.
+$Per Dominum
+
+[Oratio]
+Deus, qui cónspicis, quia ex nostra pravitáte afflígimur: concéde propítius; ut ex tua visitatióne consolémur.
+$Qui vivis
+
+[Lectio]
+Léctio Epístolæ beáti Pauli Apóstoli ad Thessalonicénses
+!2 Thess 2:1-8
+Fratres: Rogámus vos per advéntum Dómini nostri Jesu Christi, et nostræ congregatiónis in ipsum: ut non cito moveámini a vestro sensu, neque terreámini, neque per spíritum, neque per sermónem, neque per epístolam tamquam per nos missam, quasi instet dies Dómini. Ne quis vos sedúcat ullo modo: quóniam nisi vénerit discéssio primum, et revelátus fúerit homo peccáti, fílius perditiónis, qui adversátur, et extóllitur supra omne quod dícitur Deus aut quod cólitur, ita ut in templo Dei sédeat, osténdens se tamquam sit Deus. Non retinétis quóniam, cum adhuc essem apud vos, hæc dicébam vobis? Et nunc quid detíneat scitis, ut revelétur in suo témpore. Nam mystérium jam operátur iniquitátis: tantum ut qui tenet nunc, téneat, donec de médio fiat. Et tunc revelábitur ille iníquus, quem Dóminus Jesus interfíciet spíritu oris sui, et déstruet illustratióne advéntus sui.
+
+[Graduale]
+!Ps 79:2; 79:3
+Qui regis Israël, inténde: qui dedúcis velut ovem Joseph.
+V. Qui sedes super Chérubin, appáre coram Ephraim, Bénjamin, et Manásse.
+V. Excita, Dómine, poténtiam tuam, et veni: ut salvos fácias nos.
+
+[Evangelium]
+Sequéntia ++ sancti Evangélii secúndum Lucam
+!Luc 3:1-6
+Anno quintodécimo impérii Tibérii Cǽsaris, procuránte Póntio Piláto Judǽam, tetrárcha autem Galilǽæ Heróde, Philíppo autem fratre ejus tetrárcha Iturǽæ et Trachonítidis regiónis, et Lysánia Abilínæ tetrárcha, sub princípibus sacerdótum Anna et Caípha: factum est verbum Dómini super Joánnem, Zacharíæ fílium, in desérto. Et venit in omnem regiónem Jordánis, prǽdicans baptísmum pœniténtiæ in remissiónem peccatórum, sicut scriptum est in libro sermónum Isaíæ Prophétæ: Vox clamántis in desérto: Paráte viam Dómini, rectas fácite sémitas ejus: omnis vallis implébitur, et omnis mons et collis humiliábitur: et erunt prava in dirécta, et áspera in vias planas: et vidébit omnis caro salutáre Dei.
+
+[Offertorium]
+!Zach 9:9-10
+Exsúlta satis, fília Sion, prǽdica, fília Hierúsalem: ecce Rex tuus venit tibi sanctus et Salvátor: loquétur pacem géntibus, et potéstas ejus a mari usque ad mare, et a flúmine usque ad términos orbis terræ.
+
+[Secreta]
+Super has hóstias fidélium, Dómine, quǽsumus, propítio vultu réspice: et, quia nostris méritis non valémus, his pótius munéribus tuo occúrsui commendémur.
+$Qui vivis
+
+[Communio]
+!Ps 18:6-7
+Exsultávit ut gigas ad curréndam viam: a summo cœlo egréssio ejus, et occúrsus ejus usque ad summum ejus.
+
+[Postcommunio]
+Quǽsumus, Dómine, Deus noster: ut sacrosáncta mystéria, quæ pro reparatiónis nostræ munímine contulísti, et præsens nobis remédium esse fácias et futúrum.
+$Per Dominum

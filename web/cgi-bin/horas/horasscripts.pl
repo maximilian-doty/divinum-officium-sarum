@@ -457,11 +457,11 @@ sub psalm : ScriptFunc {
 
   # Tridentine Romanum Laudes: Pss. 62/66 & 148/149/150 under 1 gloria
   # Monastic Vespers: Pss. 115/116 & 148/149/150 under 1 gloria
-  if ($psnum =~ s/^-(.*)/$1/ && $version =~ /Trident|Monastic/) {
+  if ($psnum =~ s/^-(.*)/$1/ && $version =~ /Trident|Monastic|Sarum/) {
     $nogloria =
          $psnum == 148
       || $psnum == 149
-      || ($psnum == 62 && $version !~ /Monastic/ || ($votive =~ /C9/ && $version =~ /Trident/))
+      || ($psnum == 62 && $version !~ /Monastic/ || ($votive =~ /C9/ && $version =~ /Trident|Sarum/))
       || ($psnum == 115 && $version =~ /Monastic/);
   }
 
@@ -475,7 +475,7 @@ sub psalm : ScriptFunc {
 
     # Redirect certain tones for Monastic and Tridentine
     $psnum =~ s/(,|solemn)(1g3|2|in,dir)$/$1$2-monasticus/ if $version =~ /monastic/i;
-    $psnum =~ s/(,|solemn)([34])\,?(?!antiquo)/$1$2,antiquo,$3/ if $version =~ /monastic|1570/i;
+    $psnum =~ s/(,|solemn)([34])\,?(?!antiquo)/$1$2,antiquo,$3/ if $version =~ /monastic|1570|Sarum/i;
 
     # Distingiush between chant and text
     if ($psnum !~ /,/) {

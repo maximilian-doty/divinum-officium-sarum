@@ -291,6 +291,7 @@ sub getordinarium {
   }
   my $fname = 'Ordo';
   if ($version =~ /1967/i) { $fname = 'Ordo67'; }
+  elsif ($version =~ /Sarum/i) { $fname = 'OrdoSar'; }
 
   #elsif ($version =~ /Praedicatorum/i) { $fname = 'OrdoOP'; }
   if ($NewMass) { $fname = ($column == 1) ? $ordos{$version1} : $ordos{$version2}; }

@@ -1,0 +1,36 @@
+@Commune/C6
+
+[Introitus]
+{::English from Warren, The Sarum Missal in English (1911), Common of a Virgin and Martyr; no Sequence is said; "N." takes the saint's name::}
+Thou hast loved righteousness, and hated iniquity: wherefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows.
+!Ps 44:2
+My heart is inditing of a good matter: I speak of the things which I have made unto the King.
+&Gloria
+Thou hast loved righteousness, and hated iniquity: wherefore God, even thy God, hath anointed thee with the oil of gladness above thy fellows.
+
+[Oratio]
+Give ear to us, O God of our salvation: that, as we celebrate with joy the feast of Saint N. thy Virgin and Martyr, so we may be perfected in love and devotion.
+$Per Dominum
+
+[Graduale]
+!Ps 44:8
+Thou hast loved righteousness, and hated iniquity.
+V. !Ps 44:8
+Wherefore God, even thy God, hath anointed thee with the oil of gladness.
+Alleluia, alleluia.
+V. !Sap 3:7
+The righteous shall shine, and run to and fro like sparks among the stubble, for ever.
+Alleluia.
+
+[Offertorium]
+!Ps 44:10
+Kings' daughters were among thy honourable women: upon thy right hand did stand the Queen clothed in a vesture of gold, wrought about with divers colours.
+
+[Secreta]
+O Lord, favourably regard the offerings we present: and, at the intercession of Saint N. thy Virgin and Martyr, loose the chains of our sins.
+$Per Dominum
+
+[Communio]
+!Ps 44:3
+{::Warren's communion text was OCR-cut; this is a conventional Coverdale rendering of "Diffusa est gratia"::}
+Grace is poured into thy lips: therefore God hath blessed thee for ever.

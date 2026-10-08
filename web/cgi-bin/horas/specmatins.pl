@@ -28,7 +28,7 @@ sub invitatorium {
   my %invit = %{setupstring($lang, 'Psalterium/Special/Matutinum Special.txt')};
   my $name = gettempora('Invitatorium');
 
-  if ($version =~ /Trid|Monastic/i && (!$name || ($name eq 'Quad' && $dayofweek != 0))) {
+  if ($version =~ /Trid|Monastic|Sarum/i && (!$name || ($name eq 'Quad' && $dayofweek != 0))) {
     $name = 'Trid';
   }
 
@@ -51,7 +51,7 @@ sub invitatorium {
     && $winner =~ /Pasc/
     && $winner !~ /Pasc[07]/
     && $winner !~ /Pasc5-4/
-    && !($version =~ /trident|divino/i && $dayname[1] =~ /ascensio|pent|joseph/i))
+    && !($version =~ /trident|divino|sarum/i && $dayname[1] =~ /ascensio|pent|joseph/i))
   {
     $ant = prayer("Alleluia Duplex", $lang);
     $ant =~ s/(\S+), (\S+)\./$1, $2, * $1/;
@@ -103,7 +103,7 @@ sub invitatorium {
     } elsif (!$w
       && $dayofweek == 1
       && !($winner{Invit} || $commune{Invit})
-      && ($dayname[0] =~ /(Epi|Pent|Quadp)/i || ($dayname[0] =~ /Quad/i && $version =~ /Trident|Monastic/i)))
+      && ($dayname[0] =~ /(Epi|Pent|Quadp)/i || ($dayname[0] =~ /Quad/i && $version =~ /Trident|Monastic|Sarum/i)))
     {
       # old Invitatorium4
       s/^(v\.|\{\([cf][1-4]b?\))\s*.* \+ (.)/\1 \u\2/m;
@@ -193,7 +193,7 @@ sub psalmi_matutinum {
   $lang = shift;
   if ($version =~ /monastic/i && $winner{Rule} !~ /Matutinum Romanum/i) { return psalmi_matutinum_monastic($lang); }
   my %psalmi = %{setupstring($lang, 'Psalterium/Psalmi/Psalmi matutinum.txt')};
-  my $d = ($version =~ /trident/i) ? 'Daya' : 'Day';
+  my $d = ($version =~ /trident|Sarum/i) ? 'Daya' : 'Day';
   my $dw = $dayofweek;
 
   #if ($winner{Rank} =~ /Dominica/i) {$dw = 0;}
@@ -203,7 +203,7 @@ sub psalmi_matutinum {
   my $prefix = translate('Antiphonae', $lang);
 
   if ($dayofweek == 0 && $dayname[0] =~ /Adv/i) {
-    if ($version =~ /Trident/i) {
+    if ($version =~ /Trident|Sarum/i) {
       @psalmi = split("\n", $psalmi{'Adv0'});
     } else {
       @psalmi = split("\n", $psalmi{'Adv 0 Ant Matutinum'});
@@ -212,14 +212,14 @@ sub psalmi_matutinum {
   }
 
   #replace Psalm50 with breaking 49 to three parts
-  if ($laudes == 2 && $dayofweek == 3 && $version !~ /trident/i && $winner !~ /12-24/i) {
+  if ($laudes == 2 && $dayofweek == 3 && $version !~ /trident|Sarum/i && $winner !~ /12-24/i) {
     @psalmi = split("\n", $psalmi{"Day31"});
     setbuild2("Psalm #50 replaced by breaking #49");
   }
 
   my $name = gettempora('Psalmi Matutinum');
 
-  if ($name && $version !~ /Trident/i && ($winner =~ /tempora/i || $name eq 'Nat' || $name eq 'Epi')) {
+  if ($name && $version !~ /Trident|Sarum/i && ($winner =~ /tempora/i || $name eq 'Nat' || $name eq 'Epi')) {
     if ($dayofweek == 0) {
       foreach my $i (1 .. 3) {
         ($psalmi[($i - 1) * 5 + 3], $psalmi[($i - 1) * 5 + 4]) = split("\n", $psalmi{"$name $i Versum"}, 2);
@@ -285,14 +285,14 @@ sub psalmi_matutinum {
   if ( $rule =~ /9 lectio/i
     && !gettype1960()
     && $rank >= 2
-    && !($dayofweek > 0 && $version =~ /trident/i && $winner{Rank} =~ /Dominica (?!infra.*(?:Nat|Epi))/i))
+    && !($dayofweek > 0 && $version =~ /trident|Sarum/i && $winner{Rank} =~ /Dominica (?!infra.*(?:Nat|Epi))/i))
   {
     setbuild2("9 lectiones");
 
     unless (exists($winner{'Ant Matutinum'})) {
       if (
         ($name eq 'Pasch' || $name eq 'Asc')    # Paschal tide
-        && $version !~ /trident/i
+        && $version !~ /trident|Sarum/i
         && $rank < 5
         && $winner{'Rank'} !~ /(?:in|post).*octava.*Ascensio/i
       ) {
@@ -324,7 +324,7 @@ sub psalmi_matutinum {
   my $vers;
   my $vn = dayofweek2i();
 
-  if ($dayname[0] =~ /Pasc[1-6]/i && $version !~ /Trident/i && $votive !~ /C9|C12/) {    #??? ex
+  if ($dayname[0] =~ /Pasc[1-6]/i && $version !~ /Trident|Sarum/i && $votive !~ /C9|C12/) {    #??? ex
     if ($version =~ /196/ && $name eq 'Asc') {
       my %r = %{setupstring($lang, 'Tempora/Pasc5-4.txt')};
       $vers = $r{"Nocturn $vn Versum"};
@@ -354,7 +354,7 @@ sub psalmi_matutinum {
 
   my @psalm_indices = (0, 1, 2);
 
-  if ($version =~ /trident/i) {
+  if ($version =~ /trident|Sarum/i) {
 
     if ($rule !~ /1 nocturn/i) {
       push(@psalm_indices, 3, 4, 5);
@@ -637,7 +637,7 @@ sub lectio : ScriptFunc {
       && $commemoratio{Lectio1} =~ /\!(Matt|Mark|Marc|Luke|Luc|Joannes|John)\s+[0-9]+\:[0-9]+\-[0-9]+/i) ? 1 : 0;
 
   if ( $num < 4
-    && $version =~ /trident|monastic.*divino/i
+    && $version =~ /trident|monastic.*divino|sarum/i
     && $winner{Rank} =~ /Dominica/i
     && $month != 12
     && $dayofweek > 0)
@@ -662,7 +662,7 @@ sub lectio : ScriptFunc {
     } else {
 
       my $tfile =
-        subdirname('Tempora', $version) . sprintf("Nat%02i", $day) . ($version =~ /Trident/i ? "o.txt" : ".txt");
+        subdirname('Tempora', $version) . sprintf("Nat%02i", $day) . ($version =~ /Trident|Sarum/i ? "o.txt" : ".txt");
       my $t = get_from_directorium('tempora', $version, $tfile);
       $tfile = $t || $tfile;
 
@@ -691,7 +691,7 @@ sub lectio : ScriptFunc {
     } else {
       $w{"Lectio$num"} = $scrip{"Lectio$num"};
 
-      if ($version =~ /Trident/i && exists($w{"ResponsoryT$num"})) {
+      if ($version =~ /Trident|Sarum/i && exists($w{"ResponsoryT$num"})) {
         $w{"Responsory$num"} = $scrip{"Responsory$num"};
       } else {
         $w{"Responsory$num"} = $scrip{"Responsory$num"};
@@ -836,7 +836,7 @@ sub lectio : ScriptFunc {
       ($num < 4 && exists($scriptura{"Lectio$num"}))    # for the first nocturn, if their is scripture available
       || ($num == 4 && $rule =~ /12 lect/i && exists($scriptura{"Lectio3"}))
     )                                                   # or for Monastic if we have to split the lessons at the ¶ mark
-    && ($version !~ /trident/i || $rank < 5)
+    && ($version !~ /trident|Sarum/i || $rank < 5)
   ) {                                                   # but not in Tridentinum Duplex II. vel I. classis
     %w = (columnsel($lang)) ? %scriptura : %scriptura2;
 
@@ -850,7 +850,7 @@ sub lectio : ScriptFunc {
       setbuild2("Lectiones ex 3 fiunt 4") if $num == 1;
     }
 
-    if ($version =~ /Trident/ && $winner =~ /Sancti/ && $rank < 2) {
+    if ($version =~ /Trident|Sarum/ && $winner =~ /Sancti/ && $rank < 2) {
 
       # dirty hack to fix 3932
       $w{Responsory1} = $w{Responsory2} = '';
@@ -920,7 +920,7 @@ sub lectio : ScriptFunc {
       (
            $rule =~ /9 lectio/i
         && $num == 9
-        && !(exists($winner{Responsory9}) || ($winner{Rank} =~ /Dominica/i && $version !~ /Trid/i))
+        && !(exists($winner{Responsory9}) || ($winner{Rank} =~ /Dominica/i && $version !~ /Trid|Sarum/i))
       )
 
       # Single / Double nocturn: Last lectio
@@ -958,7 +958,7 @@ sub lectio : ScriptFunc {
       && ($homilyflag == 1 || exists($commemoratio{"Lectio$j0"}))
       && $comrank > 1
       && $version !~ /Cist/i
-      && ($rank > 4 || ($rank >= 3 && $version =~ /Trident/i) || $homilyflag == 1))
+      && ($rank > 4 || ($rank >= 3 && $version =~ /Trident|Sarum/i) || $homilyflag == 1))
 
       #  || exists($commemoratio{Lectio1}) removed as it results in a wrong commemoration of Die infra 8vam (e.g., 2024-04-23)
     {
@@ -1326,7 +1326,7 @@ sub gettype1960 {
       $type = LT1960_FERIAL;
     } elsif ($dayname[1] =~ /infra octavam/i) {
       $type = LT1960_OCTAVE;
-    } elsif ($version !~ /trident/i && $rank < 4) {
+    } elsif ($version !~ /trident|Sarum/i && $rank < 4) {
       $type = LT1960_SANCTORAL;
     }
   }

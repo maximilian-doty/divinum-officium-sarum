@@ -1,0 +1,66 @@
+[Officium]
+Third Sunday of Advent
+
+[Rule]
+no Gloria
+Credo
+Suffr=Maria1;;
+
+[Introitus]
+!Phil 4:4-6
+v. Rejoice in the Lord alway: and again, I say, rejoice. Let your moderation be known unto all men: the Lord is at hand. Be careful for nothing: but in every thing by prayer let your requests be made known unto God.
+!Phil 4:7
+And the peace of God, which passeth all understanding: shall keep your hearts and minds.
+&Gloria
+v. Rejoice in the Lord alway: and again, I say, rejoice. Let your moderation be known unto all men: the Lord is at hand. Be careful for nothing: but in every thing by prayer let your requests be made known unto God.
+
+[Oratio]
+O Lord, we beseech Thee, give ear to our prayers: and by Thy gracious visitation lighten the darkness of our hearts.
+$Qui vivis
+
+[Lectio]
+Lesson from the first letter of St. Paul the Apostle to the Corinthians
+!1 Cor 4:1-5
+Brethren: Let a man so account us, as servants of Christ and stewards of the mysteries of God. Now here it is required in stewards that a man be found trustworthy. But with me it is a very small matter to be judged by you or by man’s tribunal. Nay I do not even judge my own self. For I have nothing on my conscience, yet I am not thereby justified; but he who judges me is the Lord. Therefore, pass no judgment before the time, until the Lord comes, Who will both bring to light the things hidden in darkness and make manifest the counsels of hearts; and then everyone will have his praise from God.
+
+[Graduale]
+!Ps 79:2
+O Lord, Thou that sittest upon the cherubim, stir up Thy strength, and come.
+V. Hear, O Thou Shepherd of Israel, Thou that leadest Joseph like a sheep. Alleluia, alleluia.
+!Ps 79:3
+V. O Lord, stir up Thy strength, and come and help us. Alleluia.
+
+[GradualeF]
+!Ps 79:2
+O Lord, Thou that sittest upon the cherubim, stir up Thy strength, and come.
+V. Hear, O Thou Shepherd of Israel, Thou that leadest Joseph like a sheep.
+
+[Sequentia]
+Thou Who rulest earthly sceptres with Thy mighty hand alone,
+Raise up Thy great power, and come, to Thy people show Thyself;
+Bestow the gifts which bring salvation on Him Whom all the prophets did foretell.
+From the bright palace of the sky, Lord Jesus to our land draw nigh!
+
+[Evangelium]
+The continuation of the holy Gospel according to Matthew
+!Matt 11:2-10
+At that time, when John had heard in prison of the works of Christ, he sent two of his disciples to say to Him, Are You He Who is to come, or shall we look for another? And Jesus answering said to them, Go and report to John what you have heard and seen: the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead rise, the poor have the gospel preached to them. And blessed is he who is not scandalized in Me. Then, as they went away, Jesus began to say to the crowds concerning John, What did you go out to the desert to see? A reed shaken by the wind? But what did you go out to see? A man clothed in soft garments? Behold, those who wear soft garments are in the houses of kings. But what did you go out to see? A prophet? Yes, I tell you, and more than a prophet. This is he of whom it is written, ‘Behold, I send my messenger before Your face, who shall make ready Your way before You.’
+
+[Offertorium]
+!Ps 84:2
+Lord, Thou art become gracious unto Thy land: Thou hast turned away the captivity of Jacob: Thou hast forgiven the offence of Thy people.
+/:The following verses are said through the ferias of the week, not on the Sunday.:/
+V. Thou hast covered all their sins: Thou hast taken away all Thy displeasure.
+V. Shew us Thy mercy, O Lord: and grant us Thy salvation.
+
+[Secreta]
+We beseech Thee, O Lord, that we may offer continually to Thee the sacrifice of our devotion: whereby the institution of Thy sacred Mystery may be set forth, and Thy salvation marvellously worked out for us.
+$Per Dominum
+
+[Communio]
+!Is 35:4
+Say to them that are of a fearful heart, Be strong, fear not: behold, our God will come and save us.
+
+[Postcommunio]
+We implore, O Lord, Thy mercy: that, being cleansed from sin by this Divine assistance, we may be prepared for the approaching feast.
+$Per Dominum

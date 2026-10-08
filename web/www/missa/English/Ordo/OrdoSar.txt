@@ -1,0 +1,286 @@
+&Vidiaquam
+
+# Incipit
+!While the Priest vests for Mass, let him say the following hymn:
+v. Come, Creator-Spirit, all-divine, come visit every soul of thine, and fill with thy celestial flame the hearts which thou thyself didst frame.
+!Which ended, he says:
+V. Send forth thy Spirit, and they shall be created.
+R. And thou shalt renew the face of the earth.
+v. O God, to whom every heart is open and every desire known, and whom no secret escapes: purify by the infusion of the Holy Spirit the thoughts of our heart; that we may merit perfectly to love and worthily to praise thee. Through Christ our Lord. Amen.
+
+!Let the Priest approach with his ministers to the step of the altar, and sign himself, saying:
+v. In the Name of the Father, + and of the Son, and of the Holy Ghost. Amen.
+
+!Then, joining his hands before his breast, he begins the Anthem:
+S. I will go in unto the altar of God.
+M. To God, who giveth joy to my youth.
+!*&Introibo
+!The Priest alternates with the ministers in reciting this psalm:
+!Ps. 42, 1-5
+S. Judge me, O God, and distinguish my cause from the nation which is not holy: deliver me from the unjust and deceitful man.
+M. For Thou, O God, art my strength: why hast Thou cast me off? and why go I sorrowful whilst the enemy afflicteth me?
+S. Send forth Thy light and Thy truth: they have conducted me and brought me unto Thy holy mount, and into Thy tabernacles.
+M. And I will go in to the altar of God: to God who giveth joy to my youth.
+S. To Thee, O God, my God, I will give praise upon the harp: why art thou sad, O my soul, and why dost thou disquiet me?
+M. Hope in God, for I will still give praise to Him: the salvation of my countenance and my God.
+S. Glory be to the Father, and to the Son, and to the Holy Ghost.
+M. As it was in the beginning, is now, and ever shall be, world without end. Amen.
+!The Priest repeats the Anthem:
+S. I will go in unto the altar of God.
+M. To God, who giveth joy to my youth.
+
+!Then let the Priest say the Confession, the deacon assisting on the right and the subdeacon on the left:
+v. I confess to God, to Blessed Mary, to all the Saints, and to you: for I have sinned exceedingly in thought, word, and deed, by my fault. I pray Holy Mary, all the Saints of God, and you, to pray for me.
+M. The Almighty God have mercy upon you, and pardon all your sins, deliver you from all evil, preserve and confirm you in good, and lead you to everlasting life.
+S. Amen.
+!Then let the ministers repeat the Confession, where the Priest said "you," the ministers say "thee, Father":
+M. I confess to God, to Blessed Mary, to all the Saints, and to thee, Father: for I have sinned exceedingly in thought, word, and deed, by my fault. I pray Holy Mary, all the Saints of God, and thee, Father, to pray for me.
+S. The Almighty God have mercy upon you, and pardon all your sins, deliver you from all evil, preserve and confirm you in good, and lead you to everlasting life.
+S. Absolution and remission of all your sins, space for true repentance, amendment of life, grace, and the consolation of the Holy Spirit, the Almighty and merciful Lord grant unto you.
+M. Amen.
+!Then let the Priest say the Versicle:
+V. Our help is in the name of the Lord.
+R. Who made heaven and earth.
+V. Blessed be the name of the Lord.
+R. From this time, now, and for ever.
+
+!*S
+!Then let the Priest kiss the deacon, and afterwards the subdeacon (which is observed save only in Masses for the dead, and in the three fast days before Easter), saying:
+v. Receive the kiss of peace and of love, that ye may be meet to perform the sacred offices at the holy altar.
+
+!Then let the Priest approach to the altar, and say at the middle of the altar with inaudible voice, the body bowed and the hands joined:
+v. Take away from us, we beseech thee, O Lord, all our iniquities: that we may be worthy to enter into the holy of holies with pure minds. Through Christ our Lord. Amen.
+!Then let the Priest raise himself up, kiss the altar in the middle, and sign himself on his face, saying:
+v. In the Name of the Father, and of the Son, + and of the Holy Ghost. Amen.
+
+!*S
+# Incensatio
+!Then let the deacon place incense in the censer, and first say to the Priest, Bless ye. And let the Priest say:
+v. By Him may this incense be + blessed, in whose honour it shall be burned. In the Name of the Father, and of the Son, and of the Holy Ghost. Amen.
+!Then let the Priest incense the middle of the altar and both horns of the altar.
+
+# Introitus
+&introitus
+
+# Kyrie
+S. Lord, have mercy.
+M. Lord, have mercy.
+S. Lord, have mercy.
+M. Christ, have mercy.
+S. Christ, have mercy.
+M. Christ, have mercy.
+S. Lord, have mercy.
+M. Lord, have mercy.
+S. Lord, have mercy.
+
+!! Gloria
+!*&GloriaM
+!Which is always begun at the middle of the altar whenever it is said:
+v. Glory be to God on high, and on earth peace to men of good will. We praise Thee. We bless Thee. We adore Thee. We glorify Thee. We give Thee thanks for Thy great glory. O Lord God, heavenly King, God the Father almighty. O Lord Jesus Christ, the only-begotten Son. O Lord God, Lamb of God, Son of the Father. Who takest away the sins of the world, have mercy on us. Who takest away the sins of the world, receive our prayer. Who sittest at the right hand of the Father, have mercy on us. For Thou only art holy. Thou only art the Lord. Thou only art most high, O Jesus Christ. Together with the Holy Ghost + in the glory of God the Father. Amen.
+
+#Oratio
+!Having made the sign of the cross, let the Priest turn to the people and say:
+&DominusVobiscum
+!And returning to the altar he says, Let us pray, and the Collects, according to the order of the Office:
+&collect
+
+# Lectio
+&lectio
+
+# Graduale
+&graduale
+
+# Evangelium
+!In the end of the Alleluia, or of the Sequence, or of the Tract, let the deacon, before he advances to read the Gospel, incense the middle of the altar only. Then, bowing to the Priest, let him say:
+D. Command, Sir, to bless.
+S. The Lord be in thy heart and in thy mouth, to declare the holy Gospel of God. In the Name of the Father, and of the Son, + and of the Holy Ghost. Amen.
+!Then let the deacon proceed to the pulpit, and let the Gospel always be read towards the north. As he begins the Gospel, let him make the sign of the cross upon the book, then on his forehead, and afterwards on his breast, saying:
+&evangelium
+!The Gospel read, let him kiss the book.
+
+# Credo
+!*&Credo
+v. I believe in one God, the Father almighty, Maker of heaven and earth, and of all things visible and invisible. And in one Lord Jesus Christ, the only-begotten Son of God. And born of the Father, before all ages. God of God: Light of Light: true God of true God. Begotten, not made, consubstantial with the Father; by whom all things were made. Who, for us men, and for our salvation, came down from heaven. (Here kneel down.) And became incarnate by the Holy Ghost of the Virgin Mary: and was made man. He was crucified also for us, suffered under Pontius Pilate, and was buried. And the third day He rose again according to the Scriptures. And ascended into heaven, and sitteth at the right hand of the Father. And He shall come again with glory to judge both the living and the dead: of whose kingdom there shall be no end. And in the Holy Ghost, the Lord and Giver of life: who proceedeth from the Father and the Son. Who together with the Father and the Son is adored and glorified: who spoke by the prophets. And in one, holy, Catholic and Apostolic Church. I confess one baptism for the remission of sins. And I look for the resurrection of the dead. And the life of the world to come. Amen.
+
+# Offertorium
+!Then let the Priest, turned to the people, say:
+V. The Lord be with you.
+R. And with thy spirit.
+!Then at the altar let the Priest say:
+v. Let us pray.
+&offertorium
+
+!After the offertory, let the deacon hand the chalice with the paten and the host to the Priest. Then, bowing a little, let him elevate the chalice with both hands, offering the sacrifice to the Lord, saying:
+v. Receive, O Holy Trinity, this oblation, which I, an unworthy sinner, offer in honour of thee, of the Blessed Virgin and all thy Saints, for my sins and offences, and for the salvation of the living and the rest of all the faithful departed. In the Name of the Father, and of the Son, and of the Holy Ghost, let this new sacrifice be acceptable to almighty God.
+
+!*S
+!Then let him take the censer from the deacon and incense the sacrifice, saying:
+v. Let my prayer, O Lord, be directed unto thee, as incense in thy sight.
+!Then let the Priest be incensed, and afterwards the choir.
+
+!These things finished, let the Priest go to the right horn of the altar and wash his hands, saying:
+v. Cleanse me, O Lord, from all defilement of mind and body: that I may be able, made clean, to fulfil the holy work of the Lord.
+!The hands washed, let him return to the altar, and with head and body bowed, and hands joined, say:
+v. In the spirit of humility and in a contrite mind let us be received by thee, O Lord: and so let our sacrifice be made in thy sight this day, that it may please thee, O Lord God.
+!And raising himself, let him kiss the altar on the right of the sacrifice, and sign himself, saying:
+v. In the Name of the Father, and of the Son, + and of the Holy Ghost. Amen.
+!Then let the Priest turn to the people, and with low voice say:
+S. Pray, brethren and sisters, that my sacrifice and yours may be acceptable to the Lord our God.
+M. May the grace of the Holy Spirit illuminate thy heart and thy lips, and may the Lord accept worthily this sacrifice of praise from thy hands for our sins and offences.
+_
+!!Secreta
+&secreta
+
+# Præfatio
+V. World without end.
+R. Amen.
+V. The Lord be with you.
+R. And with thy spirit.
+V. Lift up your hearts.
+R. We have lifted them up unto the Lord.
+V. Let us give thanks to the Lord our God.
+R. It is meet and right so to do.
+_
+&prefatio
+_
+v. Holy, Holy, Holy, Lord God of Hosts. Heaven and earth are full of thy glory. Hosanna in the highest. Blessed is he that cometh in the name of the Lord. Hosanna in the highest.
+
+# Canon
+!Then, joining his hands and raising his eyes, let him begin the Canon of the Mass:
+v. Therefore, most merciful Father, we humbly pray and beseech thee, through Jesus Christ thy Son our Lord, (he kisses the altar and, joining his hands, says:) that thou wouldest accept and bless (he signs thrice over the Host and Chalice:) these + gifts, these + presents, these + holy unspotted sacrifices, (with hands extended he continues:) which we offer unto thee, in the first place, for thy holy Catholic Church: that thou wouldest vouchsafe to pacify, to guard, to unite, and to govern her throughout the whole world: together with thy servant N. our Pope, and N. our Bishop, and N. our King, and all true believers and professors of the Catholic and Apostolic faith.
+
+!Here let him pray for the living:
+v. Remember, O Lord, thy servants and handmaids N. and N. wait10 (he joins his hands and prays a while: then, with hands extended, continues:) and all here present, whose faith and devotion are known unto thee: for whom we offer unto thee, or who offer up to thee, this sacrifice of praise for themselves and all theirs: for the redemption of their souls, for the hope of their salvation and safety: and who pay their vows unto thee, the eternal, living, and true God.
+
+&communicantes
+and of thy blessed Apostles and Martyrs, Peter and Paul, Andrew, James, John, Thomas, James, Philip, Bartholomew, Matthew, Simon and Thaddeus: Linus, Cletus, Clement, Sixtus, Cornelius, Cyprian, Lawrence, Chrysogonus, John and Paul, Cosmas and Damian: and of all thy Saints; by whose merits and prayers grant that we may in all things be defended by the help of thy protection. (He joins his hands.) Through the same Christ our Lord. Amen.
+
+(Holding his hands spread over the oblation, he says:)
+v. We therefore beseech thee, O Lord, graciously to accept this oblation of our service, as also of thy whole family;
+&hancigitur
+and to dispose our days in thy peace; and to command that we be delivered from eternal damnation, and numbered in the flock of thine elect. (He joins his hands.) Through Christ our Lord. Amen.
+
+v. Which oblation do thou, O God, vouchsafe in all respects (he signs thrice over the oblation,) to + bless, + approve, + ratify, make reasonable and acceptable: (he signs once over the Host,) that it may become for us the + Body, (and once over the Chalice,) and + Blood of thy most beloved Son, (he joins his hands,) our Lord Jesus Christ.
+
+v. Who, the day before he suffered, (he takes the Host,) took bread into his holy and venerable hands, (he raises his eyes to heaven,) and lifting up his eyes to heaven unto thee, O God, his Father almighty, (he bows his head,) giving thanks to thee, (he signs over the Host,) he + blessed, brake, and gave it to his disciples, saying: Take, and eat ye all of this.
+_
+!!!FOR THIS IS MY BODY.
+_
+!These words spoken, let the Priest adore the consecrated Host, show it to the people, replace it upon the Corporal, and adore again.
+wait5
+
+(Then, the Chalice uncovered, he says:)
+v. In like manner, after he had supped, (he takes the Chalice,) taking also this excellent Chalice into his holy and venerable hands, (he bows his head,) again giving thanks to thee, (he signs over it,) he + blessed, and gave it to his disciples, saying: Take, and drink ye all of this.
+_
+!!!FOR THIS IS THE CHALICE OF MY BLOOD, OF THE NEW AND ETERNAL TESTAMENT: THE MYSTERY OF FAITH: WHICH SHALL BE SHED FOR YOU AND FOR MANY UNTO THE REMISSION OF SINS.
+wait5
+_
+v. As often as ye shall do these things, ye shall do them in remembrance of me.
+!Let him adore, show it to the people, replace it, and adore again.
+
+v. Wherefore, O Lord, we thy servants, as also thy holy people, calling to mind the blessed Passion of the same Christ thy Son our Lord, his Resurrection from the dead, and his glorious Ascension into heaven, offer unto thy most excellent Majesty, of thy gifts bestowed upon us, (he signs thrice over the Host and Chalice,) a pure + Victim, a holy + Victim, an unspotted + Victim, (he signs over the Host,) the holy + Bread of eternal life, (and over the Chalice,) and the + Chalice of everlasting salvation.
+
+v. Upon which vouchsafe to look with a propitious and serene countenance, and to accept them, as thou wast pleased to accept the gifts of thy righteous servant Abel, and the sacrifice of our Patriarch Abraham, and that which thy High Priest Melchisedech offered unto thee, a holy sacrifice, an unspotted Victim.
+
+!Bowing down, with hands joined, he says:
+v. We humbly beseech thee, almighty God, command these things to be borne by the hands of thy holy Angel to thine altar on high, in the sight of thy divine Majesty: that as many of us (he kisses the altar,) as, by this partaking of the altar, shall receive the most sacred + Body and + Blood of thy Son, (he signs himself,) may be filled with all heavenly benediction and grace. (He joins his hands.) Through the same Christ our Lord. Amen.
+
+!Here let him pray for the dead:
+v. Remember also, O Lord, the souls of thy servants and handmaids N. and N., who are gone before us with the sign of faith, and rest in the sleep of peace. wait10 (He joins his hands and prays a while: then, with hands extended, continues:) To these, O Lord, and to all that rest in Christ, grant, we beseech thee, a place of refreshment, light, and peace. (He joins his hands and bows his head.) Through the same Christ our Lord. Amen.
+
+!Striking his breast, he says:
+v. To us also, sinners, thy servants, (with hands extended he continues:) hoping in the multitude of thy mercies, vouchsafe to grant some part and fellowship with thy holy Apostles and Martyrs: with John, Stephen, Matthias, Barnabas, Ignatius, Alexander, Marcellinus, Peter, Felicitas, Perpetua, Agatha, Lucy, Agnes, Cecily, Anastasia, and with all thy Saints: into whose company we beseech thee to admit us, not weighing our merits, but granting us pardon. (He joins his hands.) Through Christ our Lord.
+
+v. By whom, O Lord, thou dost ever create all these good things, (he signs thrice over the Host and Chalice,) dost + sanctify, + quicken, + bless, and bestow them upon us.
+!Uncovering the chalice, he makes the sign of the cross five times with the Host, saying:
+v. Through + him, and with + him, and in + him, is unto thee, God the Father + almighty, in the unity of the Holy + Ghost, all honour and glory.
+!He covers the chalice and holds his hands upon the altar until the Pater noster, saying:
+v. World without end.
+R. Amen.
+
+# Preparatio Communionis
+v. Let us pray. Taught by thy saving precepts, and following thy divine institution, we make bold to say:
+v. Our Father, who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation.
+R. But deliver us from evil.
+S. Amen.
+
+v. Deliver us, we beseech thee, O Lord, from all evils, past, present, and to come: and by the intercession of the blessed and glorious ever-Virgin Mary, Mother of God, with thy blessed Apostles Peter and Paul, and Andrew, and all the Saints, (he signs himself with the paten,) graciously grant peace in our days: (he kisses the paten,) that, aided by the help of thy mercy, we may be ever free from sin, and safe from all disturbance.
+!Here let him uncover the chalice and break the Host into three parts, saying:
+v. Through the same our Lord Jesus Christ thy Son, (the second breaking:) who liveth and reigneth with thee in the unity of the Holy Ghost, God, (holding the third part in his right hand, he says aloud:) world without end.
+R. Amen.
+!Here let him make three crosses within the chalice with the third part of the Host, saying:
+v. The peace + of the Lord be + always with + you.
+R. And with thy spirit.
+
+!*nD
+v. O Lamb of God, who takest away the sins of the world, have mercy upon us.
+v. O Lamb of God, who takest away the sins of the world, have mercy upon us.
+v. O Lamb of God, who takest away the sins of the world, grant us peace.
+!&AgnusHook
+
+!*D
+v. O Lamb of God, who takest away the sins of the world, grant them rest.
+v. O Lamb of God, who takest away the sins of the world, grant them rest.
+v. O Lamb of God, who takest away the sins of the world, grant them rest everlasting.
+
+!Here, signing with the cross, let him place the said third part of the Host into the Blood, saying:
+v. May this holy + commixture of the Body and Blood of our Lord Jesus Christ be to me and to all who receive it salvation of mind and body, and a healthful preparation for meriting and attaining everlasting life. Through the same Christ our Lord. Amen.
+!Before the peace is given, let the Priest say:
+v. O Lord, holy Father, almighty and eternal God, grant me so worthily to receive this most holy Body and Blood of thy Son our Lord Jesus Christ, that thereby I may merit to receive the remission of all my sins, and to be filled with thy Holy Spirit, and to have thy peace. For thou art God alone, and there is none other beside thee, whose kingdom and glorious empire abideth without end, world without end. Amen.
+
+!*&CheckPax
+!Here let the Priest kiss the top of the chalice, and afterwards the deacon, saying:
+v. Peace be to thee and to the Church of God.
+R. And with thy spirit.
+
+!After the peace is given, let the Priest say the following prayers privately, before he communicates, holding the Host in both hands:
+v. O God the Father, the fountain and origin of all goodness, who, moved by mercy, didst will thine only-begotten Son for our sake to descend to the lowest parts of the world and to take flesh, which I, unworthy, here hold in my hands: (here he bows to the Host, saying:) I adore thee, I glorify thee, I praise thee with the whole intention of mind and heart: and I pray that thou forsake not us thy servants, but forgive our sins; that with pure heart and chaste body we may be able to serve thee, who alone art the living and true God. Through the same Christ our Lord. Amen.
+
+v. O Lord Jesus Christ, Son of the living God, who by the will of the Father, the Holy Ghost cooperating, hast by thy death given life to the world: deliver me, I beseech thee, by this thy most holy Body and Blood from all mine iniquities and from all evils: and make me ever cleave to thy commandments, and never suffer me to be separated from thee for ever, O Saviour of the world: who with God the Father and the same Holy Ghost livest and reignest God, world without end. Amen.
+
+v. Let not the sacrament of thy Body and Blood, O Lord Jesus Christ, which I, though unworthy, presume to receive, be unto me for judgment and condemnation: but through thy mercy may it profit me unto the salvation of my body and soul. Amen.
+
+!To the Body let him say, with humility, before he receives it:
+v. Hail for evermore, O most holy Flesh of Christ, to me before all things and above all things the highest sweetness. The Body of our Lord Jesus Christ be to me a sinner the way and the life. In the Name of the + Father, and of the Son, and of the Holy Ghost. Amen.
+!Here let him receive the Body. Then to the Blood, with great devotion, saying:
+v. Hail for evermore, O heavenly draught, to me before all things and above all things the highest sweetness. The Body and Blood of our Lord Jesus Christ profit me a sinner unto an everlasting remedy unto life eternal. Amen. In the Name of the + Father, and of the Son, and of the Holy Ghost. Amen.
+!Here let him receive the Blood; which taken, let him bow and say with devotion:
+v. I give thee thanks, O Lord, holy Father, almighty eternal God, who hast refreshed me with the most sacred Body and Blood of thy Son our Lord Jesus Christ: and I beseech thee that this sacrament of our salvation, which I, an unworthy sinner, have received, may not come unto me for judgment nor for condemnation according to my deserts, but unto the profit of my body and soul unto life eternal. Amen.
+
+&Communio_Populi
+wait16
+
+!Which said, let the Priest go to the right horn of the altar and rinse his hands. After the first ablution this prayer is said:
+v. What we have taken with the mouth, O Lord, may we receive with a pure mind: and of a temporal gift may it become to us an everlasting remedy.
+!After the second ablution:
+v. May this communion, O Lord, purge us from sin, and make us partakers of the heavenly remedy.
+!Then, bowing, let him say:
+v. We adore the sign of the cross, whereby we have received the sacrament of salvation.
+
+# Communio
+&communio
+
+# Postcommunio
+!Making the sign of the cross, let him turn to the people, saying:
+S. The Lord be with you.
+R. And with thy spirit.
+!And returning to the altar he says:
+&postcommunio
+
+# Conclusio
+S. The Lord be with you.
+M. And with thy spirit.
+&itemissaest
+
+!*&placeattibi
+!These things said, let the Priest, with body bowed and hands joined, say with low voice before the middle of the altar:
+v. Let this performance of my homage be pleasing to thee, O holy Trinity: and grant that the sacrifice which I, unworthy, have offered before the eyes of thy Majesty, may be acceptable to thee, and through thy mercy be propitiatory for me and for all those for whom I have offered it. Who livest and reignest God, world without end. Amen.
+!Which ended, let the Priest raise himself, signing himself on his face, saying:
+v. In the + Name of the Father, and of the Son, and of the Holy Ghost. Amen.
+
+!*&CheckUltimaEv
+!The Priest, returning, says the Gospel:
+V. The Lord be with you.
+R. And with thy spirit.
+&Ultimaev
+!The Gospel ended, let him say the Anthem of the Three Children with the Psalms, as in the beginning of the Missal.

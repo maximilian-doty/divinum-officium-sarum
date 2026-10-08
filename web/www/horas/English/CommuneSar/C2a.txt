@@ -1,0 +1,56 @@
+@Commune/C2a
+
+[Introitus]
+{::English from Warren, The Sarum Missal in English (1911), Common of a Martyr; "N." takes the saint's name::}
+The righteous shall flourish like a palm-tree, and shall spread abroad like a cedar in Libanus: such as are planted in the house of the Lord shall flourish in the courts of the house of our God.
+!Ps 91:2
+It is a good thing to give thanks unto the Lord: and to sing praises unto thy Name, O Most Highest.
+&Gloria
+The righteous shall flourish like a palm-tree, and shall spread abroad like a cedar in Libanus: such as are planted in the house of the Lord shall flourish in the courts of the house of our God.
+
+[Oratio]
+Be present with us in our prayers, O Lord, and at the intercession of Saint N. thy Martyr, graciously bestow upon us thy everlasting mercy.
+$Per Dominum
+
+[Graduale]
+!Ps 20:4
+Thou hast set, O Lord, a crown of pure gold upon his head.
+V. !Ps 20:3
+Thou hast given him his heart's desire: and hast not denied him the request of his lips.
+Alleluia, alleluia.
+V. !Ps 20:4
+Thou hast set, O Lord, a crown of pure gold upon his head.
+Alleluia.
+
+[Sequentia]
+{::Warren's English of the Sarum Martyr Sequence "Organicis canamus"; "N." takes the saint's name::}
+Now let us sing, with instruments well tuned,
+the feast of N., in divers kinds of voice,
+paying our due thanksgivings to the Lord,
+much to be had in reverence of his saints,
+whom, with high gifts and virtues manifold,
+he doth adorn and richly beautify.
+In them, as though in instruments of music,
+faith doth with her own finger touch the strings,
+discoursing high of virtues excellent —
+as on each single string she lays her hand
+she blends it in the fourfold melody
+which she, that mother of all grace, evokes:
+composing thus harmonious symphony;
+without whom all is dissonant,
+yea, trifling, poor, and vain;
+with whom all is unisonant,
+yea, fraught with endless gain;
+aided by whom the just, in holy lives
+seeking to climb the heights of starry heaven,
+sing forth new songs, and tune their harps in gladness.
+May we who keep their feast be counted meet
+to hold with them in heaven communion sweet.
+
+[Offertorium]
+!Ps 20:2-3
+The righteous shall rejoice in thy strength, O Lord: exceeding glad shall he be of thy salvation. Thou hast given him his heart's desire.
+
+[Communio]
+!Mat 16:24
+He that will come after me, let him deny himself, and take up his cross, and follow me.

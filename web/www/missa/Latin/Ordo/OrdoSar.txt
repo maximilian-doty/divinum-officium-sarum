@@ -1,0 +1,286 @@
+&Vidiaquam
+
+# Incipit
+!Ad Missam dicendam, dum Sacerdos induit se sacris vestibus, dicat Hymnum sequentem:
+v. Veni, Creátor Spíritus, mentes tuórum vísita: imple supérna grátia quæ tu creásti péctora.
+!Qua finita, dicat:
+V. Emítte Spíritum tuum et creabúntur.
+R. Et renovábis fáciem terræ.
+v. Deus, cui omne cor patet et omnis volúntas lóquitur, et quem nullum latet secrétum: purífica per infusiónem Sancti Spíritus cogitatiónes cordis nostri; ut te perfécte dilígere et digne laudáre mereámur. Per Dóminum nostrum Jesum Christum Fílium tuum: Qui tecum vivit et regnat in unitáte ejúsdem Spíritus Sancti Deus, per ómnia sǽcula sæculórum. Amen.
+
+!Accedat Sacerdos cum suis ministris ad gradum altaris, et signat se signo crucis, dicens:
+v. In nómine Patris, + et Fílii, et Spíritus Sancti. Amen.
+
+!Deinde, junctis manibus ante pectus, incipit Antiphonam:
+S. Introíbo ad altáre Dei.
+M. Ad Deum, qui lætíficat juventútem meam.
+!*&Introibo
+!Postea alternatim cum Ministris dicit sequentem:
+!Ps. 42, 1-5
+S. Júdica me, Deus, et discérne causam meam de gente non sancta: ab hómine iníquo et dolóso érue me.
+M. Quia tu es, Deus, fortitúdo mea: quare me repulísti, et quare tristis incédo, dum afflígit me inimícus?
+S. Emítte lucem tuam et veritátem tuam: ipsa me deduxérunt, et adduxérunt in montem sanctum tuum et in tabernácula tua.
+M. Et introíbo ad altáre Dei: ad Deum, qui lætíficat juventútem meam.
+S. Confitébor tibi in cíthara, Deus, Deus meus: quare tristis es, ánima mea, et quare contúrbas me?
+M. Spera in Deo, quóniam adhuc confitébor illi: salutáre vultus mei, et Deus meus.
+S. Glória Patri, et Fílio, et Spirítui Sancto.
+M. Sicut erat in princípio, et nunc, et semper: et in sǽcula sæculórum. Amen.
+!Sacerdos repetit Antiphonam:
+S. Introíbo ad altáre Dei.
+M. Ad Deum, qui lætíficat juventútem meam.
+
+!Deinde dicat ipse Confessionem, diacono assistente a dextris et subdiacono a sinistris:
+v. Confíteor Deo, beátæ Maríæ, ómnibus Sanctis, et vobis: quia peccávi nimis, cogitatióne, locutióne, et ópere: mea culpa. Precor sanctam Maríam, omnes Sanctos Dei, et vos, oráre pro me.
+M. Misereátur vestri omnípotens Deus, et dimíttat vobis ómnia peccáta vestra: líberet vos ab omni malo: consérvet et confírmet in bono: et ad vitam perdúcat ætérnam.
+S. Amen.
+!Deinde Ministri repetunt Confessionem, ubi a Sacerdote dicebatur vobis, a Ministris dicitur tibi, Pater:
+M. Confíteor Deo, beátæ Maríæ, ómnibus Sanctis, et tibi, Pater: quia peccávi nimis, cogitatióne, locutióne, et ópere: mea culpa. Precor sanctam Maríam, omnes Sanctos Dei, et te, Pater, oráre pro me.
+S. Misereátur vestri omnípotens Deus, et dimíttat vobis ómnia peccáta vestra: líberet vos ab omni malo: consérvet et confírmet in bono: et ad vitam perdúcat ætérnam.
+S. Absolutiónem et remissiónem ómnium peccatórum vestrórum, spátium veræ pœniténtiæ et emendatiónem vitæ, grátiam et consolatiónem Sancti Spíritus, tríbuat vobis omnípotens et miséricors Dóminus.
+M. Amen.
+!Deinde dicat Sacerdos Versum:
+V. Adjutórium nostrum in nómine Dómini.
+R. Qui fecit cælum et terram.
+V. Sit nomen Dómini benedíctum.
+R. Ex hoc nunc et usque in sǽculum.
+
+!*S
+!Deinde Sacerdos deósculetur diáconum, et postea subdiáconum (quod servatur nisi in Missis pro defunctis et in tribus proximis feriis ante Pascha), ita dicens:
+v. Habéte ósculum pacis et dilectiónis, ut apti sitis sacrosáncto altári, ad perficiéndum offícia divína.
+
+!Deinde accedat Sacerdos ad altare, et dicat in medio altaris tacita voce, inclinato corpore et junctis manibus:
+v. Aufer a nobis, quǽsumus, Dómine, cunctas iniquitátes nostras: ut ad Sancta sanctórum puris mereámur méntibus introíre. Per Christum, Dóminum nostrum. Amen.
+!Tunc erigat se Sacerdos et osculetur altare in medio, et signet se in facie sua, dicens:
+v. In nómine Patris, et Fílii, + et Spíritus Sancti. Amen.
+
+!*S
+# Incensatio
+!Deinde ponat diaconus thus in thuribulum, et dicat prius Sacerdoti Benedícite. Et Sacerdos dicat:
+v. Ab ipso bene + dicátur hoc incénsum, in cujus honóre cremábitur. In nómine Patris, et Fílii, et Spíritus Sancti. Amen.
+!Tunc Sacerdos thurificet medium altaris et utrumque cornu altaris.
+
+# Introitus
+&introitus
+
+# Kyrie
+S. Kýrie, eléison.
+M. Kýrie, eléison.
+S. Kýrie, eléison.
+M. Christe, eléison.
+S. Christe, eléison.
+M. Christe, eléison.
+S. Kýrie, eléison.
+M. Kýrie, eléison.
+S. Kýrie, eléison.
+
+!! Gloria
+!*&GloriaM
+!Quod incipiatur semper in medio altaris quandocunque dicitur:
+v. Glória in excélsis Deo. Et in terra pax homínibus bonæ voluntátis. Laudámus te. Benedícimus te. Adorámus te. Glorificámus te. Grátias ágimus tibi propter magnam glóriam tuam. Dómine Deus, Rex cæléstis, Deus Pater omnípotens. Dómine Fili unigénite, Jesu Christe. Dómine Deus, Agnus Dei, Fílius Patris. Qui tollis peccáta mundi, miserére nobis. Qui tollis peccáta mundi, súscipe deprecatiónem nostram. Qui sedes ad déxteram Patris, miserére nobis. Quóniam tu solus Sanctus. Tu solus Dóminus. Tu solus Altíssimus, Jesu Christe. Cum Sancto Spíritu + in glória Dei Patris. Amen.
+
+#Oratio
+!Facto signo crucis, vertat se Sacerdos ad populum, et dicat:
+&DominusVobiscum
+!Et reversus ad altare dicit: Orémus, et Orationes, juxta ordinem Officii:
+&collect
+
+# Lectio
+&lectio
+
+# Graduale
+&graduale
+
+# Evangelium
+!In fine Allelúia vel Sequentiæ vel Tractus, diaconus, antequam accedat ad Evangelium, thurificet medium altaris tantum. Deinde, humilians se ad Sacerdotem, dicat:
+D. Jube, domne, benedícere.
+S. Dóminus sit in corde tuo et in ore tuo ad pronuntiándum sanctum Evangélium Dei. In nómine Patris, et Fílii, + et Spíritus Sancti. Amen.
+!Et procedat diaconus ad pulpitum, et semper legatur Evangelium versus aquilonem. Cum inceperit Evangelium, faciat signum crucis super librum, deinde in fronte sua, et postea in pectore, dicens:
+&evangelium
+!Lecto Evangelio osculetur librum.
+
+# Credo
+!*&Credo
+v. Credo in unum Deum, Patrem omnipoténtem, factórem cæli et terræ, visibílium ómnium et invisibílium. Et in unum Dóminum Jesum Christum, Fílium Dei unigénitum. Et ex Patre natum ante ómnia sǽcula. Deum de Deo, Lumen de Lúmine, Deum verum de Deo vero. Génitum, non factum, consubstantiálem Patri: per quem ómnia facta sunt. Qui propter nos hómines et propter nostram salútem descéndit de cælis. (Hic genuflectitur) Et incarnátus est de Spíritu Sancto ex María Vírgine: Et homo factus est. Crucifíxus étiam pro nobis: sub Póntio Piláto passus, et sepúltus est. Et resurréxit tértia die, secúndum Scriptúras. Et ascéndit in cælum: sedet ad déxteram Patris. Et íterum ventúrus est cum glória judicáre vivos et mórtuos: cujus regni non erit finis. Et in Spíritum Sanctum, Dóminum et vivificántem: qui ex Patre Filióque procédit. Qui cum Patre et Fílio simul adorátur et conglorificátur: qui locútus est per Prophétas. Et unam sanctam cathólicam et apostólicam Ecclésiam. Confíteor unum baptísma in remissiónem peccatórum. Et exspécto resurrectiónem mortuórum. Et vitam ventúri sæculi. Amen.
+
+# Offertorium
+!Deinde Sacerdos conversus ad populum dicat:
+V. Dóminus vobíscum.
+R. Et cum spíritu tuo.
+!Item Sacerdos ad altare dicat:
+v. Orémus.
+&offertorium
+
+!Post Offertorium porrigat diaconus Sacerdoti calicem cum patena et sacrificio. Ipse vero, inclinato parumper, elevet calicem utraque manu, offerens sacrificium Domino, dicens:
+v. Súscipe, sancta Trínitas, hanc oblatiónem, quam ego indígnus peccátor óffero in honóre tuo, beátæ Maríæ et ómnium Sanctórum tuórum, pro peccátis et offensiónibus meis: et pro salúte vivórum et réquie ómnium fidélium defunctórum. In nómine Patris, et Fílii, et Spíritus Sancti, accéptum sit omnipoténti Deo hoc sacrifícium novum.
+
+!*S
+!Hoc peracto accipiat thuribulum a diacono et thurificet sacrificium, dicens:
+v. Dirigátur, Dómine, ad te orátio mea, sicut incénsum in conspéctu tuo.
+!Postea thurificetur ipse Sacerdos, deinde Chorus.
+
+!His peractis, eat Sacerdos ad dextrum cornu altaris, et abluat manus, dicens:
+v. Munda me, Dómine, ab omni inquinaménto mentis et córporis: ut possim mundus impleré opus sanctum Dómini.
+!Ablutis manibus, revertat se ad altare, et inclinato capite et corpore, junctis manibus, dicat:
+v. In spíritu humilitátis et in ánimo contríto suscipiámur, Dómine, a te: et sic fiat sacrifícium nostrum in conspéctu tuo, ut a te suscipiátur hódie, et pláceat tibi, Dómine Deus meus.
+!Et erigens se, deosculetur altare a dextris sacrificii, et signet se, dicens:
+v. In nómine Patris, et Fílii, + et Spíritus Sancti. Amen.
+!Deinde vertat se Sacerdos ad populum, et tacita voce dicat:
+S. Oráte, fratres et soróres, pro me: ut meum paritérque vestrum accéptum sit Dómino Deo nostro sacrifícium.
+M. Spíritus Sancti grátia illúminet cor tuum et lábia tua, et accípiat Dóminus digne hoc sacrifícium laudis de mánibus tuis pro peccátis et offensiónibus nostris.
+_
+!!Secreta
+&secreta
+
+# Præfatio
+V. Per ómnia sǽcula sæculórum.
+R. Amen.
+V. Dóminus vobíscum.
+R. Et cum spíritu tuo.
+V. Sursum corda.
+R. Habémus ad Dóminum.
+V. Grátias agámus Dómino, Deo nostro.
+R. Dignum et justum est.
+_
+&prefatio
+_
+v. Sanctus, Sanctus, Sanctus Dóminus, Deus Sábaoth. Pleni sunt cæli et terra glória tua. Hosánna in excélsis. Benedíctus, qui venit in nómine Dómini. Hosánna in excélsis.
+
+# Canon
+!Deinde, manibus junctis et elevatis oculis, incipiat Canonem Missæ:
+v. Te ígitur, clementíssime Pater, per Jesum Christum, Fílium tuum, Dóminum nostrum, súpplices rogámus, ac pétimus, (osculatur Altare et, junctis manibus, dicit:) uti accépta hábeas et benedícas, (Signat ter super Hostiam et Calicem,) hæc + dona, hæc + múnera, hæc + sancta sacrifícia illibáta, (Extensis manibus prosequitur:) in primis, quæ tibi offérimus pro Ecclésia tua sancta cathólica: quam pacificáre, custodíre, adunáre et régere dignéris toto orbe terrárum: una cum fámulo tuo Papa nostro N. et Antístite nostro N. et Rege nostro N. et ómnibus orthodóxis, atque cathólicæ et apostólicæ fídei cultóribus.
+
+!Commemoratio pro vivis
+v. Meménto, Dómine, famulórum famularúmque tuárum N. et N. wait10 (Jungit manus, orat aliquantulum: deinde manibus extensis prosequitur:) et ómnium circumstántium, quorum tibi fides cógnita est et nota devótio, pro quibus tibi offérimus: vel qui tibi ófferunt hoc sacrifícium laudis, pro se suísque ómnibus: pro redemptióne animárum suárum, pro spe salútis et incolumitátis suæ: tibíque reddunt vota sua ætérno Deo, vivo et vero.
+
+&communicantes
+et beatórum Apostolórum ac Mártyrum tuórum, Petri et Pauli, Andréæ, Jacóbi, Joánnis, Thomæ, Jacóbi, Philíppi, Bartholomǽi, Matthǽi, Simónis et Thaddǽi: Lini, Cleti, Cleméntis, Xysti, Cornélii, Cypriáni, Lauréntii, Chrysógoni, Joánnis et Pauli, Cosmæ et Damiáni: et ómnium Sanctórum tuórum; quorum méritis precibúsque concédas, ut in ómnibus protectiónis tuæ muniámur auxílio. (Jungit manus) Per eúndem Christum, Dóminum nostrum. Amen.
+
+(Tenens manus expansas super Oblata, dicit:)
+v. Hanc ígitur oblatiónem servitútis nostræ, sed et cunctæ famíliæ tuæ,
+&hancigitur
+quǽsumus, Dómine, ut placátus accípias: diésque nostros in tua pace dispónas, atque ab ætérna damnatióne nos éripi, et in electórum tuórum júbeas grege numerári. (Jungit manus) Per Christum, Dóminum nostrum. Amen.
+
+v. Quam oblatiónem tu, Deus, in ómnibus, quǽsumus, (Signat ter super Oblata,) bene + díctam, adscríp + tam, ra + tam, rationábilem, acceptabilémque fácere dignéris: (Signat semel super Hostiam,) ut nobis Cor + pus, (et semel super Calicem,) et San + guis fiat dilectíssimi Fílii tui, (Jungit manus,) Dómini nostri Jesu Christi.
+
+v. Qui prídie quam paterétur, (Accipit Hostiam,) accépit panem in sanctas ac venerábiles manus suas, (Elevat oculos ad cælum,) elevátis óculis in cælum ad te Deum, Patrem suum omnipoténtem, (Caput inclinat,) tibi grátias agens, (Signat super Hostiam,) bene + díxit, fregit, dedítque discípulis suis, dicens: Accípite, et manducáte ex hoc omnes.
+_
+!!!HOC EST ENIM CORPUS MEUM.
+_
+!Quibus verbis prolatis, Hostiam consecratam genuflexus adorat, ostendit populo, reponit super Corporale, et iterum adorat.
+wait5
+
+(Tunc, detecto Calice, dicit:)
+v. Símili modo postquam cenátum est, (Accipit Calicem,) accípiens et hunc præclárum Cálicem in sanctas ac venerábiles manus suas: (Caput inclinat,) item tibi grátias agens, (dextera signat super eum,) bene + díxit, dedítque discípulis suis, dicens: Accípite, et bíbite ex eo omnes.
+_
+!!!HIC EST ENIM CALIX SANGUINIS MEI, NOVI ET ÆTERNI TESTAMENTI: MYSTERIUM FIDEI: QUI PRO VOBIS ET PRO MULTIS EFFUNDETUR IN REMISSIONEM PECCATORUM.
+wait5
+_
+v. Hæc quotiescúmque fecéritis, in mei memóriam faciétis.
+!Genuflexus adorat, ostendit populo, deponit, et iterum adorat.
+
+v. Unde et mémores, Dómine, nos servi tui, sed et plebs tua sancta, ejúsdem Christi Fílii tui, Dómini nostri, tam beátæ passiónis, nec non et ab ínferis resurrectiónis, sed et in cælos gloriósæ ascensiónis: offérimus præcláræ majestáti tuæ de tuis donis ac datis, (Signat ter super Hostiam et Calicem,) Hóstiam + puram, Hóstiam + sanctam, Hóstiam + immaculátam, (Signat super Hostiam,) Panem + sanctum vitæ ætérnæ, (super Calicem,) et Cálicem + salútis perpétuæ.
+
+v. Supra quæ propítio ac seréno vultu respícere dignéris: et accépta habére, sicúti accépta habére dignátus es múnera púeri tui justi Abel, et sacrifícium Patriárchæ nostri Abrahæ: et quod tibi óbtulit summus sacérdos tuus Melchísedech, sanctum sacrifícium, immaculátam hóstiam.
+
+!Inclinatus, junctis manibus, dicit:
+v. Súpplices te rogámus, omnípotens Deus: jube hæc perférri per manus sancti Angeli tui in sublíme altáre tuum, in conspéctu divínæ majestátis tuæ: ut, quotquot (Osculatur Altare,) ex hac altáris participatióne sacrosánctum Fílii tui (Signat super Hostiam et Calicem,) Cor + pus, et Sán + guinem sumpsérimus, (Seipsum signat,) omni benedictióne cælésti et grátia repleámur. (Jungit manus.) Per eúndem Christum, Dóminum nostrum. Amen.
+
+!Commemoratio pro defunctis
+v. Meménto étiam, Dómine, animárum famulórum famularúmque tuárum N. et N., qui nos præcessérunt cum signo fídei, et dórmiunt in somno pacis.wait10 (Jungit manus, orat aliquántulum: deinde extensis manibus prosequitur:) Ipsis, Dómine, et ómnibus in Christo quiescéntibus locum refrigérii, lucis, et pacis, ut indúlgeas, deprecámur. (Jungit manus, et caput inclinat,) Per eúndem Christum, Dóminum nostrum. Amen.
+
+!Manu dextera percutit sibi pectus, dicens:
+v. Nobis quoque peccatóribus (Extensis manibus prosequitur:) fámulis tuis, de multitúdine miseratiónum tuárum sperántibus, partem áliquam et societátem donáre dignéris, cum tuis sanctis Apóstolis et Martýribus: cum Joánne, Stéphano, Matthía, Bárnaba, Ignátio, Alexándro, Marcellíno, Petro, Felicitáte, Perpétua, Lúcia, Agatha, Agnéte, Cæcília, Anastásia, et ómnibus Sanctis tuis: intra quorum nos consórtium, non æstimátor mériti, sed véniæ, quǽsumus, largítor admítte. (Jungit manus.) Per Christum, Dóminum nostrum.
+
+v. Per quem hæc ómnia, Dómine, semper bona creas, (Signat ter super Hostiam et Calicem,) sanctí + ficas, viví + ficas, bene + dícis et præstas nobis.
+!Discooperiat calicem, et faciat signaculum crucis cum Hostia quinquies, dicens:
+v. Per ip + sum, et cum ip + so, et in ip + so, est tibi Deo Patri + omnipoténti, in unitáte Spíritus + Sancti, omnis honor et glória.
+!Cooperiat calicem, et teneat manus suas super altare usque dum dicitur Pater noster, dicens:
+v. Per ómnia sǽcula sæculórum.
+R. Amen.
+
+# Preparatio Communionis
+v. Orémus: Præcéptis salutáribus móniti, et divína institutióne formáti, audémus dícere:
+v. Pater noster, qui es in cælis. Sanctificétur nomen tuum. Advéniat regnum tuum. Fiat volúntas tua, sicut in cælo et in terra. Panem nostrum quotidiánum da nobis hódie. Et dimítte nobis débita nostra, sicut et nos dimíttimus debitóribus nostris. Et ne nos indúcas in tentatiónem:
+R. Sed líbera nos a malo.
+S. Amen.
+
+v. Líbera nos, quǽsumus, Dómine, ab ómnibus malis, prætéritis, præséntibus et futúris: et intercedénte beáta et gloriósa semper Vírgine Dei Genetríce María, cum beátis Apóstolis tuis Petro et Paulo, atque Andréa, et ómnibus Sanctis, (Signat se cum Patena,) da propítius pacem in diébus nostris: (Patenam osculatur,) ut, ope misericórdiæ tuæ adjúti, et a peccáto simus semper líberi et ab omni perturbatióne secúri.
+!Hic discooperiat calicem, et frangat Hostiam in tres partes, dicens:
+v. Per eúndem Dóminum nostrum Jesum Christum, Fílium tuum, (secunda fractio:) Qui tecum vivit et regnat in unitáte Spíritus Sancti Deus, (tertiam partem in dextera tenens, dicit aperta voce:) Per ómnia sǽcula sæculórum.
+R. Amen.
+!Hic faciat tres cruces infra calicem cum tertia parte Hostiæ, dicens:
+v. Pax + Dómini sit + semper vobís + cum.
+R. Et cum spíritu tuo.
+
+!*nD
+v. Agnus Dei, qui tollis peccáta mundi: miserére nobis.
+v. Agnus Dei, qui tollis peccáta mundi: miserére nobis.
+v. Agnus Dei, qui tollis peccáta mundi: dona nobis pacem.
+!&AgnusHook
+
+!*D
+v. Agnus Dei, qui tollis peccáta mundi: dona eis réquiem.
+v. Agnus Dei, qui tollis peccáta mundi: dona eis réquiem.
+v. Agnus Dei, qui tollis peccáta mundi: dona eis réquiem sempitérnam.
+
+!Hic, cruce signando, deponat dictam tertiam partem Hostiæ in Sanguinem, dicens:
+v. Hæc sacro + sancta commíxtio Córporis et Sánguinis Dómini nostri Jesu Christi fiat mihi ómnibúsque suméntibus salus mentis et córporis, et ad vitam ætérnam promeréndam et capesséndam præparátio salutáris. Per eúndem Christum, Dóminum nostrum. Amen.
+!Antequam Pax detur, dicat Sacerdos:
+v. Dómine sancte Pater, omnípotens ætérne Deus, da mihi hoc sacrosánctum Corpus et Sánguinem Fílii tui Dómini nostri Jesu Christi ita digne súmere, ut mérear per hoc remissiónem ómnium peccatórum meórum accípere, et tuo Sancto Spíritu repléri, et pacem tuam habére: Quia tu es Deus solus, et præter te non est álius, cujus regnum et impérium gloriósum sine fine pérmanet in sǽcula sæculórum. Amen.
+
+!*&CheckPax
+!Hic osculetur Sacerdos summitatem Calicis, et postea osculetur diaconum, dicens:
+v. Pax tibi et Ecclésiæ Dei.
+R. Et cum spíritu tuo.
+
+!Post Pacem datam dicat Sacerdos orationes sequentes privatim, antequam se communicet, tenendo Hostiam duabus manibus:
+v. Deus Pater, fons et orígo totíus bonitátis, qui ductus misericórdia Unigénitum tuum pro nobis ad ínfima mundi descéndere et carnem súmere voluísti, quam ego indígnus hic in mánibus meis téneo: (Hic inclinet se ad Hostiam, dicens:) Te adóro, te glorífico, te tota mentis ac cordis intentióne laudo: et precor ut nos fámulos tuos non déseras, sed peccáta nostra dimíttas; quaténus tibi soli vivo ac vero Deo, puro corde et casto córpore servíre valeámus. Per eúndem Christum, Dóminum nostrum. Amen.
+
+v. Dómine Jesu Christe, Fili Dei vivi, qui ex voluntáte Patris, cooperánte Spíritu Sancto, per mortem tuam mundum vivificásti: líbera me, quæso, per hoc sacrosánctum Corpus et hunc Sánguinem tuum a cunctis iniquitátibus meis et ab univérsis malis: et fac me tuis semper obedíre mandátis, et a te numquam in perpétuum separári permíttas, Salvátor mundi: Qui cum Deo Patre et eódem Spíritu Sancto vivis et regnas Deus, per ómnia sǽcula sæculórum. Amen.
+
+v. Córporis et Sánguinis tui, Dómine Jesu Christe, sacraméntum, quod licet indígnus accípio, non sit mihi judício et condemnatióni: sed tua prosit pietáte córporis mei et ánimæ salúti. Amen.
+
+!Ad Corpus dicat cum humiliatione, antequam percipiat:
+v. Ave in ætérnum, sanctíssima Caro Christi, mihi ante ómnia et super ómnia summa dulcédo. Corpus Dómini nostri Jesu Christi sit mihi peccatóri via et vita. In nómine + Patris, et Fílii, et Spíritus Sancti. Amen.
+!Hic sumat Corpus. Deinde ad Sanguinem, cum magna devotione dicens:
+v. Ave in ætérnum, cæléstis potus, mihi ante ómnia et super ómnia summa dulcédo. Corpus et Sanguis Dómini nostri Jesu Christi prosint mihi peccatóri ad remédium sempitérnum in vitam ætérnam. Amen. In nómine + Patris, et Fílii, et Spíritus Sancti. Amen.
+!Hic sumat Sanguinem: quo sumpto, inclinet se Sacerdos et dicat:
+v. Grátias tibi ago, Dómine sancte Pater, omnípotens ætérne Deus, qui me refecísti de sacratíssimo Córpore et Sánguine Fílii tui Dómini nostri Jesu Christi: et precor ut hoc sacraméntum salútis nostræ, quod sumpsi indígnus peccátor, non véniat mihi ad judícium neque ad condemnatiónem pro méritis meis: sed ad proféctum córporis mei et ánimæ salúti in vitam ætérnam. Amen.
+
+&Communio_Populi
+wait16
+
+!Qua dicta, eat sacerdos ad dextrum cornu altaris cum calice, et resíncerat manus suas. Post primam ablutionem dicitur:
+v. Quod ore súmpsimus, Dómine, pura mente capiámus: et de múnere temporáli fiat nobis remédium sempitérnum.
+!Post secundam ablutionem:
+v. Hæc nos commúnio, Dómine, purget a crímine: et cæléstis remédii fáciat esse consórtes.
+!Postea, inclinando se, dicat:
+v. Adorámus crucis signáculum, per quod salútis súmpsimus sacraméntum.
+
+# Communio
+&communio
+
+# Postcommunio
+!Facto signo crucis, vertat se ad populum, dicens:
+S. Dóminus vobíscum.
+R. Et cum spíritu tuo.
+!Et reversus ad altare dicit:
+&postcommunio
+
+# Conclusio
+S. Dóminus vobíscum.
+M. Et cum spíritu tuo.
+&itemissaest
+
+!*&placeattibi
+!His dictis, Sacerdos, inclinato corpore junctisque manibus, tacita voce coram altari in medio dicat:
+v. Pláceat tibi, sancta Trínitas, obséquium servitútis meæ: et præsta; ut hoc sacrifícium, quod óculis tuæ majestátis indígnus óbtuli, sit, te miseránte, propitiábile. Qui vivis et regnas Deus, per ómnia sǽcula sæculórum. Amen.
+!Qua finita, erigat se Sacerdos, signans se in facie sua, dicens:
+v. In + nómine Patris, et Fílii, et Spíritus Sancti. Amen.
+
+!*&CheckUltimaEv
+!Sacerdos in redeundo dicat Evangelium:
+V. Dóminus vobíscum.
+R. Et cum spíritu tuo.
+&Ultimaev
+!Finito Evangelio, dicat Antiphonam Trium puerorum cum Psalmis, ut habetur in principio Missalis.

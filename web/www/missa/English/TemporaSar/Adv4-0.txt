@@ -1,0 +1,72 @@
+[Officium]
+Fourth Sunday of Advent
+
+[Rule]
+no Gloria
+Credo
+Suffr=Maria1;;
+
+[Introitus]
+!Ps 105:4-5
+v. Remember me, O Lord, according to the favour that Thou bearest unto Thy people: O visit me with Thy salvation; that I may see the felicity of Thy chosen, and rejoice in the gladness of Thy people, and give thanks with Thine inheritance.
+!Ps 105:6
+We have sinned with our fathers: we have done amiss, and dealt wickedly.
+&Gloria
+v. Remember me, O Lord, according to the favour that Thou bearest unto Thy people: O visit me with Thy salvation; that I may see the felicity of Thy chosen, and rejoice in the gladness of Thy people, and give thanks with Thine inheritance.
+
+[Oratio]
+O Lord, raise up, we pray Thee, Thy power, and come, and with great might succour us: that whereas, through our sins, we are sore let and hindered, Thy bountiful grace and mercy may speedily help and deliver us.
+$Qui vivis
+
+[Lectio]
+Lesson from the letter of St. Paul the Apostle to the Philippians
+!Phil 4:4-7
+Brethren: Rejoice in the Lord always; again I say, rejoice. Let your moderation be known to all men. The Lord is near. Have no anxiety, but in every prayer and supplication with thanksgiving let your petitions be made known to God. And may the peace of God which surpasses all understanding guard your hearts and your minds in Christ Jesus, our Lord.
+
+[Graduale]
+!Ps 144:18; 144:21
+The Lord is nigh unto all them that call upon Him: yea, all such as call upon Him faithfully.
+V. My mouth shall speak the praise of the Lord: and let all flesh give thanks unto His holy Name. Alleluia, alleluia.
+V. Come, O Lord, and tarry not: forgive the misdeeds of Thy people. Alleluia.
+
+[GradualeF]
+!Ps 144:18; 144:21
+The Lord is nigh unto all them that call upon Him: yea, all such as call upon Him faithfully.
+V. My mouth shall speak the praise of the Lord: and let all flesh give thanks unto His holy Name.
+
+[Sequentia]
+Let us all rejoice together to our God Who all created,
+Who hath founded all the worlds, made the heavens to shine in brightness,
+Divers stars to gleam around; sun, the centre of the system;
+Moon, the glory of the night; and the other lesser splendours;
+Sea, and earth, and hills, and plains, deeps and rivers infinite;
+All the ample space of ether, where fly the birds; the winds, the rain,
+All go forth to do Thy bidding, only Father, God alone;
+Now, and unto endless ages, Thee their praise doth glorify,
+Who for us and our salvation didst Thine only Son send down,
+Without spot, for our transgressions upon earth to suffer death.
+Blessed Trinity, we pray Thee, rule our bodies and our souls,
+Help us by Thy strong protection, grant us pardon for our sins.
+
+[Evangelium]
+The continuation of the holy Gospel according to John
+!Joann 1:19-28
+At that time, the Jews sent to John from Jerusalem priests and Levites to ask him, Who are you? And he acknowledged and did not deny; and he acknowledged, I am not the Christ. And they asked him, What then? Are you Elias? And he said, I am not. Are you the Prophet? And he answered, No. They therefore said to him, Who are you? that we may give an answer to those who sent us. What have you to say of yourself? He said, I am the voice of one crying in the desert, ‘Make straight the way of the Lord,’ as said Isaias the prophet. And they who had been sent were from among the Pharisees. And they asked him, and said to him, Why, then, do you baptize, if you are not the Christ, nor Elias, nor the Prophet? John said to them in answer, I baptize with water; but in the midst of you there has stood One Whom you do not know. He it is Who is to come after me, Who has been set above me, the strap of Whose sandal I am not worthy to loose. These things took place at Bethany, beyond the Jordan, where John was baptizing.
+
+[Offertorium]
+!Is 35:4-6
+Be strong, fear not: behold, our God will come with vengeance, even God with a recompence; He will come and save us.
+/:The following verse is said through the ferias of the week, not on the Sunday.:/
+V. Then the eyes of the blind shall be opened, and the ears of the deaf shall be unstopped: then shall the lame man leap as an hart, and the tongue of the dumb sing.
+
+[Secreta]
+We beseech Thee, O Lord, look graciously upon this present sacrifice: whereby, being purified, we may take part in Thy Son's Nativity.
+$Per eúndem
+
+[Communio]
+!Is 7:14
+Behold, a Virgin shall conceive and bear a Son: and shall call His Name Emmanuel.
+
+[Postcommunio]
+We beseech Thee, O Lord, accompany Thy people with the plenteousness of Thy gifts: that they, being defended from all evil by the virtue of Thy Sacraments, may be prepared both in mind and body for the celebration of the unspeakable Mystery.
+$Per Dominum

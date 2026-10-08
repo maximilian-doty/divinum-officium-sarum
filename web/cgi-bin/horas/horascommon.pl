@@ -198,7 +198,7 @@ sub occurrence {
       if ($tomorrow) {
         $svesp = 1;
 
-        if ( $version !~ /196|Trident/
+        if ( $version !~ /196|Trident|Sarum/
           && $hora =~ /Completorium/i
           && $month == 11
           && (($day == 1 && $dayofweek != 0) || ($day == 2 && $dayofweek == 1)))
@@ -234,7 +234,7 @@ sub occurrence {
             && ($version !~ /196/ || $sname !~ /08\-09/))
 
           # Office of All Souls supersedes All Saints at Completorium from 1911 to 1959
-          || ( $version !~ /1960|Trident/
+          || ( $version !~ /1960|Trident|Sarum/
             && $hora =~ /Completorium/i
             && $month == 11
             && $day == 1
@@ -349,7 +349,7 @@ sub occurrence {
   }
 
   if (
-    $version =~ /Trid/i
+    $version =~ /Trid|Sarum/i
     && ( ($trank[2] < 5.1 && $trank[2] > 4.2 && $trank[0] =~ /Dominica/i && $version !~ /altovadensis/i)
       || ($trank[0] =~ /infra octavam Corp/i && $version !~ /Cist/i))
   ) {
@@ -462,7 +462,7 @@ sub occurrence {
 
       if ($version =~ /196/i) {
         $officename[2] =~ s/:/ ad Laudes tantum:/ if $cr[2] < 6;
-      } elsif ($version !~ /trident/i && $srank[2] >= 6) {
+      } elsif ($version !~ /trident|Sarum/i && $srank[2] >= 6) {
         $officename[2] =~ s/:/ ad Laudes tantum:/ if $cr[2] < 4.2 && $cr[2] != 2.1 && $srank[0] !~ /infra octavam/i;
       } elsif ($srank[2] >= 6 && $srank[0] !~ /in.*octava/i && $cr[2] < 3.1 && $cr[2] != 2.999) {
 
@@ -525,7 +525,7 @@ sub occurrence {
         && exists($scrip{Lectio1})
         && $scrip{Lectio1} !~ /evangelii/i
         && ( $saint{Rank} !~ /\;\;ex /
-          || ($version =~ /trident/i && $saint{Rank} !~ /\;\;(vide|ex) /i)
+          || ($version =~ /trident|Sarum/i && $saint{Rank} !~ /\;\;(vide|ex) /i)
           || $saint{Rule} =~ /Lectio1 temp/i)
       ) {
         my $ittable = initiarule($month, $day, $year);
@@ -627,7 +627,7 @@ sub occurrence {
 
       if ($version =~ /196/i) {
         $officename[2] =~ s/:/ $laudesonly:/ if ($trank[2] >= 5 && $srank[2] < 2) || ($climit1960 == 2);
-      } elsif ($version !~ /trident/i && $trank[2] >= 6) {
+      } elsif ($version !~ /trident|Sarum/i && $trank[2] >= 6) {
         $officename[2] =~ s/:/ ad Laudes tantum:/
           if $srank[2] < 4.2
           && $srank[2] != 2.1
@@ -661,7 +661,7 @@ sub occurrence {
 
         if ($version =~ /196/i) {
           $officename[2] =~ s/:/ $laudesonly:/ if ($trank[2] >= 5 && $cr[2] < 2) || ($climit1960 == 2);
-        } elsif ($version !~ /trident/i && $trank[2] >= 6) {
+        } elsif ($version !~ /trident|Sarum/i && $trank[2] >= 6) {
           $officename[2] =~ s/:/ ad Laudes tantum:/
             if $cr[2] < 4.2 && $cr[2] != 2.1 && $trank[0] !~ /infra octavam|cinerum|majoris hebd/i;
         } elsif ($laudesonly) {
@@ -726,7 +726,7 @@ sub occurrence {
     @dayname = @officename;
   }
 
-  if ($version =~ /trident/i && $communetype =~ /ex/i && $rank < 1.5) { $communetype = 'vide'; }
+  if ($version =~ /trident|Sarum/i && $communetype =~ /ex/i && $rank < 1.5) { $communetype = 'vide'; }
 
   $comrank =~ s/\s*//g;
 }
@@ -783,7 +783,7 @@ sub concurrence {
 
     # before 1955, Ash Wednesday gave way at 2nd Vespers in concurrence to a Duplex
     $rank = $wrank[2] = 2.99;
-  } elsif ($dayname[0] =~ /Quad[0-5]|Quadp|Adv|Pasc1/ && $dayofweek == 0 && $version =~ /trident(?!.*altovadensis)/i) {
+  } elsif ($dayname[0] =~ /Quad[0-5]|Quadp|Adv|Pasc1/ && $dayofweek == 0 && $version =~ /(?:trident|sarum)(?!.*altovadensis)/i) {
 
     # before Divino Afflatu, the Sundays from Septuag to Judica and in Albis gave way at 2nd Vespers in concurrence to a Duplex
     $rank = $wrank[2] = 2.99;
@@ -805,7 +805,7 @@ sub concurrence {
   {
 
     # before 1955, even Major Sundays gave way at I Vespers to a Duplex (or Duplex II. cl.)
-    $cwrank[2] = $crank = $version =~ /altovadensis/i ? 3.9 : $version =~ /trident/i ? 2.9 : 4.9;
+    $cwrank[2] = $crank = $version =~ /altovadensis/i ? 3.9 : $version =~ /trident|Sarum/i ? 2.9 : 4.9;
   }
 
   if ( $cwrank[0] =~ /in.*octava/i
@@ -816,7 +816,7 @@ sub concurrence {
     # Commemoration of resumed Octave on Sunday from 1st Vespers (Divino only)
     $octvespera = 1;
   } elsif ($cwrank[0] =~ /Dominica/i && $trank[0] =~ /in.*octava/i
-    || ($cwrank[0] =~ /infra.*octav/i && $version =~ /Trident/))
+    || ($cwrank[0] =~ /infra.*octav/i && $version =~ /Trident|Sarum/))
   {
 
     # Commemoration of Octave on Saturday from 2nd Vespers
@@ -867,14 +867,14 @@ sub concurrence {
     # before DA infra octavam always gets commemorated as at 2nd Vespers; after DA also when the office is of the octave
     || ( $cwinner{Rank} =~ /infra octavam/i
       && $cwinner{Rank} !~ /Dominica/i
-      && ($version =~ /trident/i || $sanctoraloffice == $csanctoraloffice)
+      && ($version =~ /trident|Sarum/i || $sanctoraloffice == $csanctoraloffice)
       && $winner{Rank} =~ /infra octavam|Quat.*Pent|Dominica (Resurrectionis|Pentecostes)/i)
 
     # infra 8vam Pasch & Pent
     || ($weekname =~ /Pasc[07]/i && $cwinner{Rank} !~ /Dominica/i)
 
     # no commemoration of the Octave of S. Stephen after DA
-    || ($winner =~ /01-01/ && $version !~ /trident/i)
+    || ($winner =~ /01-01/ && $version !~ /trident|Sarum/i)
 
     # sort out BVM concurrent with BMV
     || ($cwinner{Rank} =~ /C10/i && $winner{Rank} =~ /C1[01]/i)
@@ -889,7 +889,7 @@ sub concurrence {
 
     if (
       $ccomrank >= (
-             $rank >= ($version =~ /trident/i ? 6 : 5)
+             $rank >= ($version =~ /trident|Sarum/i ? 6 : 5)
           && $cwrank[0] !~ /feria|sabbato|octava/i ? 2.1 : $version !~ /cist/i ? 1.1 : 1
       )
       && $ccomrank !~ 1.5
@@ -985,7 +985,7 @@ sub concurrence {
     my $flrank =
         ($version =~ /cist/i && $cwinner{Rank} =~ /Dominica/i)
       ? ($rank < ($tomorrowname[0] =~ /Adv1|Quad[156]/ ? 4.9 : $version =~ /altovadensis/i ? 3.9 : 2.9) ? 2 : $rank)
-      : $version =~ /trident/i ? (
+      : $version =~ /trident|Sarum/i ? (
           ($rank < 2.9 && !($rank == 2.1 && $winner{Rank} !~ /infra Octavam/i)) ? 2
         : ((($rank >= 3 && $rank < 3.9) || ($rank >= 4.1 && $rank < 4.9)) && $rank != 3.9 && $rank != 3.2) ? 3
         : $rank
@@ -994,7 +994,7 @@ sub concurrence {
     my $flcrank =
       $version =~ /cist/i && $cwinner{Rank} =~ /Dominica/i
       ? 2
-      : $version =~ /trident/i ? (
+      : $version =~ /trident|Sarum/i ? (
         $crank < 2.91
         ? ($crank > 2 ? 2 : $crank)
         : (
@@ -1023,7 +1023,7 @@ sub concurrence {
         && ($rank >= 5 && $winner{Rule} =~ /Festum Domini/i))
 
       # on Trid: Duplex I. cl / DA: II. cl no commemoration of following Simplex and Common Octaves
-      || ( $rank >= ($version =~ /cist/i ? 7 : $version =~ /trident/i ? 6 : 5)
+      || ( $rank >= ($version =~ /cist/i ? 7 : $version =~ /trident|Sarum/i ? 6 : 5)
         && $winner !~ /feria|in.*octava/i
         && $crank < 2.1)
 
@@ -1129,7 +1129,7 @@ sub concurrence {
     } elsif ($flcrank == $flrank) {    # "flattend ranks" are equal => a capitulo
       $commemoratio = $winner;
       %commune =
-        ($version =~ /trident/i || $flrank >= 5)
+        ($version =~ /trident|Sarum/i || $flrank >= 5)
         ? %{officestring($lang1, $commune, 0)}
         : ();                          #  Commune psalms only in Trident or Dpx I./II.cl
       $tomorrowname[2] = "Commemoratio: $wrank[0]";
@@ -1216,7 +1216,7 @@ sub concurrence {
   if ($vespera == 3) {    # We have 2nd Vespers:
      # In Concurrence (i.e. tomorrow): Duplex I. cl (or also II. cl) and not "just" a privileged Feria or day (in/of) Octave exludes Simplex and infra 8vam communis
     my $ranklimit =
-      ($rank >= ($version =~ /trident/i ? 6 : 5) && $wrank[0] !~ /Dominica|feria|in.*octava/i) ? 2.1 : 1.1;
+      ($rank >= ($version =~ /trident|Sarum/i ? 6 : 5) && $wrank[0] !~ /Dominica|feria|in.*octava/i) ? 2.1 : 1.1;
 
     # Cisterciense: Following feast gets always commemorated
     $ranklimit = 1 if $version =~ /cist/i;
@@ -1245,7 +1245,7 @@ sub concurrence {
     # In Occurence (i.e. today): Simplex end after None.
     $ranklimit =
         ($wrank[0] =~ /Dominica|feria|in.*octava/i || $version =~ /cist/i) ? 2
-      : $rank >= 6 ? ($version !~ /trident/i ? 4.2 : 3.1)
+      : $rank >= 6 ? ($version !~ /trident|Sarum/i ? 4.2 : 3.1)
       : $rank >= 5 ? 2.1
       : 2;
     @comentries = ();
@@ -1306,7 +1306,7 @@ sub concurrence {
     # In Occurencce (i.e. tomorrow):
     $ranklimit =
         ($cwrank[0] =~ /Dominica|feria|in.*octava/i) ? ($version !~ /cist/i ? 1.1 : 1)
-      : $rank >= 6 ? ($version !~ /trident/i ? 4.2 : $version !~ /cist/i ? 3.1 : 2.2)
+      : $rank >= 6 ? ($version !~ /trident|Sarum/i ? 4.2 : $version !~ /cist/i ? 3.1 : 2.2)
       : $rank >= 5 ? 2.2
       : $version !~ /cist/i ? 1.1
       : 1;
@@ -1355,7 +1355,7 @@ sub extract_common {
     # Genuine common.
     $communetype = $1;
     $commune = $2;
-    $communetype = 'ex' if ($version =~ /Trident/i && $office_rank >= 2);
+    $communetype = 'ex' if ($version =~ /Trident|Sarum/i && $office_rank >= 2);
 
     if ($paschal_tide) {
       my $divfolder = $datafolder;
@@ -1371,7 +1371,7 @@ sub extract_common {
     # Another sanctoral office used as a pseudo-common.
     $communetype = $1;
     $commune = subdirname('Sancti', $version) . "$2.txt";
-    $communetype = 'ex' if ($version =~ /Trident/i);
+    $communetype = 'ex' if ($version =~ /Trident|Sarum/i);
   } elsif ($common_field =~ /(ex|vide)\s*(.*)\s*$/i) {
     $communetype = $1;
     my $name = $2;
@@ -1382,7 +1382,7 @@ sub extract_common {
     } else {
       $commune = "$name.txt";
     }
-    $communetype = 'ex' if ($version =~ /Trident/i);
+    $communetype = 'ex' if ($version =~ /Trident|Sarum/i);
   }
   return ($communetype, $commune);
 }
@@ -1649,7 +1649,7 @@ sub precedence {
     }
 
     if ($winner{Rank} =~ /\;\;ex\s/
-      || ($version =~ /Trident/i && $rank =~ /\;\;(ex|vide)/i && $duplex > 1))
+      || ($version =~ /Trident|Sarum/i && $rank =~ /\;\;(ex|vide)/i && $duplex > 1))
     {
       $communerule = $commune{Rule};
     }
@@ -1681,7 +1681,7 @@ sub precedence {
       %commune = %{setupstring($lang1, $commune)};
     } else {
 
-      if ($version =~ /^Trident|^Divino/i) {
+      if ($version =~ /^Trident|^Divino|^Sarum/i) {
 
         # Make Votive Matutinum fully Sanctoral (Duplex, 3 Nocturns) irrespective of rank of the day
         $rule .= "\n9 lectiones";
@@ -1702,7 +1702,7 @@ sub precedence {
   # have Lauds II and others have Lauds I, although for the Tridentine rubrics
   # only the Sundays of Septuagesima and Lent have a sort of "Lauds II", with
   # all other days being unambiguous.
-  if ($version =~ /Trident/i) {
+  if ($version =~ /Trident|Sarum/i) {
     $laudes =
       ($dayname[0] =~ /Quad/i && $dayofweek == 0 && $winner =~ /Tempora/i)
       ? 2
@@ -1804,7 +1804,7 @@ sub rankname {
         $rankname .= $dayofweek ? $t{privilegiata} : $ranktable[2];
       } else {
         $rankname = $ranktable[2];    # Semiduplex
-        $rankname .= " $t{Vigilia} II. $t{classis}" unless $version =~ /Trident/;
+        $rankname .= " $t{Vigilia} II. $t{classis}" unless $version =~ /Trident|Sarum/;
       }
     } elsif ($latname =~ /^In Vigilia/i && $rank <= 2.5) {
       $rankname = $version =~ /cist/i ? $t{Vigilia} : $ranktable[1];    # Simplex
@@ -1820,7 +1820,7 @@ sub rankname {
         : (/Epi[1-6]|Pent[22-23]/ && $dayofweek && !($dayofweek == 6 && $hora =~ /(?:Vespera|Completorium)/))
         ? 3                                                             # 'Semiduplex Dominica anticipata'
         : 4;                                                            # 'Semiduplex Dominica minor';
-      $i = 2 if $version =~ /Trident/ && /Quad[2-4]/;                   # 'Semiduplex Dominica II. classis'
+      $i = 2 if $version =~ /Trident|Sarum/ && /Quad[2-4]/;                   # 'Semiduplex Dominica II. classis'
       $rankname = $sundaytable[$i];
 
       if ($version =~ /cist/i) {
@@ -1849,10 +1849,10 @@ sub rankname {
       : $ranktable[2];                                            # 'Semiduplex';
   } elsif ($version =~ /1955/ && $winner =~ /Pasc6-6/) {    #  Vigilia Pentecostes
     $rankname = $ranktable[3];                              # 'Duplex'
-  } elsif ($version =~ /Trident/ && $latname =~ /^In Octava/i) {
+  } elsif ($version =~ /Trident|Sarum/ && $latname =~ /^In Octava/i) {
     my $i = $version =~ /cist/i ? 2 : 3;
     $rankname = $ranktable[$i];                             # 'Duplex/xij.L.' - all other Octaves pre Divino
-  } elsif ($version =~ /Trident/ && $latname =~ /infra Octavam|post Octavam Asc|Vigilia Pent/i) {
+  } elsif ($version =~ /Trident|Sarum/ && $latname =~ /infra Octavam|post Octavam Asc|Vigilia Pent/i) {
     my $i = $version =~ /cist/i ? 1 : 2;
     $rankname = $ranktable[$i];                             # 'Semiduplex/iij.L.' - all other Octaves pre Divino
   } elsif ($version =~ /Divino/ && $latname =~ /^In Octava|infra Octavam|post Octavam Asc|Vigilia Pent/i) {
@@ -1921,7 +1921,7 @@ sub setChantTone {
 
     if ($version =~ /19(?:55|60)/ && $winner !~ /Pasc5-3/i && $dayname[1] =~ /feria/i) { $chantTone = 'ferialis'; }
 
-    if ($version =~ /1570/i) { $chantTone =~ s/ major//; }    # no Duplex majus yet in 1570
+    if ($version =~ /1570|Sarum/i) { $chantTone =~ s/ major//; }    # no Duplex majus yet in 1570
 
     if ($name =~ /Vigilia Epi/i) {
       $chantTone = 'festivus minor';                          # tamquam Semiduplex
@@ -1959,11 +1959,11 @@ sub setChantTone {
     $chantTone = ($rank =~ 7) ? 'resurrectionis' : 'paschalis';    # Paschal Octave
   } elsif ($version !~ /196/ && $dayname[0] =~ /Pasc7/i && $dayofweek > 0) {
     $chantTone = ($rank =~ 7) ? 'solemnis' : 'paschalis';          # Pentecost Octave
-  } elsif ($version =~ /trid/i && $name =~ /^In Octava(?! Asc)/i) {
+  } elsif ($version =~ /trid|Sarum/i && $name =~ /^In Octava(?! Asc)/i) {
     $chantTone = 'festivus';                                       # Dies Octavae pre-Divino
-  } elsif ($version =~ /trid/i && $name =~ /in.* Octavam? Asc|post Octavam Asc|Vigilia Pent/i) {
+  } elsif ($version =~ /trid|Sarum/i && $name =~ /in.* Octavam? Asc|post Octavam Asc|Vigilia Pent/i) {
     $chantTone = 'paschalis';                                      # Ascensiontide pre-Divino
-  } elsif ($version =~ /trid/i && $name =~ /infra Octavam/i) {
+  } elsif ($version =~ /trid|Sarum/i && $name =~ /infra Octavam/i) {
     $chantTone = 'festivus minor';                                 # all other Octaves pre Divino
   } elsif ($version =~ /Divino/ && $name =~ /^In Octava|infra Octavam|post Octavam Asc|Vigilia Pent/i) {
     $chantTone = ($rank < 2)
@@ -2011,6 +2011,7 @@ sub subdirname {
   return "${subdir}Cist/" if $version =~ /Cisterciensis/;
   return "${subdir}M/" if $version =~ /^Monastic/;
   return "${subdir}OP/" if $version =~ /^Ordo Praedicatorum/;
+  return "${subdir}Sar/" if $version =~ /Sarum/;
   "$subdir/";
 }
 

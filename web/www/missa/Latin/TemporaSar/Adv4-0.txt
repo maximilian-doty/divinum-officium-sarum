@@ -1,0 +1,73 @@
+[Officium]
+Dominica IV Adventus
+
+[Rank]
+;;Semiduplex II. classis;;6.1
+
+[Rule]
+no Gloria
+Credo
+Suffr=Maria1;;
+
+[Introitus]
+!Ps 105:4-5
+v. Meménto nostri, Dómine, in beneplácito pópuli tui: vísita nos in salutári tuo: ad vidéndum in bonitáte electórum tuórum, in lætítia gentis tuæ: ut laudéris cum hæreditáte tua.
+!Ps 105:6
+Peccávimus cum pátribus nostris: injúste égimus, iniquitátem fécimus.
+&Gloria
+v. Meménto nostri, Dómine, in beneplácito pópuli tui: vísita nos in salutári tuo: ad vidéndum in bonitáte electórum tuórum, in lætítia gentis tuæ: ut laudéris cum hæreditáte tua.
+
+[Oratio]
+Excita, quǽsumus, Dómine, poténtiam tuam, et veni, et magna nobis virtúte succúrre: ut auxílium grátiæ tuæ, quod nostra peccáta præpédiunt, indulgéntia tuæ propitiatiónis accéleret:
+$Qui vivis
+
+[Lectio]
+Léctio Epístolæ beáti Pauli Apóstoli ad Philippénses
+!Phil 4:4-7
+Fratres: Gaudéte in Dómino semper: íterum dico, gaudéte. Modéstia vestra nota sit ómnibus homínibus: Dóminus prope est. Nihil sollíciti sitis: sed in omni oratióne et obsecratióne, cum gratiárum actióne, petitiónes vestræ innotéscant apud Deum. Et pax Dei, quæ exsúperat omnem sensum, custódiat corda vestra et intelligéntias vestras, in Christo Jesu, Dómino nostro.
+
+[Graduale]
+!Ps 144:18; 144:21
+Prope est Dóminus ómnibus invocántibus eum: ómnibus, qui ínvocant eum in veritáte.
+V. Laudem Dómini loquétur os meum: et benedícat omnis caro nomen sanctum ejus. Allelúja, allelúja.
+V. Veni, Dómine, et noli tardáre: reláxa facínora plebis tuæ. Allelúja.
+
+[GradualeF]
+!Ps 144:18; 144:21
+Prope est Dóminus ómnibus invocántibus eum: ómnibus, qui ínvocant eum in veritáte.
+V. Laudem Dómini loquétur os meum: et benedícat omnis caro nomen sanctum ejus.
+
+[Sequentia]
+Jubilémus omnes una Deo nostro, qui creávit ómnia,
+Per quem cuncta cóndita sunt sǽcula.
+Cœlóque plúrima luce corúsca et divérsa sunt sídera,
+Sol mundi schema, nóctium decus luna, cæteráque splendéntia,
+Mare, solum, et alta, plana, ac profúnda flúmina.
+Aëris ampla spátia, quæ discúrrunt aves, venti atque plúvia.
+Hæc simul cuncta tibi Deo soli Patri mílitant.
+Nunc, et in ævum sine fine per sǽcula laus eórum tua glória.
+Qui pro salúte nostra prolem únicam pati in terram misísti sine culpa, sed ob nostra delícta.
+Te, Trínitas, precámur, ut córpora nostra et corda regas, et prótegas, et dones peccatórum véniam.
+
+[Evangelium]
+Sequéntia ++ sancti Evangélii secúndum Joánnem
+!Joann 1:19-28
+In illo témpore: Misérunt Judǽi ab Hierosólymis sacerdótes et levítas ad Joánnem, ut interrogárent eum: Tu quis es? Et conféssus est, et non negávit: et conféssus est: Quia non sum ego Christus. Et interrogavérunt eum: Quid ergo? Elías es tu? Et dixit: Non sum. Prophéta es tu? Et respóndit: Non. Dixérunt ergo ei: Quis es, ut respónsum demus his, qui misérunt nos? quid dicis de teípso? Ait: Ego vox clamántis in desérto: Dirígite viam Dómini, sicut dixit Esaías Prophéta. Et qui missi fúerant, erant ex Pharisǽis. Et interrogavérunt eum, et dixérunt ei: Quid ergo baptízas, si tu non es Christus, neque Elías, neque Prophéta? Respóndit eis Joánnes, dicens: Ego baptízo in aqua: médius autem vestrum stetit, quem vos nescítis. Ipse est, qui post me ventúrus est, qui ante me factus est: cujus ego non sum dignus ut solvam ejus corrígiam calceaménti. Hæc in Bethánia facta sunt trans Jordánem, ubi erat Joánnes baptízans.
+
+[Offertorium]
+!Is 35:4-6
+Confortámini, et jam nolíte timére: ecce enim Deus noster retríbuet judícium: ipse véniet, et salvos nos fáciet.
+/:Sequens versus per ferias hebdomadæ dicitur, non in die Dominica.:/
+V. Tunc aperiéntur óculi cæcórum, et aures surdórum áudient: tunc ascéndet claudus quasi cervus, et clara erit lingua mutórum.
+
+[Secreta]
+Sacrifíciis præséntibus, quǽsumus, Dómine, placátus inténde, quibus ad Fílii tui nativitátem suscipiéndam purificémur.
+$Per eúndem
+
+[Communio]
+!Is 7:14
+Ecce, Virgo concípiet et páriet fílium: et vocábitur nomen ejus Emmánuel.
+
+[Postcommunio]
+Pópulum tuum, quǽsumus, Dómine, donórum tuórum largitáte proséquere: ut a malis ómnibus sacramentórum tuórum virtúte protéctus, ad ineffábile mystérium celebrándum et mente præparétur et córpore.
+$Per Dominum

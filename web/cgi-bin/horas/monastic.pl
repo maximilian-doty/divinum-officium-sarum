@@ -139,7 +139,7 @@ sub psalmi_matutinum_monastic {
     (
       (
            ($rank > 4.9 || $votive =~ /C8/)
-        || (($rank >= 4 && $version =~ /divino/i) || ($rank >= 2 && $version =~ /trident/i))
+        || (($rank >= 4 && $version =~ /divino/i) || ($rank >= 2 && $version =~ /trident|Sarum/i))
       )
       && ($duplex == 3 || $dayname[1] !~ /feria|sabbato|Die.*infra octavam/i)
     )
@@ -251,7 +251,7 @@ sub psalmi_matutinum_monastic {
 
   if (
     (
-      $rule =~ /12 lectiones/ || ((($rank >= 4 && $version =~ /divino/i) || ($rank >= 2 && $version =~ /trident/i))
+      $rule =~ /12 lectiones/ || ((($rank >= 4 && $version =~ /divino/i) || ($rank >= 2 && $version =~ /trident|Sarum/i))
         && $dayname[1] !~ /feria|sabbato|infra octavam/i
         && $rule !~ /3 lectiones/i)
     )
@@ -304,7 +304,7 @@ sub psalmi_matutinum_monastic {
     if (
       (
         $rule !~ /12 lectiones/ && !(
-             (($rank >= 4 && $version =~ /divino/i) || ($rank >= 2 && $version =~ /trident/i))
+             (($rank >= 4 && $version =~ /divino/i) || ($rank >= 2 && $version =~ /trident|Sarum/i))
           && $dayname[1] !~ /feria|sabbato|infra octavam/i
           && $rule !~ /3 lectiones/i
         )
@@ -316,7 +316,7 @@ sub psalmi_matutinum_monastic {
   # In case of Matins of 3 nocturns with 12 lessons:
   if (
     (
-      $rule =~ /12 lectiones/ || ((($rank >= 4 && $version =~ /divino/i) || ($rank >= 2 && $version =~ /trident/i))
+      $rule =~ /12 lectiones/ || ((($rank >= 4 && $version =~ /divino/i) || ($rank >= 2 && $version =~ /trident|Sarum/i))
         && $dayname[1] !~ /feria|sabbato|infra octavam/i
         && $rule !~ /3 lectiones/i)
     )

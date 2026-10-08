@@ -1,0 +1,98 @@
+@Commune/C4
+
+[Rule]
+Psalmi Dominica
+Antiphonas horas
+Psalm5 Vespera=116
+Psalm5 Vespera3=131
+Sequentia
+
+[Introitus]
+!Eccli 45:30
+Státuit ei Dóminus testaméntum pacis, et príncipem fecit eum: ut sit illi sacerdótii dígnitas in ætérnum.
+!Ps 88:2
+Misericórdias Dómini in ætérnum cantábo.
+&Gloria
+Státuit ei Dóminus testaméntum pacis, et príncipem fecit eum: ut sit illi sacerdótii dígnitas in ætérnum.
+
+[Lectio]
+Léctio libri Sapiéntiæ.
+!Eccli 44:16-45:20
+Ecce sacérdos magnus, qui in diébus suis plácuit Deo, et invéntus est justus: et in témpore iracúndiæ factus est reconciliátio. Non est invéntus símilis illi, qui conserváret legem Excélsi. Ideo jurejurándo fecit illum Dóminus créscere in plebem suam. Benedictiónem ómnium géntium dedit illi, et testaméntum suum confirmávit super caput ejus. Cognóvit eum in benedictiónibus suis: conservávit illi misericórdiam suam: et invénit grátiam coram óculis Dómini. Magnificávit eum in conspéctu regum: et dedit illi corónam glóriæ. Státuit illi testaméntum sempitérnum, et dedit illi sacerdótium magnum: et beatificávit illum in glória. Fungi sacerdótio, et habére laudem in nómine ipsíus, et offérre illi incénsum dignum in odórem suavitátis.
+
+[Graduale]
+!Eccli 44:16
+Ecce sacérdos magnus, qui in diébus suis plácuit Deo.
+V. !Eccli 44:20
+Non est invéntus símilis illi, qui conserváret legem Excélsi.
+Allelúja, allelúja.
+V. !Isa 35:1-2
+Justus germinábit sicut lílium: et florébit in ætérnum ante Dóminum.
+Allelúja.
+
+[Tractus]
+!Ps 111:1
+Beátus vir qui timet Dóminum: in mandátis ejus cupit nimis.
+V. !Ps 111:2
+Potens in terra erit semen ejus: generátio rectórum benedicétur.
+V. !Ps 111:3
+Glória et divítiæ in domo ejus: et justítia ejus manet in sǽculum sǽculi.
+
+[Sequentia]
+{::Sarum common Sequence "Adest nobis"; the "N." in "Ave, inclyte præsul N." takes the saint's name (per Sarum rubric, e.g. "Ave, inclyte præsul Edwarde" — never "Ave inclyte confessor"); accentuation/name-substitution to review::}
+Adest nobis dies alma,
+et magno gáudio plena,
+in qua sancta Deo grata
+congáudet Ecclésia;
+Hódie cœléstis lætátur turma,
+quæ glóriam cantat in excélsis
+voce dulcísona cum symphónia.
+Hódie polórum sancta ágmina
+colláudant regem Deum nostrum
+natum ex Vírgine sancta María.
+Ave, ínclyte præsul N.,
+flos pulchérrime;
+Tu vestígia Christi secútus es
+fide devóta;
+Ætérni regis adéptus es regna;
+Jam gratuláris in domo súpera,
+póssidens sedes almas;
+Quem postulámus et póscimus una,
+Adjúvent tua sancta suffrágia frágilem vitam nostram,
+O beáte, O sancte N.,
+Laus tibi in glória;
+O beáte, O sancte N.,
+Pro nobis súpplica,
+Ut una mereámur sancta cœlórum templa
+possidére læti; cernéntes alma
+gáudia quæ sunt plena.
+Sit Deo laus honórque et
+jubilátio casta,
+Qui regnat per ómnia
+sæculórum sǽcula;
+Amen dicant ómnia.
+
+[Evangelium]
+Sequéntia sancti Evangélii secúndum Matthǽum.
+!Mat 25:14-23
+In illo témpore: Dixit Jesus discípulis suis parábolam hanc: Homo quidam péregre proficíscens vocávit servos suos, et trádidit illis bona sua. Et uni dedit quinque talénta, álii autem duo, álii vero unum, unicuíque secúndum própriam virtútem, et proféctus est statim. Abiit autem, qui quinque talénta accéperat, et operátus est in eis, et lucrátus est ália quinque. Simíliter qui duo accéperat, lucrátus est ália duo. Qui autem unum accéperat, ábiens fodit in terram, et abscóndit pecúniam dómini sui. Post multum vero témporis venit dóminus servórum illórum, et pósuit ratiónem cum eis. Et accédens qui quinque talénta accéperat, óbtulit ália quinque talénta, dicens: Dómine, quinque talénta tradidísti mihi, ecce ália quinque superlucrátus sum. Ait illi dóminus ejus: Euge, serve bone et fidélis, quia super pauca fuísti fidélis, supra multa te constítuam: intra in gáudium dómini tui. Accéssit autem et qui duo talénta accéperat, et ait: Dómine, duo talénta tradidísti mihi, ecce ália duo superlucrátus sum. Ait illi dóminus ejus: Euge, serve bone et fidélis, quia super pauca fuísti fidélis, supra multa te constítuam: intra in gáudium dómini tui.
+
+[Offertorium]
+!Ps 88:25
+Véritas mea et misericórdia mea cum ipso: et in nómine meo exaltábitur cornu ejus.
+
+[Communio]
+!Mat 25:20-21
+Dómine, quinque talénta tradidísti mihi: ecce ália quinque superlucrátus sum: euge, serve fidélis, quia in pauca fuísti fidélis, supra multa te constítuam: intra in gáudium dómini tui.
+
+[Oratio]
+Omnípotens sempitérne Deus, qui nos beáti N. Confessóris tui atque Pontíficis hodiérna festivitáte lætíficas: tuam súpplices exorámus cleméntiam; ut, cujus solémnia devótis offíciis venerámur, ejus piis suffrágiis ætérnæ vitæ remédia consequámur.
+$Per Dominum
+
+[Secreta]
+Propitiáre, quǽsumus, Dómine, supplicatiónibus nostris: et, intercedénte pro nobis beáto N. Confessóre tuo atque Pontífice, his sacraméntis cœléstibus serviéntes, ab omni culpa líberos esse concéde; ut purificánte nos grátia tua, iísdem quibus famulámur mystériis emundémur.
+$Per Dominum
+
+[Postcommunio]
+Præsta, quǽsumus, Dómine Deus noster: ut divínis mystériis expiáti, intercedénte beáto N. Confessóre tuo atque Pontífice, ad supérni plenitúdinem sacraménti, cujus libávimus sancta, tendámus.
+$Per Dominum

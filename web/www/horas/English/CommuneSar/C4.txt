@@ -1,0 +1,81 @@
+@Commune/C4
+
+[Introitus]
+{::English from F. E. Warren, The Sarum Missal in English (1911), Common of a Confessor and Bishop; "N." takes the saint's name::}
+Therefore was there a covenant of peace made with him by the Lord, that he should be the chief of the sanctuary and of his people, and that he and his posterity should have the dignity of the priesthood for ever.
+!Ps 88:2
+My song shall be alway of the loving-kindness of the Lord.
+&Gloria
+Therefore was there a covenant of peace made with him by the Lord, that he should be the chief of the sanctuary and of his people, and that he and his posterity should have the dignity of the priesthood for ever.
+
+[Lectio]
+The Lesson from the Book of Wisdom.
+!Eccli 44:16-45:20
+Behold a High Priest who in his day pleased the Lord, and was found righteous; in the time of wrath he was taken in exchange. In glory there was none like unto him, who kept the law of the most High; therefore He assured him by an oath that He would make him increase among his people. He established likewise the blessing of all men, and the covenant, and made it rest upon his head. He acknowledged him in His blessing, and He brought out of him a merciful man, which found favour in the sight of the Lord, and He made him glorious in the sight of kings, and gave him a crown of glory. An everlasting covenant He made with him, and gave him the priesthood among the people; and clothed him with a robe of glory, to execute the office of the priesthood, and to bless the people in His Name; to offer to Him incense, and a sweet savour.
+
+[Graduale]
+!Eccli 44:16
+Behold a high priest, who in his days pleased God.
+V. !Eccli 44:20
+There is none found like unto him, who kept the law of the Most High.
+Alleluia, alleluia.
+V. !Isa 35:1-2
+The righteous shall spring up as the lily, and shall flourish for ever before the Lord.
+Alleluia.
+
+[Tractus]
+!Ps 111:1
+Blessed is the man that feareth the Lord: he hath great delight in his commandments.
+V. !Ps 111:2
+His seed shall be mighty upon earth: the generation of the faithful shall be blessed.
+V. !Ps 111:3
+Riches and plenteousness shall be in his house: and his righteousness endureth for ever.
+
+[Sequentia]
+{::Warren's English of the Sequence "Adest nobis"; "N." takes the saint's name::}
+The festive day is come,
+which brings to us great joy,
+when Holy Church gives thanks acceptable to God.
+This day the heavenly host sings, Glory in the highest,
+with voice and symphony melodious.
+This day the holy armies of the heavens
+unite with us in praise of God our King,
+Christ, of the holy Virgin Mary born.
+Hail, noble Prelate N., thou flower of saints!
+With stedfast faith, Christ's footsteps following,
+thou hast attained the everlasting Kingdom;
+already to their courts the blessed welcome thee.
+To thee unitedly our suit we make,
+our frail life by thy blest protection aid.
+Praise, glory to thee, blessed, holy N.
+Entreat for us, O blessed, holy N.,
+that in the heavenly Temple we may stand,
+fulness of joy beholding in thy presence.
+Praise, honour, and thanksgiving pure
+be unto God, who doth for evermore endure.
+Let all things say, Amen.
+
+[Evangelium]
+The continuation of the holy Gospel according to Matthew.
+!Mat 25:14-23
+At that time: Jesus spoke to his disciples this parable: A man going into a far country called his servants, and delivered to them his goods. And to one he gave five talents, and to another two, and to another one, to every one according to his proper ability: and immediately he took his journey. And he that had received the five talents went his way, and traded with the same, and gained other five. And in like manner he that had received the two gained other two. But he that had received the one, going his way, digged into the earth, and hid his lord's money. But after a long time the lord of those servants came, and reckoned with them. And he that had received the five talents coming, brought other five talents, saying: Lord, thou didst deliver to me five talents, behold I have gained other five over and above. His lord said to him: Well done, good and faithful servant, because thou hast been faithful over a few things, I will place thee over many things: enter thou into the joy of thy lord. And he also that had received the two talents came, and said: Lord, thou deliveredst two talents to me; behold I have gained other two. His lord said to him: Well done, good and faithful servant: because thou hast been faithful over a few things, I will place thee over many things: enter thou into the joy of thy lord.
+
+[Offertorium]
+!Ps 88:25
+My truth also and my mercy shall be with him: and in my Name shall his horn be exalted.
+
+[Communio]
+!Mat 25:20-21
+Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more. Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.
+
+[Oratio]
+O Almighty and everliving God, who causest us to rejoice this day in the feast of thy Bishop and Confessor N.: we humbly pray thy mercy; that by the holy prayers of him whose feast we reverently keep, we may obtain the recompense of eternal life.
+$Per Dominum
+
+[Secreta]
+O Lord, we beseech thee, graciously receive these our supplications: and grant that we who attend this heavenly Sacrament may, at the intercession of thy Confessor and Bishop Saint N., be delivered from all sin, and through thy purifying grace be cleansed by these same Mysteries at which we serve.
+$Per Dominum
+
+[Postcommunio]
+Grant, we beseech thee, O Lord our God: that we, being cleansed by the divine Mystery, may, at the intercession of Saint N. thy Confessor and Bishop, reach forth unto the fulness of that heavenly Sacrament whereof we have partaken.
+$Per Dominum

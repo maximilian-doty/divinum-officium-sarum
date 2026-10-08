@@ -1,0 +1,7 @@
+[Officium]
+St. Osmund, Bishop and Confessor
+
+[Oratio]
+{::English from Warren, The Sarum Missal in English (1911), Common of a Confessor and Bishop (the Deposition is "all in the Common")::}
+O Almighty and everliving God, who causest us to rejoice this day in the feast of thy Bishop and Confessor Osmund: we humbly pray thy mercy; that by the holy prayers of him whose feast we reverently keep, we may obtain the recompense of eternal life.
+$Per Dominum

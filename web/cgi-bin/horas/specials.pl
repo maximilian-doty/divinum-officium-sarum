@@ -361,7 +361,7 @@ sub specials {
     ) {
       my %w = %{setupstring($lang, 'Psalterium/Special/Preces.txt')};
       my $lname = $version =~ /Monastic/ ? 'LitaniaM' : 'Litania';
-      if ($version =~ /1570/ && exists($w{LitaniaT})) { $lname = 'LitaniaT'; }
+      if ($version =~ /1570|Sarum/ && exists($w{LitaniaT})) { $lname = 'LitaniaT'; }
       push(@s, '$Domine exaudi', '&Benedicamus_Domino', '');
       my @lit = split("\n\n", $w{$lname});
       push(@lit, '', '');
@@ -522,7 +522,7 @@ sub tryoldhymn {
 
   our ($version, $oldhymns);
   $name1 =~ s/Hymnus\S*/$&M/;
-  ($oldhymns || ($version =~ /(Monastic|1570|Praedicatorum)/i)) && exists(${$source}{$name1}) ? $name1 : $name;
+  ($oldhymns || ($version =~ /(Monastic|1570|Praedicatorum|Sarum)/i)) && exists(${$source}{$name1}) ? $name1 : $name;
 }
 
 #*** checkmtv(version, winner)
@@ -538,7 +538,7 @@ sub checkmtv {
 # returns the [Ant $hora] item for the officium
 sub getanthoras {
   my $lang = shift;
-  my $tflag = ($version =~ /Trident|Monastic/i && $winner =~ /Sancti/i) ? 1 : 0;
+  my $tflag = ($version =~ /Trident|Monastic|Sarum/i && $winner =~ /Sancti/i) ? 1 : 0;
   $tflag = 0 if ($version =~ /1963/ && $winner =~ /SanctiM?.01-(?:(?:0[2-5789])|(?:1[012]))/);
 
   my $ant = '';
@@ -548,7 +548,7 @@ sub getanthoras {
   my $w = $w{'Ant Laudes'};
   my $c = $winner =~ /Sancti/ ? 3 : 2;
 
-  if (!$w && ($communetype =~ /ex\s*/i || $version =~ /Trident|Monastic/i)) {
+  if (!$w && ($communetype =~ /ex\s*/i || $version =~ /Trident|Monastic|Sarum/i)) {
     my %com = columnsel($lang) ? %commune : %commune2;
     $w = $com{'Ant Laudes'};
     $c = 4;

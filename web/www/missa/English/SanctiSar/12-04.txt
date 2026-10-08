@@ -1,0 +1,40 @@
+[Officium]
+St. Osmund, Bishop and Confessor
+
+[Introitus]
+{::English from Warren, The Sarum Missal in English (1911), Common of a Confessor and Bishop (the Deposition is "all as i. in the Common, except Grad. and Offert. ii.")::}
+Therefore was there a covenant of peace made with him by the Lord, that he should be the chief of the sanctuary and of his people, and that he and his posterity should have the dignity of the priesthood for ever.
+!Ps 88:2
+My song shall be alway of the loving-kindness of the Lord.
+&Gloria
+Therefore was there a covenant of peace made with him by the Lord, that he should be the chief of the sanctuary and of his people, and that he and his posterity should have the dignity of the priesthood for ever.
+
+[Oratio]
+O Almighty and everliving God, who causest us to rejoice this day in the feast of thy Bishop and Confessor Osmund: we humbly pray thy mercy; that by the holy prayers of him whose feast we reverently keep, we may obtain the recompense of eternal life.
+$Per Dominum
+
+[Graduale]
+!Ps 109:4
+The Lord sware, and will not repent: Thou art a priest for ever after the order of Melchisedech.
+V. !Ps 109:1
+The Lord said unto my Lord: Sit thou on my right hand.
+Alleluia, alleluia.
+V. !Isa 35:1-2
+The righteous shall spring up as the lily, and shall flourish for ever before the Lord.
+Alleluia.
+
+[Offertorium]
+!Ps 88:21-22
+I have found David my servant: with my holy oil have I anointed him. My hand shall hold him fast: and my arm shall strengthen him.
+
+[Secreta]
+O Lord, we beseech thee, graciously receive these our supplications: and grant that we who attend this heavenly Sacrament may, at the intercession of thy Confessor and Bishop Saint Osmund, be delivered from all sin, and through thy purifying grace be cleansed by these same Mysteries at which we serve.
+$Per Dominum
+
+[Communio]
+!Mat 25:20-21
+Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more. Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord.
+
+[Postcommunio]
+Grant, we beseech thee, O Lord our God: that we, being cleansed by the divine Mystery, may, at the intercession of Saint Osmund thy Confessor and Bishop, reach forth unto the fulness of that heavenly Sacrament whereof we have partaken.
+$Per Dominum

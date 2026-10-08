@@ -1,0 +1,104 @@
+[Officium]
+Translatio S. Osmundi Episcopi et Confessoris
+
+[Rank]
+;;Semiduplex;;2;;vide C4
+
+[Rule]
+vide C4
+Gloria
+
+[Introitus]
+Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre Osmúndi præsulis: de cujus translatióne gaudent Ángeli, et colláudant Fílium Dei.
+!Ps 63:2
+Exáudi, Deus, oratiónem meam cum déprecor: a timóre inimíci éripe ánimam meam.
+&Gloria
+Gaudeámus omnes in Dómino, diem festum celebrántes sub honóre Osmúndi præsulis: de cujus translatióne gaudent Ángeli, et colláudant Fílium Dei.
+
+[Oratio]
+Deus, cujus antíqua mirácula étiam nostris tempóribus ad tui nóminis magnificéntiam ac laudem et honórem sancti Confessóris tui atque Pontíficis Osmúndi coruscáre sentímus: concéde propítius; ut, cujus translatiónem cólimus, ejus intercessiónibus, et in præsénti sǽculo te glorificémus, et in futúro te pérfrui mereámur.
+$Per Dominum
+
+[Lectio]
+@Commune/C4:Lectio
+
+[Graduale]
+!Ps 20:4
+Dómine, prævenísti eum in benedictiónibus dulcédinis: posuísti in cápite ejus corónam de lápide pretióso.
+V. !Ps 20:5
+Vitam pétiit a te, et tribuísti ei longitúdinem diérum in sǽculum sǽculi.
+Allelúja, allelúja.
+V. !Isa 35:1-2
+Justus germinábit sicut lílium: et florébit in ætérnum ante Dóminum.
+Allelúja.
+
+[Sequentia]
+{::Sequence text from Dickinson; metrical, printed without accents — accentuation pending review::}
+Gaudeámus Messía,
+veritáte, vita, via,
+beatórum glória;
+Dies lætus celebrétur,
+quo Osmúndi decantétur
+honor et memória.
+In sacra translatióne
+cujus, cœlicæ persónæ
+astant reveréntia;
+Et colláudant Natum Dei,
+qui ut finis omnis spei
+ex munificéntia,
+Hunc Osmúndum confessórem
+parentéla clariórem
+illústri prosápia,
+Ortum fecit; quem virtútum
+præter militáre scutum
+insignítur grátia,
+Prudens, potens, temperátus,
+spe et fide roborátus,
+prǽminet justítia;
+Et præpóllet caritáte
+quibus armis Deitáte
+datis vicit vítia.
+Fastum, rixam et livórem,
+avarítiam, torpórem,
+gulam, ludos, jácula;
+Sternit, cædit, delet, pellit,
+fugat, extírpat, reféllit,
+miles absque mácula
+Gemmas, terras, vestes, aurum,
+seque páriter thesáurum,
+ponit in ecclésia;
+Illis decorávit chorum,
+sed de se miraculórum
+semper fluit cópia.
+Claudis gressus, cæcis visus,
+mutis lingua, mœstis risus,
+leprósis mundítia;
+Vita mórtuis donátur;
+sanus redit qui precátur
+illum cum fidúcia.
+Ergo, præsulum beáte,
+deprecántibus te da te
+semper ad solátia;
+A peccátis nos emúnda,
+claritátis quo jocúnda
+intrémus palátia.
+Amen.
+
+[Evangelium]
+@Commune/C4:Evangelium
+
+[Offertorium]
+!Ps 88:25
+Véritas mea et misericórdia mea cum ipso: et in nómine meo exaltábitur cornu ejus.
+
+[Secreta]
+Múnera nostra, Dómine, quǽsumus, méritis et intercessiónibus munífici Confessóris tui Osmúndi sanctífica: ut in Fílii tui Dómini nostri Jesu Christi corpus et sánguinem convertántur, et ad nostrárum profíciant salútem animárum.
+$Per eundem
+
+[Communio]
+!Mat 24:46-47
+Beátus servus, quem, cum vénerit dóminus, invénerit vigilántem: amen dico vobis, super ómnia bona sua constítuet eum.
+
+[Postcommunio]
+Sumptis, Dómine, munéribus sacris, te súpplices deprecámur: ut, eórum virtúte roboráti, beáti Osmúndi Confessóris tui atque Pontíficis imitémur exémpla; et ad gáudia perveniámus ætérna.
+$Per Dominum

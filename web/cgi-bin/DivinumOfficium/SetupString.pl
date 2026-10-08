@@ -18,8 +18,12 @@ our %setupstring_caches_by_version;
 my %subjects = (
 
   # Standard subjects
-  rubricis => sub {$version},
-  rubrica => sub {$version},
+  # Sarum inherits the Tridentine - 1570 rubrics as its baseline, so for in-data
+  # (rubrica ...) conditionals it presents as Tridentine - 1570 (prefixed, so
+  # ^Trident anchored matches) while still matching `rubrica Sarum` for any
+  # Sarum-specific divergences.
+  rubricis => sub { $version =~ /Sarum/ ? "Tridentine - 1570 $version" : $version },
+  rubrica => sub { $version =~ /Sarum/ ? "Tridentine - 1570 $version" : $version },
   tempore => \&get_tempus_id,
   missa => sub { our $missanumber },
   communi => sub { our $version },
@@ -38,7 +42,7 @@ my %subjects = (
 my %predicates = (
 
   # Standard predicates
-  tridentina => sub { shift =~ /Trident/ },
+  tridentina => sub { shift =~ /Trident|Sarum/ },
   monastica => sub { shift =~ /Monastic/ },
   innovata => sub { shift =~ /2020 USA|NewCal/i },
   innovatis => sub { shift =~ /2020 USA|NewCal/i },
@@ -209,7 +213,7 @@ sub get_tempus_id {
     && ( ($1 == 1 && $dayofweek > 4 && !($dayofweek == 6 && $vesp_or_comp))
       || ($1 == 2 && ($dayofweek < 5 || ($dayofweek == 6 && $vesp_or_comp))))
     && $version !~ /19(?:55|6)/ ? 'Octava Corpus Christi post Pentecosten'
-    : /^Pent02/ && $dayofweek == 5 && $version !~ /1570/ ? 'SSmi Cordis post Pentecosten'
+    : /^Pent02/ && $dayofweek == 5 && $version !~ /1570|Sarum/ ? 'SSmi Cordis post Pentecosten'
     : /^Pent0(\d)/
     && ( ($1 == 2 && $dayofweek > 5 && !($dayofweek == 6 && $vesp_or_comp))
       || ($1 == 3 && ($dayofweek < 6 || ($dayofweek == 6 && $vesp_or_comp))))
@@ -792,11 +796,12 @@ sub checklatinfile {
   # Hierarchy for Folder dependency:
   # OCist => OSB (a.k.a. "M")
   # OSB & OP => Roman
+  # Sarum => Roman
   -e "$datafolder$redirect/Latin/$file.txt"
     || $file =~ s/(Sancti|Tempora|Commune)(?:Cist)(.*)/$1M$2/
     && (-e "$datafolder$redirect/Latin/$file.txt")
     && ($$file_ref = "$file$txt")
-    || $file =~ s/(Sancti|Tempora|Commune)(?:M|OP)(.*)/$1$2/
+    || $file =~ s/(Sancti|Tempora|Commune)(?:M|OP|Sar)(.*)/$1$2/
     && (-e "$datafolder$redirect/Latin/$file.txt")
     && ($$file_ref = "$file$txt");
 }

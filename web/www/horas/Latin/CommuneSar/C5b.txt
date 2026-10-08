@@ -1,0 +1,61 @@
+@Commune/C5b
+
+[Introitus]
+!Ps 36:30-31
+Os justi meditábitur sapiéntiam, et lingua ejus loquétur judícium: lex Dei ejus in corde ipsíus.
+!Ps 36:1
+Noli æmulári in malignántibus: neque zeláveris faciéntes iniquitátem.
+&Gloria
+Os justi meditábitur sapiéntiam, et lingua ejus loquétur judícium: lex Dei ejus in corde ipsíus.
+
+[Oratio]
+Deus, qui beátum N. Confessórem tuum atque Abbátem sanctitátis grátia decorásti: ipsíus méritis fac nos bonis opéribus abundáre; ut a te summo bono omne quod éxpedit mereámur impetráre.
+$Per Dominum
+
+[Graduale]
+!Ps 36:30-31
+Os justi meditábitur sapiéntiam, et lingua ejus loquétur judícium.
+V. !Ps 36:31
+Lex Dei ejus in corde ipsíus: et non supplantabúntur gressus ejus.
+Allelúja, allelúja.
+V. !Ps 88:20-21
+Pósui adjutórium super poténtem, et exaltávi eléctum de plebe mea.
+Allelúja.
+
+[Sequentia]
+{::Sarum common Sequence "Adest nobis" (as in the Common of a Confessor and Bishop); "N." takes the saint's name::}
+Adest nobis dies alma,
+et magno gáudio plena,
+in qua sancta Deo grata
+congáudet Ecclésia;
+Hódie cœléstis lætátur turma,
+quæ glóriam cantat in excélsis
+voce dulcísona cum symphónia.
+Hódie polórum sancta ágmina
+colláudant regem Deum nostrum
+natum ex Vírgine sancta María.
+Ave, ínclyte præsul N.,
+flos pulchérrime;
+Tu vestígia Christi secútus es
+fide devóta;
+Ætérni regis adéptus es regna;
+Jam gratuláris in domo súpera,
+póssidens sedes almas;
+Quem postulámus et póscimus una,
+Adjúvent tua sancta suffrágia frágilem vitam nostram,
+O beáte, O sancte N.,
+Laus tibi in glória;
+O beáte, O sancte N.,
+Pro nobis súpplica,
+Ut una mereámur sancta cœlórum templa
+possidére læti; cernéntes alma
+gáudia quæ sunt plena.
+Sit Deo laus honórque et
+jubilátio casta,
+Qui regnat per ómnia
+sæculórum sǽcula;
+Amen dicant ómnia.
+
+[Offertorium]
+!Ps 20:3-4
+Desidérium ánimæ ejus tribuísti ei, Dómine, et voluntáte labiórum ejus non fraudásti eum: posuísti in cápite ejus corónam de lápide pretióso.

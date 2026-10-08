@@ -1,0 +1,76 @@
+[Officium]
+Dominica II Adventus
+
+[Rank]
+;;Semiduplex II. classis;;6.1
+
+[Rule]
+no Gloria
+Credo
+Suffr=Maria1;;
+
+[Introitus]
+!Is 30:30
+v. Pópulus Sion, ecce, Dóminus véniet ad salvándas gentes: et audítam fáciet Dóminus glóriam vocis suæ in lætítia cordis vestri.
+!Ps 79:2
+Qui regis Israël, inténde: qui dedúcis, velut ovem, Joseph.
+&Gloria
+v. Pópulus Sion, ecce, Dóminus véniet ad salvándas gentes: et audítam fáciet Dóminus glóriam vocis suæ in lætítia cordis vestri.
+
+[Oratio]
+Excita, Dómine, corda nostra ad præparándas Unigéniti tui vias: ut, per ejus advéntum, purificátis tibi méntibus servíre mereámur:
+$Qui tecum
+
+[Lectio]
+Léctio Epístolæ beáti Pauli Apóstoli ad Romános
+!Rom 15:4-13
+Fratres: Quæcúmque scripta sunt, ad nostram doctrínam scripta sunt: ut per patiéntiam et consolatiónem Scripturárum spem habeámus. Deus autem patiéntiæ et solátii det vobis idípsum sápere in altérutrum secúndum Jesum Christum: ut unánimes, uno ore honorificétis Deum et Patrem Dómini nostri Jesu Christi. Propter quod suscípite ínvicem, sicut et Christus suscépit vos in honórem Dei. Dico enim Christum Jesum minístrum fuísse circumcisiónis propter veritátem Dei, ad confirmándas promissiónes patrum: gentes autem super misericórdia honoráre Deum, sicut scriptum est: Proptérea confitébor tibi in Géntibus, Dómine, et nómini tuo cantábo. Et íterum dicit: Lætámini, Gentes, cum plebe ejus. Et íterum: Laudáte, omnes Gentes, Dóminum, et magnificáte eum, omnes pópuli: et rursum Esaías ait: Erit radix Jesse, et qui exsúrget régere Gentes; in eum Gentes sperábunt. Deus autem spei répleat vos omni gáudio et pace in credéndo: ut abundétis in spe et virtúte Spíritus Sancti.
+
+[Graduale]
+!Ps 49:2; 49:5
+Ex Sion spécies decóris ejus: Deus noster maniféste véniet.
+V. Congregáte illi sanctos ejus: qui ordinavérunt testaméntum ejus super sacrifícia. Allelúja, allelúja.
+!Luc 21:27
+V. Virtútes cœli movebúntur: et tunc vidébunt Fílium Hóminis veniéntem in núbibus cœli cum potestáte et majestáte magna. Allelúja.
+
+[GradualeF]
+!Ps 49:2; 49:5
+Ex Sion spécies decóris ejus: Deus noster maniféste véniet.
+V. Congregáte illi sanctos ejus: qui ordinavérunt testaméntum ejus super sacrifícia.
+
+[Sequentia]
+Regnántem sempitérna per sǽcla suscEptúra concio devóta concrepa:
+Divíno sono Factóri reddéndo débita:
+Cui júbilant ágmina cœléstia, ejus vultu exhiláráta:
+Quem exspéctant ómnia terréa ejus nutu examinánda:
+Districtum ad judícia, cleméntem in poténtia:
+Tua nos salva, Christe, cleméntia propter quos passus es dira.
+Ad poli astra súbleva nítida qui sorde tergis sǽcula.
+Influat salus vera effúgans perícula.
+Omnia ut sint munda tríbue pacífica.
+Ut hic tua salvi misericórdia, læti regna post adeámus súpera,
+Quo regnas sǽcula per infiníta.
+
+[Evangelium]
+Sequéntia ++ sancti Evangélii secúndum Lucam
+!Luc 21:25-33
+In illo témpore: Dixit Jesus discípulis suis: Erunt signa in sole et luna et stellis, et in terris pressúra géntium præ confusióne sónitus maris et flúctuum: arescéntibus homínibus præ timóre et exspectatióne, quæ supervénient univérso orbi: nam virtútes cœlórum movebúntur. Et tunc vidébunt Fílium hóminis veniéntem in nube cum potestáte magna et majestáte. His autem fíeri incipiéntibus, respícite et leváte cápita vestra: quóniam appropínquat redémptio vestra. Et dixit illis similitúdinem: Vidéte ficúlneam et omnes árbores: cum prodúcunt jam ex se fructum, scitis quóniam prope est æstas. Ita et vos cum vidéritis hæc fíeri, scitóte quóniam prope est regnum Dei. Amen dico vobis, quia non præteríbit generátio hæc, donec ómnia fiant. Cœlum et terra transíbunt: verba autem mea non transíbunt.
+
+[Offertorium]
+!Ps 84:7-8
+Deus, tu convérsus vivificábis nos: et plebs tua lætábitur in te: osténde nobis, Dómine, misericórdiam tuam, et salutáre tuum da nobis.
+/:Sequentes versus per ferias hebdomadæ dicuntur, non in die Dominica.:/
+V. Benedixísti, Dómine, terram tuam: avertísti captivitátem Jacob: remisísti iniquitátem plebis tuæ.
+V. Misericórdia et véritas obviavérunt sibi: véritas de terra orta est, et justítia de cœlo prospéxit.
+
+[Secreta]
+Placáre, quǽsumus, Dómine, humilitátis nostræ précibus et hóstiis: et, ubi nulla súppetunt suffrágia meritórum, tuis nobis succúrre præsídiis.
+$Per Dominum
+
+[Communio]
+!Bar 5:5; 4:36
+Hierúsalem, surge et sta in excélso, et vide jucunditátem, quæ véniet tibi a Deo tuo.
+
+[Postcommunio]
+Refécti cibo potúque spirituális alimóniæ, súpplices te, Dómine, deprecámur: ut, hujus participatióne mystérii, dóceas nos terréna despícere et amáre cœléstia.
+$Per Dominum

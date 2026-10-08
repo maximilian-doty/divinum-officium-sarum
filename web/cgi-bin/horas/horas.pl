@@ -75,7 +75,7 @@ sub horas {
 
   # Call of print_content from webdia.pl
   # Fifth argument: Flag if 'Ante/Post Divinum Officium' is printed
-  print_content($lang1, \@script1, $lang2, \@script2, $version !~ /(1570|1955|196|Altovadensis)/);
+  print_content($lang1, \@script1, $lang2, \@script2, $version !~ /(1570|1955|196|Altovadensis|Sarum)/);
 
   # GABC: Restore original values for language and only to be used if selections are changed
   $lang1 = $templang1;
@@ -484,7 +484,7 @@ sub ant123_special {
       $ant = $specials{"Adv Ant $day"};
       $duplexf = 1;
     }
-  } elsif ($winner =~ /^Sancti/ && $version !~ /Trident/ && $vespera == 3) {
+  } elsif ($winner =~ /^Sancti/ && $version !~ /Trident|Sarum/ && $vespera == 3) {
 
     # Special processing for Common of Supreme Pontiffs. Confessor-Popes
     # have a common Magnificat antiphon at second Vespers.

@@ -1,0 +1,35 @@
+@Commune/C6
+
+[Introitus]
+!Ps 44:8
+Dilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, óleo lætítiæ præ consórtibus tuis.
+!Ps 44:2
+Eructávit cor meum verbum bonum: dico ego ópera mea regi.
+&Gloria
+Dilexísti justítiam, et odísti iniquitátem: proptérea unxit te Deus, Deus tuus, óleo lætítiæ præ consórtibus tuis.
+
+[Oratio]
+Exáudi nos, Deus salutáris noster: ut, sicut de beátæ N. Vírginis et Mártyris tuæ festivitáte gaudémus, ita piæ devotiónis erudiámur afféctu.
+$Per Dominum
+
+[Graduale]
+!Ps 44:8
+Dilexísti justítiam, et odísti iniquitátem.
+V. !Ps 44:8
+Proptérea unxit te Deus, Deus tuus, óleo lætítiæ.
+Allelúja, allelúja.
+V. !Sap 3:7
+Fulgébunt justi, et tamquam scintíllæ in arundinéto discúrrent in ætérnum.
+Allelúja.
+
+[Offertorium]
+!Ps 44:10
+Fíliæ regum in honóre tuo, ástitit regína a dextris tuis in vestítu deauráto, circúmdata varietáte.
+
+[Secreta]
+Hóstias, Dómine, quas tibi offérimus, propítius réspice: et, intercedénte beáta N. Vírgine tua et Mártyre, víncula peccatórum nostrórum absólve.
+$Per Dominum
+
+[Communio]
+!Ps 44:3
+Diffúsa est grátia in lábiis tuis: proptérea benedíxit te Deus in ætérnum.

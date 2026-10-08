@@ -1,0 +1,13 @@
+[Officium]
+Translatio S. Osmundi Episcopi et Confessoris
+
+[Rank]
+;;Semiduplex;;2;;vide C4
+
+[Rule]
+vide C4
+9 lectiones
+
+[Oratio]
+Deus, cujus antíqua mirácula étiam nostris tempóribus ad tui nóminis magnificéntiam ac laudem et honórem sancti Confessóris tui atque Pontíficis Osmúndi coruscáre sentímus: concéde propítius; ut, cujus translatiónem cólimus, ejus intercessiónibus, et in præsénti sǽculo te glorificémus, et in futúro te pérfrui mereámur.
+$Per Dominum

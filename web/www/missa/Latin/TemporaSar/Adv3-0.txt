@@ -1,0 +1,71 @@
+[Officium]
+Dominica III Adventus
+
+[Rank]
+;;Semiduplex II. classis;;6.1
+
+[Rule]
+no Gloria
+Credo
+Suffr=Maria1;;
+
+[Introitus]
+!Phil 4:4-6
+v. Gaudéte in Dómino semper: íterum dico, gaudéte. Modéstia vestra nota sit ómnibus homínibus: Dóminus enim prope est. Nihil sollíciti sitis: sed in omni oratióne petitiónes vestræ innotéscant apud Deum.
+!Phil 4:7
+Et pax Dei, quæ exsúperat omnem sensum: custódiat corda vestra et intelligéntias vestras.
+&Gloria
+v. Gaudéte in Dómino semper: íterum dico, gaudéte. Modéstia vestra nota sit ómnibus homínibus: Dóminus enim prope est. Nihil sollíciti sitis: sed in omni oratióne petitiónes vestræ innotéscant apud Deum.
+
+[Oratio]
+Aurem tuam, quǽsumus, Dómine, précibus nostris accómmoda: et mentis nostræ ténebras grátia tuæ visitatiónis illústra:
+$Qui vivis
+
+[Lectio]
+Léctio Epístolæ beáti Pauli Apóstoli ad Corínthios
+!1 Cor 4:1-5
+Fratres: Sic nos exístimet homo ut minístros Christi, et dispensatóres ministeriórum Dei. Hic jam quǽritur inter dispensatóres, ut fidélis quis inveniátur. Mihi autem pro mínimo est, ut a vobis júdicer aut ab humáno die: sed neque meípsum júdico. Nihil enim mihi cónscius sum: sed non in hoc justificátus sum: qui autem júdicat me, Dóminus est. Itaque nolíte ante tempus judicáre, quoadúsque véniat Dóminus: qui et illuminábit abscóndita tenebrárum, et manifestábit consília córdium: et tunc laus erit unicuíque a Deo.
+
+[Graduale]
+!Ps 79:2
+Qui sedes, Dómine, super Chérubim, éxcita poténtiam tuam et veni.
+V. Qui regis Israël, inténde: qui dedúcis velut ovem Joseph. Allelúja, allelúja.
+!Ps 79:3
+V. Excita, Dómine, poténtiam tuam, et veni ut salvos fácias nos. Allelúja.
+
+[GradualeF]
+!Ps 79:2
+Qui sedes, Dómine, super Chérubim, éxcita poténtiam tuam et veni.
+V. Qui regis Israël, inténde: qui dedúcis velut ovem Joseph.
+
+[Sequentia]
+Qui regis sceptra forti dextra solus cuncta,
+Tu plebi tuam osténde magnam excitándo poténtiam.
+Præsta illi dona salutária,
+Quem prædixérunt prophética vaticínia.
+A clara poli régia,
+In nostra, Jesu, veni, Dómine, arva.
+
+[Evangelium]
+Sequéntia ++ sancti Evangélii secúndum Matthǽum
+!Matt 11:2-10
+In illo témpore: Cum audísset Joánnes in vínculis ópera Christi, mittens duos de discípulis suis, ait illi: Tu es, qui ventúrus es, an álium exspectámus? Et respóndens Jesus, ait illis: Eúntes renuntiáte Joánni, quæ audístis et vidístis. Cæci vident, claudi ámbulant, leprósi mundántur, surdi áudiunt, mórtui resúrgunt, páuperes evangelizántur: et beátus est, qui non fúerit scandalizátus in me. Illis autem abeúntibus, cœpit Jesus dícere ad turbas de Joánne: Quid exístis in desértum vidére? arúndinem vento agitátam? Sed quid exístis vidére? hóminem móllibus vestítum? Ecce, qui móllibus vestiúntur, in dómibus regum sunt. Sed quid exístis vidére? Prophétam? Etiam dico vobis, et plus quam Prophétam. Hic est enim, de quo scriptum est: Ecce, ego mitto Angelum meum ante fáciem tuam, qui præparábit viam tuam ante te.
+
+[Offertorium]
+!Ps 84:2
+Benedixísti, Dómine, terram tuam: avertísti captivitátem Jacob: remisísti iniquitátem plebis tuæ.
+/:Sequentes versus per ferias hebdomadæ dicuntur, non in die Dominica.:/
+V. Operuísti ómnia peccáta eórum: mitigásti omnem iram tuam.
+V. Osténde nobis, Dómine, misericórdiam tuam, et salutáre tuum da nobis.
+
+[Secreta]
+Devotiónis nostræ tibi, Dómine, quǽsumus, hóstia júgiter immolétur: quæ et sacri péragat institúta mystérii, et salutáre tuum nobis mirabíliter operétur.
+$Per Dominum
+
+[Communio]
+!Is 35:4
+Dícite: pusillánimes, confortámini et nolíte timére: ecce, Deus noster véniet et salvábit nos.
+
+[Postcommunio]
+Implorámus, Dómine, cleméntiam tuam: ut hæc divína subsídia, a vítiis expiátos, ad festa ventúra nos prǽparent.
+$Per Dominum

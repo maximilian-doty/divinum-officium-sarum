@@ -1,0 +1,53 @@
+[Officium]
+S. Osmundi Episcopi et Confessoris
+
+[Rank]
+;;Semiduplex;;2;;vide C4
+
+[Rule]
+vide C4
+Gloria
+
+[Introitus]
+!Eccli 45:30
+Státuit ei Dóminus testaméntum pacis, et príncipem fecit eum: ut sit illi sacerdótii dígnitas in ætérnum.
+!Ps 88:2
+Misericórdias Dómini in ætérnum cantábo.
+&Gloria
+Státuit ei Dóminus testaméntum pacis, et príncipem fecit eum: ut sit illi sacerdótii dígnitas in ætérnum.
+
+[Oratio]
+Omnípotens sempitérne Deus, qui nos beáti Osmúndi Confessóris tui atque Pontíficis hodiérna festivitáte lætíficas; tuam súpplices exorámus cleméntiam, ut cujus solémnia devótis offíciis venerámur, ejus piis suffrágiis ætérnæ vitæ remédia consequámur.
+$Per Dominum
+
+[Lectio]
+@Commune/C4:Lectio
+
+[Graduale]
+!Ps 109:4
+Jurávit Dóminus, et non pœnitébit eum: Tu es sacérdos in ætérnum secúndum órdinem Melchísedech.
+V. !Ps 109:1
+Dixit Dóminus Dómino meo: Sede a dextris meis.
+Allelúja, allelúja.
+V. !Isa 35:1-2
+Justus germinábit sicut lílium: et florébit in ætérnum ante Dóminum.
+Allelúja.
+
+[Evangelium]
+@Commune/C4:Evangelium
+
+[Offertorium]
+!Ps 88:21-22
+Invéni David servum meum, óleo sancto meo unxi eum: manus enim mea auxiliábitur ei, et bráchium meum confortábit eum.
+
+[Secreta]
+Propitiáre, Dómine, quǽsumus, supplicatiónibus nostris; et, intercedénte pro nobis beáto Osmúndo Confessóre tuo atque Pontífice, his sacraméntis cœléstibus serviéntes, ab omni culpa líberos esse concéde; ut purificánte nos grátia tua, iísdem quibus famulámur mystériis emundémur.
+$Per Dominum
+
+[Communio]
+!Mat 25:20-21
+Dómine, quinque talénta tradidísti mihi, ecce ália quinque superlucrátus sum: euge, serve fidélis, quia in pauca fuísti fidélis, supra multa te constítuam, intra in gáudium dómini tui.
+
+[Postcommunio]
+Præsta, quǽsumus, Dómine Deus noster, ut divínis mystériis expiáti, intercedénte beáto Osmúndo Confessóre tuo atque Pontífice, ad supérni plenitúdinem sacraménti, cujus libávimus sancta, tendámus.
+$Per Dominum

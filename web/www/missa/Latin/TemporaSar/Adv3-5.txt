@@ -1,0 +1,57 @@
+[Officium]
+Feria VI Quatuor Temporum Adventus
+
+[Rank]
+;;Feria major;;2.1
+
+[Rule]
+Oratio Dominica
+no Gloria
+no Credo
+Suffr=Maria1;;
+
+[Introitus]
+!Ps 118:151-152
+v. Prope esto, Dómine, et omnes viæ tuæ véritas: inítio cognóvi de testimóniis tuis, quia in ætérnum tu es.
+!Ps 118:1
+Beáti immaculáti in via: qui ámbulant in lege Dómini.
+&Gloria
+v. Prope esto, Dómine, et omnes viæ tuæ véritas: inítio cognóvi de testimóniis tuis, quia in ætérnum tu es.
+
+[Oratio]
+Excita, quǽsumus, Dómine, poténtiam tuam, et veni: ut hi qui in tua pietáte confídunt, ab omni cítius adversitáte liberéntur.
+$Qui vivis
+
+[Lectio]
+Léctio Isaíæ Prophétæ
+!Is 11:1-5
+Hæc dicit Dóminus Deus: Egrediétur virga de radíce Jesse, et flos de radíce ejus ascéndet. Et requiéscet super eum Spíritus Dómini: Spíritus sapiéntiæ et intelléctus, Spíritus consílii et fortitúdinis, Spíritus sciéntiæ et pietátis: et replébit eum Spíritus timóris Dómini. Non secúndum visiónem oculórum judicábit, neque secúndum audítum áurium árguet: sed judicábit in justítia páuperes, et árguet in æquitáte pro mansuétis terræ: et percútiet terram virga oris sui, et spíritu labiórum suórum interfíciet ímpium. Et erit justítia cíngulum lumbórum ejus: et fides cinctórium renum ejus.
+
+[Graduale]
+!Ps 84:8; 84:2
+Osténde nobis, Dómine, misericórdiam tuam: et salutáre tuum da nobis.
+V. Benedixísti, Dómine, terram tuam: avertísti captivitátem Jacob.
+
+[Evangelium]
+Sequéntia ++ sancti Evangélii secúndum Lucam
+!Luc 1:39-47
+In illo témpore: Exsúrgens María ábiit in montána cum festinatióne, in civitátem Juda: et intrávit in domum Zacharíæ, et salutávit Elísabeth. Et factum est, ut audívit salutatiónem Maríæ Elísabeth, exsultávit infans in útero ejus: et repléta est Spíritu Sancto Elísabeth: et exclamávit voce magna, et dixit: Benedícta tu inter mulíeres, et benedíctus fructus ventris tui. Et unde hoc mihi, ut véniat mater Dómini mei ad me? Ecce enim ut facta est vox salutatiónis tuæ in áuribus meis, exsultávit in gáudio infans in útero meo. Et beáta, quæ credidísti, quóniam perficiéntur ea, quæ dicta sunt tibi a Dómino. Et ait María: Magníficat ánima mea Dóminum: et exsultávit spíritus meus in Deo salutári meo.
+
+[Offertorium]
+!Ps 84:7-8
+Deus, tu convérsus vivificábis nos: et plebs tua lætábitur in te: osténde nobis, Dómine, misericórdiam tuam, et salutáre tuum da nobis.
+/:Sequentes versus per ferias hebdomadæ dicuntur.:/
+V. Benedixísti, Dómine, terram tuam: avertísti captivitátem Jacob: remisísti iniquitátem plebis tuæ.
+V. Misericórdia et véritas obviavérunt sibi: véritas de terra orta est, et justítia de cœlo prospéxit.
+
+[Secreta]
+Sacrifíciis, quǽsumus, Dómine, salutáribus his diébus aptémur propénsius, quibus illud est mystérium celebrándum, cui servit omnis execútio mandatórum.
+$Per Dominum
+
+[Communio]
+!Zach 14:5-6
+Ecce, Dóminus véniet, et omnes sancti ejus cum eo: et erit in die illa lux magna.
+
+[Postcommunio]
+Pérfice, quǽsumus, Dómine, misericórdiam tuam pópulo supplicánti: quem tuórum reféctum largitáte donórum, et instántius grátiam postuláre majórem, et fiduciálius speráre concédas.
+$Per Dominum

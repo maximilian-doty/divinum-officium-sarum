@@ -1,0 +1,54 @@
+[Officium]
+Ember Friday in Advent
+
+[Rule]
+Oratio Dominica
+no Gloria
+no Credo
+Suffr=Maria1;;
+
+[Introitus]
+!Ps 118:151-152
+v. Thou art near at hand, O Lord, and all Thy ways are truth: I have known of old out of Thy testimonies, that Thou hast founded them for ever.
+!Ps 118:1
+Blessed are those that are undefiled in the way: who walk in the law of the Lord.
+&Gloria
+v. Thou art near at hand, O Lord, and all Thy ways are truth: I have known of old out of Thy testimonies, that Thou hast founded them for ever.
+
+[Oratio]
+Put forth Thy power, O Lord, we beseech Thee, and come: that those who trust in Thy goodness may soon be delivered from all harm.
+$Qui vivis
+
+[Lectio]
+Lesson from the book of Isaias
+!Is 11:1-5
+Thus says the Lord God: A shoot shall sprout from the stump of Jesse, and from his roots a bud shall blossom. The spirit of the Lord shall rest upon Him: a spirit of wisdom and of understanding, a spirit of knowledge and of piety, and His delight shall be the fear of the Lord. Not by appearance shall He judge, nor by hearsay shall He decide, but He shall judge the poor with justice, and decide aright for the land’s afflicted. He shall strike the ruthless with the rod of His mouth, and with the breath of His lips He shall slay the wicked. Justice shall be the band around His waist, and faithfulness a belt upon His hips.
+
+[Graduale]
+!Ps 84:8; 84:2
+Show us, O Lord, Thy mercy: and grant us Thy salvation.
+V. Thou hast favoured, O Lord, Thy land: Thou hast turned away the captivity of Jacob.
+
+[Evangelium]
+The continuation of the holy Gospel according to Luke
+!Luke 1:39-47
+At that time, Mary arose and went with haste into the hill country, to a town of Juda. And she entered the house of Zachary and saluted Elizabeth. And it came to pass, when Elizabeth heard the greeting of Mary, that the babe in her womb leapt. And Elizabeth was filled with the Holy Spirit, and cried out with a loud voice, saying, Blessed are you among women and blessed is the fruit of your womb! And how have I deserved that the Mother of my Lord should come to me? For behold, the moment that the sound of your greeting came to my ears, the babe in my womb leapt for joy. And blessed is she who has believed, because the things promised her by the Lord shall be accomplished. And Mary said, My soul magnifies the Lord, and my spirit rejoices in God my Saviour.
+
+[Offertorium]
+!Ps 84:7-8
+Wilt Thou not turn again and quicken us, O God: that Thy people may rejoice in Thee? Shew us Thy mercy, O Lord, and grant us Thy salvation.
+/:The following verses are said through the ferias of the week.:/
+V. Lord, Thou art become gracious unto Thy land: Thou hast turned away the captivity of Jacob: Thou hast forgiven the iniquity of Thy people.
+V. Mercy and truth are met together: truth shall flourish out of the earth, and righteousness hath looked down from heaven.
+
+[Secreta]
+By the saving Sacrifice, we beseech Thee, O Lord, may we be more heartily prepared for these days: in which that Mystery is to be celebrated, on which all fulfilment of commands doth wait.
+$Per Dominum
+
+[Communio]
+!Zach 14:5-6
+Behold, the Lord shall come, and all His saints with Him: and in that day there shall be a great light.
+
+[Postcommunio]
+Fulfil, O Lord, Thy mercy to Thy people that prayeth: and grant that they, being refreshed by the abundance of Thy gifts, may both more instantly ask for a greater measure of grace, and more confidently hope for the same.
+$Per Dominum

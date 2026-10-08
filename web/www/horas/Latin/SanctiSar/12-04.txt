@@ -1,0 +1,13 @@
+[Officium]
+S. Osmundi Episcopi et Confessoris
+
+[Rank]
+;;Semiduplex;;2;;vide C4
+
+[Rule]
+vide C4
+9 lectiones
+
+[Oratio]
+Omnípotens sempitérne Deus, qui nos beáti Osmúndi Confessóris tui atque Pontíficis hodiérna festivitáte lætíficas; tuam súpplices exorámus cleméntiam, ut cujus solémnia devótis offíciis venerámur, ejus piis suffrágiis ætérnæ vitæ remédia consequámur.
+$Per Dominum
